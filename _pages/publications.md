@@ -1,17 +1,36 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-### IN THE YEAR OF 2021
+### IN THE YEAR OF 2022
 
-<ul>
 
 <li>
-Yixing Fan, Xiaohui Xie, Yinqiong Cai, Jia Chen, Xinyu Ma, Xiangsheng Li, <b>Ruqing Zhang</b>, Jiafeng Guo, Yiqun Liu <a target='new' href='https://arxiv.org/pdf/2111.13853.pdf'>Pre-training Methods in Information Retrieval</a>. <i>arXiv preprint arXiv:2111.13853</i>.
+Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.01321'> PRADA: Practical Black-Box Adversarial Attacks against Neural Ranking Models </a> <i>arXiv preprint arXiv:2204.01321</i>.
 </li>
+
+<li>
+Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.05511'> GERE: Generative Evidence Retrieval for Fact Verification </a> <i> The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR2022</b>)</i>. Virtual Event (<b>Short Paper, Acceptance Rate = 24.7%</b>)
+</li>
+
+<li>
+Xinyu Ma, Jiafeng Guo, <b>Ruqing Zhang</b>, Yixing Fan, Xueqi Cheng. <a target='new' href=''> Pre-train a Discriminative Text Encoder for Dense Retrieval via Contrastive Span Prediction </a> <i> The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR2022</b>)</i>. Virtual Event (<b>Full Paper, Acceptance Rate = 20%</b>)
+</li>
+
+<li>
+Sihao Yu, Jiafeng Guo, <b>Ruqing Zhang</b>, Yixing Fan, Zizhen Wang and Xueqi Cheng. <a target='new' href=''> A Re-Balancing Strategy for Class-Imbalanced Classification Based on Instance Difficulty </a> <i> 2022 Conference on Computer Vision and Pattern Recognition  (<b>CVPR2022</b>)</i>. (<b>Full Paper</b>)
+</li>
+
+<li>
+Yixing Fan, Xiaohui Xie, Yinqiong Cai, Jia Chen, Xinyu Ma, Xiangsheng Li, <b>Ruqing Zhang</b>, Jiafeng Guo, Yiqun Liu. <a target='new' href='https://arxiv.org/pdf/2111.13853.pdf'>Pre-training Methods in Information Retrieval</a>. <i>arXiv preprint arXiv:2111.13853</i>.
+</li>
+
+
+### IN THE YEAR OF 2021
+
 
 <li>
 Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2108.05069'>FedMatch: Federated Learning Over Heterogeneous Question Answering Data</a>. <i> 30th ACM International Conference on Information and Knowledge Management (<b>CIKM2021</b>). Queensland, Australia, November 2021 (<b>Full Paper, Acceptance Rate = 21%</b>) </i>
@@ -53,6 +72,63 @@ Xinyu Ma, Jiafeng Guo, <b>Ruqing Zhang</b>, Yixing Fan, Xiang Ji, and Xueqi Chen
 Yixing Fan, Jiafeng Guo, Xinyu Ma, <b>Ruqing Zhang</b>, Yanyan Lan and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2103.00956'>A Linguistic Study on Relevance Modeling in Information Retrieval</a>.  <i>30th The Web Conference (<b>WebConf2021</b>)</i>. Ljubljana, Slovenia. (<b>Full Paper, Acceptance Rate = 20.6%</b>)
 </li>
 
- </ul>
 
+### IN THE YEAR OF 2020
+
+<li>
+<b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, Yanyan Lan, and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2008.10889.pdf'>Query Understanding via Intent Description Generation</a>. <i> The 29th ACM International Conference on Information and Knowledge Management  (<b>CIKM2020</b>)</i>. Virtual Event (<b>Full Oral Paper, Acceptance Rate = 21%</b>)
+</li>
+
+<li>
+Lixin Su, Jiafeng Guo, <b>Ruqing Zhang</b>, Yixing Fan, Yanyan Lan, and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2008.10874.pdf'>Continual Domain Adaptation for Machine Reading Comprehension</a>. <i> The 29th ACM International Conference on Information and Knowledge Management  (<b>CIKM2020</b>)</i>. Virtual Event (<b>Full Oral Paper, Acceptance Rate = 21%</b>)
+</li>
+
+<li>
+<b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, Yanyan Lan, and Xueqi Cheng.<a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3394052'>Dual-factor Generation Model for Conversation</a>. <i>ACM Transactions on Information Systems (<b>TOIS</b>)</i>. 
+</li>
+
+<li><b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, Yanyan Lan, and Xueqi Cheng. <a target='new' href='https://ojs.aaai.org/index.php/AAAI/article/view/6501'>Structure Learning for Headline Generation</a>. <i>The Thirty-Fourth AAAI Conference on Artificial Intelligence (<b>AAAI 2020</b>)</i>. New York, USA. February 2020 (<b>Full Oral Paper, Oral Acceptance Rate = 5.87%</b>)
+</li>
+
+<li>
+Zizhen Wang, Yixing Fan, Jiafeng Guo, Liu Yang, <b>Ruqing Zhang</b>, Yanyan Lan, Xueqi Cheng, Hui Jiang and Xiaozhao Wang. <a target='new' href='https://dl.acm.org/doi/abs/10.1145/3397271.3401143'>Match^2: A Matching over Matching Model for Similar Question Identification</a>. <i>Proceedings of the 43nd International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2020</b>)</i>. Virtual Event (<b>Full Oral Paper, Acceptance Rate = 26%</b>)
+</li>
+
+### IN THE YEAR OF 2019
+
+<li>
+<b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, Yanyan Lan, and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/abs/10.1145/3331184.3331208'>Outline Generation: Understanding the Inherent Content Structure of Documents</a>. <i>Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2019</b>)</i>. Paris, France, pp. 745-754, July 2019 (<b>Full Oral Paper, Acceptance Rate = 20%</b>)[<a href='https://drive.google.com/file/d/1Tein0KTfNdp9h5J8xfwhzvgDQmVbCo1I/view?usp=sharing'>subdataset1</a>][<a href='https://drive.google.com/file/d/1bdsaw4PHSanCMNAggU0vkf3aFfekZwAJ/view?usp=sharing'>subdataset2</a>]
+</li>
+ 
+ <li>
+Lixin Su, Jiafeng Guo, Yixing Fan, Yanyan Lan, <b>Ruqing Zhang</b>, and Xueqi Cheng.  <a target='new' href='https://ojs.aaai.org/index.php/AAAI/article/view/5157'>An Adaptive Framework for Conversational Question Answering</a>. <i>The Thirty-Third AAAI Conference on Artificial Intelligence (<b>AAAI 2019</b>)</i>. Hawaii, USA, pp. 10041-10042, January 2019
+</li>
+
+### IN THE YEAR OF 2018
+ <li>
+ <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, Yanyan Lan, Jun Xu, Huanhuan Cao, and Xueqi Cheng. <a target='new' href='https://gsai.ruc.edu.cn/uploads/20211006/c3f8689df8ff6c4dfd9050e0e2aef383.pdf'>Question Headline Generation for News Articles</a>. <i>The 27th ACM International Conference on Information and Knowledge Management (<b>CIKM 2018</b>)</i>. Torino, Italy, pp. 617-626, October 2018 (<b>Full Oral Paper, Acceptance Rate = 17%</b>) [<a href='https://github.com/daqingchong/QHGCorpus'>dataset</a>]
+</li>
+
+<li>
+
+<b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, Yanyan Lan, Jun Xu, and Xueqi Cheng. <a target='new' href='https://aclanthology.org/P18-1102.pdf'>Learning to Control the Specificity in Neural Response Generation</a>. <i>The 56th Annual Meeting of the Association for Computational Linguistics (<b>ACL 2018</b>)</i>. Melbourne, Australia, pp. 1108-1117, July 2018 (<b>Full Oral Paper, Oral Acceptance Rate = 14.6%</b>) [<a href='https://github.com/daqingchong/Specificity-Controlled-Generation'>code</a>]
+</li>
+
+ <li>
+
+<b>Ruqing Zhang</b>, Jiafeng Guo, Yanyan Lan, Jun Xu, and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/1707.05635.pdf'>Spherical Paragraph Model</a>. <i>The 40th European Conference on Information Retrieval (<b>ECIR 2018</b>)</i>. Grenoble, France, pp. 289–302, March 2018 (<b>Full Oral Paper, Acceptance Rate = 23%</b>)
+</li>
+
+<li>
+<b>Ruqing Zhang</b>, Jiafeng Guo, Yanyan Lan, Jun Xu, and Xueqi Cheng. <a target='new' href='https://link.springer.com/chapter/10.1007/978-3-319-76941-7_23'>Aggregating Neural Word Embeddings for Document Representation </a>. <i>The 40th European Conference on Information Retrieval (<b>ECIR 2018</b>)</i>. Grenoble, France, pp. 303–315, March 2018 (<b>Full Oral Paper, Acceptance Rate = 23%</b>)
+</li>
+
+<li>
+<b>Ruqing Zhang</b>, Jiafeng Guo, Yanyan Lan, Jun Xu, and Xueqi Cheng. <a target='new' href=''> Generative Paragraph Vector</a>. <i>The 24th China Conference on Information Retrieval (<b>CCIR 2018</b>)</i>. Guilin, China, pp. 105-118, September 2018 (<b>Full Oral Paper</b>, <b>Excellent Paper Award</b>)
+</li>
+
+### IN THE YEAR OF 2017
+ <li>
+<b>Ruqing Zhang</b>, Yan Guo, Yue Liu, Xiaoming Yu, and Xueqi Cheng. <a target='new' href=''>Research on Theme Information Extraction of Any Page</a>. <i>Journal of Chinese Information Processing</i>. 31(5):127-137, 2017
+ </li>
 
