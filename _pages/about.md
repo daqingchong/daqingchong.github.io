@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ruqing Zhang is an assistant professor at Institute of Computing Technology, Chinese Academy of Sciences. She received her Ph.D. degree in Computer Science from <a href='http://www.ict.ac.cn'>Institute of Computing Technology</a>, <a href='http://www.cas.cn'>Chinese Academy of Sciences</a>, Beijing, China, under the supervision of <a href='http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496654.html'> Prof. Guojie Li</a> and <a href='http://www.bigdatalab.ac.cn/~gjf/'>Prof. Jiafeng Guo</a>, in 2019. Before that, she received her B.S. degree from <a href='https://scs.bupt.edu.cn'>Department of Computer Science</a>, <a href='https://www.bupt.edu.cn'>Beijing University of Posts and Telecommunications</a>, Beijing, China, in 2014. Her current research is focused on the security and trustworthy in intelligent information assistant.
+Ruqing Zhang (张儒清) is an assistant professor at Institute of Computing Technology, Chinese Academy of Sciences. She received her Ph.D. degree in Computer Science from <a href='http://www.ict.ac.cn'>Institute of Computing Technology</a>, <a href='http://www.cas.cn'>Chinese Academy of Sciences</a>, Beijing, China, under the supervision of <a href='http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496654.html'> Prof. Guojie Li</a> and <a href='http://www.bigdatalab.ac.cn/~gjf/'>Prof. Jiafeng Guo</a>, in 2019. Before that, she received her B.S. degree from <a href='https://scs.bupt.edu.cn'>Department of Computer Science</a>, <a href='https://www.bupt.edu.cn'>Beijing University of Posts and Telecommunications</a>, Beijing, China, in 2014. Her current research is focused on the security and trustworthy in intelligent information assistant.
 
 
 
@@ -18,8 +18,37 @@ Hornors and Awards
  <li>
 2021, Academic New Star of the Institute of Computing Technology, CAS
 </li>
+ <li>
+2021, Excellect Researcher of the Institute of Computing Technology, CAS
+</li>
+<li>
+<a href='https://www.ccf.org.cn/yxbsxwlwjtm/2021-01-14/721439.shtml'>2020, China Computer Federation (CCF) Outstanding Doctoral Dissertation Award Nomination </a>
+ </li>
+<li>
+2019, President Award of Chinese Academy of Sciences
+</li>
+<!-- <li>
+2019, SIGIR Student Travel Award
+</li> -->
+<li>
+2018, Special Award for the Director of the Institute of Computing Technology, CAS
+</li>
+<li>
+2018, National Scholarship for Doctoral Students
+</li>
+<li>
+2018, Excellent Paper Award in Chinese Conference of Information Retrieval (CCIR 2018)
+</li>
+<li>
+2018, Pacemaker to Merit Student
+</li>
 </ul>
 
-
-
+Academic Services
+------
+<ul>
+ <li>
+PC Member: CIKM2022, SIGIR2022, ECIR2022, AAAI2022, EMNLP2021, CIKM2021, SIGIR2021, ACL-IJCNLP2021, NAACL-HLT2021, AAAI2021, CIKM2020, SIGIR2020, ACL2020, AAAI2020, AACL-ICNLP2020, COLING2020, CCIR2019, CCL2019, CCIR2018
+ </li>
+</ul>
 

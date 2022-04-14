@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ruqing Zhang (张儒清)"
-  avatar           : "mstile-70x70.png"
-  bio              : "gggg"
-  location         : "Location"
+  name             : "Ruqing Zhang"
+  avatar           : "image.jpeg"
+  bio              : "zhangruqing@ict.ac.cn"
+  location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -210,14 +210,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  #- scope:
+  #    path: ""
+  #    type: teaching
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comments: true
   # _publications
   - scope:
       path: ""
@@ -228,14 +228,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  # - scope:
+  #    path: ""
+  #    type: portfolio
+  #   values:
+  #     layout: single
+  #    author_profile: true
+  #     share: true
+  #    comment: true
   # _talks
   - scope:
       path: ""
