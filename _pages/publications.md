@@ -10,11 +10,11 @@ IN THE YEAR OF 2022
 ------
 <ul>
 <li>
-Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.01321'> PRADA: Practical Black-Box Adversarial Attacks against Neural Ranking Models </a>. <i>arXiv preprint arXiv:2204.01321</i>.
+Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.01321'> PRADA: Practical Black-Box Adversarial Attacks against Neural Ranking Models </a>. <i>arXiv preprint arXiv:2204.01321</i>. 
 </li>
 
 <li>
-Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.05511'> GERE: Generative Evidence Retrieval for Fact Verification </a>. <i> The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR2022</b>)</i>. Virtual Event (<b>Short Paper, Acceptance Rate = 24.7%</b>)
+Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.05511'> GERE: Generative Evidence Retrieval for Fact Verification </a>. <i> The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR2022</b>)</i>. Virtual Event (<b>Short Paper, Acceptance Rate = 24.7%</b>) [<a href='https://github.com/Chriskuei/GERE'>code</a>]
 </li>
 
 <li>
