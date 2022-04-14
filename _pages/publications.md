@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-# permalink: /publications/
+permalink: /publications/
 author_profile: true
 ---
 <div class="year_style">2021</div>
