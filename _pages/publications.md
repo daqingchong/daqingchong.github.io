@@ -22,7 +22,7 @@ Xinyu Ma, Jiafeng Guo, <b>Ruqing Zhang</b>, Yixing Fan, Xueqi Cheng. <a target='
 </li>
 
 <li>
-Sihao Yu, Jiafeng Guo, <b>Ruqing Zhang</b>, Yixing Fan, Zizhen Wang and Xueqi Cheng. <a target='new' href=''> A Re-Balancing Strategy for Class-Imbalanced Classification Based on Instance Difficulty </a>. <i> 2022 Conference on Computer Vision and Pattern Recognition  (<b>CVPR2022</b>)</i>. (<b>Full Paper， Acceptance Rate = 25.3%</b>)
+Sihao Yu, Jiafeng Guo, <b>Ruqing Zhang</b>, Yixing Fan, Zizhen Wang and Xueqi Cheng. <a target='new' href=''> A Re-Balancing Strategy for Class-Imbalanced Classification Based on Instance Difficulty </a>. <i> 2022 Conference on Computer Vision and Pattern Recognition  (<b>CVPR2022</b>)</i>. New Orleans, Louisiana (<b>Full Paper， Acceptance Rate = 25.3%</b>)
 </li>
 
 <li>
