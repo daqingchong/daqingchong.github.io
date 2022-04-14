@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### IN THE YEAR OF 2021
-<div class="personal_list">
+
 <ul>
 
 <li>
@@ -23,6 +23,7 @@ Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, and Xueqi Cheng. <a targe
 
 <li>
 <b>Ruqing Zhang</b>, Jiafeng Guo, Lu Chen, Yixing Fan, and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/abs/10.1145/3468889'>A Review on Question Generation from Natural Language Text</a>. <i> ACM Transactions on Information Systems (<b>TOIS</b>).
+</li>
 
 <li>
 Yinqiong Cai, Yixing Fan, Jiafeng Guo, <b>Ruqing Zhang</b>, Yanyan Lan and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/abs/10.1145/3471158.3472227'>A Discriminative Semantic Ranker for Question Retrieval</a>. <i>The 7th ACM SIGIR International Conference on the Theory of Information Retrieval (<b>ICTIR2021</b>) </i>.
@@ -30,19 +31,28 @@ Yinqiong Cai, Yixing Fan, Jiafeng Guo, <b>Ruqing Zhang</b>, Yanyan Lan and Xueqi
 
 <li>
 Jiafeng Guo, Yinqiong Cai, Yixing Fan, Fei Sun, <b>Ruqing Zhang</b>, Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2103.04831.pdf'>Semantic Models for the First-stage Retrieval: A Comprehensive Review</a>. <i> ACM Transactions on Information Systems (<b>TOIS</b>). </i>
-    </li>
-
-<li>Xinyu Ma, Jiafeng Guo, <b>Ruqing Zhang</b>, Yixing Fan, Xiang Ji, and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2104.09791'>B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval</a>. <i> The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR2021</b>)</i>. Virtual Event (<b>Full Oral Paper, Acceptance Rate = 21%</b>)
 </li>
 
-<li>Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, Yanyan Lan, and Xueqi Cheng. <a target='new' href='https://www.aaai.org/AAAI21Papers/AAAI-2755.WuC.pdf'>Learning to Truncate Ranked Lists for Information Retrieval</a>. <i> The Thirty-Fifth AAAI Conference on Artificial Intelligence (<b>AAAI2021</b>)</i>. (<b>Full Paper, Acceptance Rate = 21%</b>)
+<li>
+Xinyu Ma, Jiafeng Guo, <b>Ruqing Zhang</b>, Yixing Fan, Xiang Ji, and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2104.09791'>B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval</a>. <i> The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR2021</b>)</i>. Virtual Event (<b>Full Oral Paper, Acceptance Rate = 21%</b>)
 </li>
 
-<li>Lixin Su, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, Jiangui Chen, Yanyan Lan, and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/abs/10.1145/3437963.3441781'>Beyond Relevance: Trustworthy Answer Selection via Consensus Verification</a>. <i> The 14th ACM International Conference on Web Search and Data Mining (<b>WSDM2021</b>)</i>. Virtual Event (<b>Full Oral Paper, Acceptance Rate = 18.6%</b>)
+<li>
+Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, Yanyan Lan, and Xueqi Cheng. <a target='new' href='https://www.aaai.org/AAAI21Papers/AAAI-2755.WuC.pdf'>Learning to Truncate Ranked Lists for Information Retrieval</a>. <i> The Thirty-Fifth AAAI Conference on Artificial Intelligence (<b>AAAI2021</b>)</i>. (<b>Full Paper, Acceptance Rate = 21%</b>)
 </li>
-<li>Xinyu Ma, Jiafeng Guo, <b>Ruqing Zhang</b>, Yixing Fan, Xiang Ji, and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2010.10137'>PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval</a>. <i> The 14th ACM International Conference on Web Search and Data Mining (<b>WSDM2021</b>)</i>. Virtual Event (<b>Full Oral Paper, Acceptance Rate = 18.6%</b>)
+
+<li>
+Lixin Su, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, Jiangui Chen, Yanyan Lan, and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/abs/10.1145/3437963.3441781'>Beyond Relevance: Trustworthy Answer Selection via Consensus Verification</a>. <i> The 14th ACM International Conference on Web Search and Data Mining (<b>WSDM2021</b>)</i>. Virtual Event (<b>Full Oral Paper, Acceptance Rate = 18.6%</b>)
 </li>
-<li>Yixing Fan, Jiafeng Guo, Xinyu Ma, <b>Ruqing Zhang</b>, Yanyan Lan and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2103.00956'>A Linguistic Study on Relevance Modeling in Information Retrieval</a>.  <i>30th The Web Conference (<b>WebConf2021</b>)</i>. Ljubljana, Slovenia. (<b>Full Paper, Acceptance Rate = 20.6%</b>)
+
+<li>
+Xinyu Ma, Jiafeng Guo, <b>Ruqing Zhang</b>, Yixing Fan, Xiang Ji, and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2010.10137'>PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval</a>. <i> The 14th ACM International Conference on Web Search and Data Mining (<b>WSDM2021</b>)</i>. Virtual Event (<b>Full Oral Paper, Acceptance Rate = 18.6%</b>)
 </li>
+
+<li>
+Yixing Fan, Jiafeng Guo, Xinyu Ma, <b>Ruqing Zhang</b>, Yanyan Lan and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2103.00956'>A Linguistic Study on Relevance Modeling in Information Retrieval</a>.  <i>30th The Web Conference (<b>WebConf2021</b>)</i>. Ljubljana, Slovenia. (<b>Full Paper, Acceptance Rate = 20.6%</b>)
+</li>
+
  </ul>
-</div>
+
+
