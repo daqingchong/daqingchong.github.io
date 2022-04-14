@@ -5,9 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-### 2021
+### IN THE YEAR OF 2021
 <div class="personal_list">
 <ul>
+
+<li>
+Yixing Fan, Xiaohui Xie, Yinqiong Cai, Jia Chen, Xinyu Ma, Xiangsheng Li, <b>Ruqing Zhang</b>, Jiafeng Guo, Yiqun Liu <a target='new' href='https://arxiv.org/pdf/2111.13853.pdf'>Pre-training Methods in Information Retrieval</a>. <i>arXiv preprint arXiv:2111.13853</i>.
+</li>
 
 <li>
 Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2108.05069'>FedMatch: Federated Learning Over Heterogeneous Question Answering Data</a>. <i> 30th ACM International Conference on Information and Knowledge Management (<b>CIKM2021</b>). Queensland, Australia, November 2021 (<b>Full Paper, Acceptance Rate = 21%</b>) </i>
@@ -25,7 +29,7 @@ Yinqiong Cai, Yixing Fan, Jiafeng Guo, <b>Ruqing Zhang</b>, Yanyan Lan and Xueqi
 </li>
 
 <li>
-    Yinqiong Cai, Yixing Fan, Jiafeng Guo, Fei Sun, <b>Ruqing Zhang</b>, Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2103.04831.pdf'>Semantic Models for the First-stage Retrieval: A Comprehensive Review</a>. <i> ACM Transactions on Information Systems (<b>TOIS</b>). Accepted. </i>
+Jiafeng Guo, Yinqiong Cai, Yixing Fan, Fei Sun, <b>Ruqing Zhang</b>, Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2103.04831.pdf'>Semantic Models for the First-stage Retrieval: A Comprehensive Review</a>. <i> ACM Transactions on Information Systems (<b>TOIS</b>). </i>
     </li>
 
 <li>Xinyu Ma, Jiafeng Guo, <b>Ruqing Zhang</b>, Yixing Fan, Xiang Ji, and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2104.09791'>B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval</a>. <i> The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR2021</b>)</i>. Virtual Event (<b>Full Oral Paper, Acceptance Rate = 21%</b>)
