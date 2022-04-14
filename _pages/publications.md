@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Selected Publications"
 permalink: /publications/
 author_profile: true
@@ -41,7 +42,7 @@ Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, and Xueqi Cheng. <a targe
 </li>
 
 <li>
-<b>Ruqing Zhang</b>, Jiafeng Guo, Lu Chen, Yixing Fan, and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/abs/10.1145/3468889'>A Review on Question Generation from Natural Language Text</a>. <i> ACM Transactions on Information Systems (<b>TOIS</b>).
+<b>Ruqing Zhang</b>, Jiafeng Guo, Lu Chen, Yixing Fan, and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/abs/10.1145/3468889'>A Review on Question Generation from Natural Language Text</a>. <i> ACM Transactions on Information Systems (<b>TOIS</b>).</i>
 </li>
 
 <li>
