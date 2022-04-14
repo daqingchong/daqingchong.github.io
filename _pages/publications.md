@@ -7,7 +7,7 @@ author_profile: true
 
 ### IN THE YEAR OF 2022
 
-
+<ul>
 <li>
 Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.01321'> PRADA: Practical Black-Box Adversarial Attacks against Neural Ranking Models </a> <i>arXiv preprint arXiv:2204.01321</i>.
 </li>
@@ -27,7 +27,7 @@ Sihao Yu, Jiafeng Guo, <b>Ruqing Zhang</b>, Yixing Fan, Zizhen Wang and Xueqi Ch
 <li>
 Yixing Fan, Xiaohui Xie, Yinqiong Cai, Jia Chen, Xinyu Ma, Xiangsheng Li, <b>Ruqing Zhang</b>, Jiafeng Guo, Yiqun Liu. <a target='new' href='https://arxiv.org/pdf/2111.13853.pdf'>Pre-training Methods in Information Retrieval</a>. <i>arXiv preprint arXiv:2111.13853</i>.
 </li>
-
+</ul>
 
 ### IN THE YEAR OF 2021
 
