@@ -10,19 +10,19 @@ IN THE YEAR OF 2022
 ------
 <ul>
 <li>
-Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.01321'> PRADA: Practical Black-Box Adversarial Attacks against Neural Ranking Models </a> <i>arXiv preprint arXiv:2204.01321</i>.
+Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.01321'> PRADA: Practical Black-Box Adversarial Attacks against Neural Ranking Models </a>. <i>arXiv preprint arXiv:2204.01321</i>.
 </li>
 
 <li>
-Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.05511'> GERE: Generative Evidence Retrieval for Fact Verification </a> <i> The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR2022</b>)</i>. Virtual Event (<b>Short Paper, Acceptance Rate = 24.7%</b>)
+Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.05511'> GERE: Generative Evidence Retrieval for Fact Verification </a>. <i> The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR2022</b>)</i>. Virtual Event (<b>Short Paper, Acceptance Rate = 24.7%</b>)
 </li>
 
 <li>
-Xinyu Ma, Jiafeng Guo, <b>Ruqing Zhang</b>, Yixing Fan, Xueqi Cheng. <a target='new' href=''> Pre-train a Discriminative Text Encoder for Dense Retrieval via Contrastive Span Prediction </a> <i> The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR2022</b>)</i>. Virtual Event (<b>Full Paper, Acceptance Rate = 20%</b>)
+Xinyu Ma, Jiafeng Guo, <b>Ruqing Zhang</b>, Yixing Fan, Xueqi Cheng. <a target='new' href=''> Pre-train a Discriminative Text Encoder for Dense Retrieval via Contrastive Span Prediction </a>. <i> The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR2022</b>)</i>. Virtual Event (<b>Full Paper, Acceptance Rate = 20%</b>)
 </li>
 
 <li>
-Sihao Yu, Jiafeng Guo, <b>Ruqing Zhang</b>, Yixing Fan, Zizhen Wang and Xueqi Cheng. <a target='new' href=''> A Re-Balancing Strategy for Class-Imbalanced Classification Based on Instance Difficulty </a> <i> 2022 Conference on Computer Vision and Pattern Recognition  (<b>CVPR2022</b>)</i>. (<b>Full Paper</b>)
+Sihao Yu, Jiafeng Guo, <b>Ruqing Zhang</b>, Yixing Fan, Zizhen Wang and Xueqi Cheng. <a target='new' href=''> A Re-Balancing Strategy for Class-Imbalanced Classification Based on Instance Difficulty </a>. <i> 2022 Conference on Computer Vision and Pattern Recognition  (<b>CVPR2022</b>)</i>. (<b>Full Paper</b>)
 </li>
 
 <li>
