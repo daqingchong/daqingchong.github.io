@@ -9,6 +9,11 @@ author_profile: true
 IN THE YEAR OF 2022
 ------
 <ul>
+
+<li>
+Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2108.05018'>Are Neural Ranking Models Robust?</a>. <i> ACM Transactions on Information Systems (<b>TOIS</b>). </i>
+</li>
+
 <li>
 Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.01321'> PRADA: Practical Black-Box Adversarial Attacks against Neural Ranking Models </a>. <i>arXiv preprint arXiv:2204.01321</i>. 
 </li>
@@ -37,9 +42,6 @@ IN THE YEAR OF 2021
 Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2108.05069'>FedMatch: Federated Learning Over Heterogeneous Question Answering Data</a>. <i> 30th ACM International Conference on Information and Knowledge Management (<b>CIKM2021</b>). Queensland, Australia, November 2021 (<b>Full Paper, Acceptance Rate = 21%</b>) </i>
 </li>
 
-<li>
-Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2108.05018'>Are Neural Ranking Models Robust?</a>. <i>arXiv preprint arXiv:2108:05018</i>.
-</li>
 
 <li>
 <b>Ruqing Zhang</b>, Jiafeng Guo, Lu Chen, Yixing Fan, and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/abs/10.1145/3468889'>A Review on Question Generation from Natural Language Text</a>. <i> ACM Transactions on Information Systems (<b>TOIS</b>). </i>
