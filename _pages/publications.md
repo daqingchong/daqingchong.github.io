@@ -11,11 +11,15 @@ IN THE YEAR OF 2022
 <ul>
 
 <li>
+Shaojie Jiang, <b>Ruqing Zhang</b>, Svitlana Vakulenko, Maarten de Rijke. <a target='new' href='https://arxiv.org/abs/2205.02517'>A Simple Contrastive Learning Objective for Alleviating Neural Text Degeneration </a>. <i>arXiv preprint arXiv:2205.02517. </i>
+</li>
+
+<li>
 Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2108.05018'>Are Neural Ranking Models Robust?</a>. <i> ACM Transactions on Information Systems (<b>TOIS</b>). </i>
 </li>
 
 <li>
-Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.01321'> PRADA: Practical Black-Box Adversarial Attacks against Neural Ranking Models </a>. <i>arXiv preprint arXiv:2204.01321</i>. 
+Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.01321'> PRADA: Practical Black-Box Adversarial Attacks against Neural Ranking Models </a>. <i>arXiv preprint arXiv:2204.01321.</i>
 </li>
 
 <li>
