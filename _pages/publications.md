@@ -12,31 +12,31 @@ IN THE YEAR OF 2022
 
 
 <li>
-Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Yiqun Liu, Yixing Fan and Xueqi Cheng. <a target='new' href=''>CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>) </i>. Hybrid Conference, Hosted in Atlanta, Georgia, USA (<b>Full Paper</b>)
+Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Yiqun Liu, Yixing Fan and Xueqi Cheng. <a target='new' href=''>CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>)</i>. Hybrid Conference, Hosted in Atlanta, Georgia, USA (<b>Full Paper</b>)
 </li>
 
 <li>
-Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Wei Chen, Yixing Fan, Maarten de Rijke and Xueqi Cheng. <a target='new' href=''>Certified Robustness to Word Substitution Ranking Attack for Neural Ranking Models</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>) </i>. Hybrid Conference, Hosted in Atlanta, Georgia, USA (<b>Full Paper</b>)
+Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Wei Chen, Yixing Fan, Maarten de Rijke and Xueqi Cheng. <a target='new' href=''>Certified Robustness to Word Substitution Ranking Attack for Neural Ranking Models</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>)</i>. Hybrid Conference, Hosted in Atlanta, Georgia, USA (<b>Full Paper</b>)
 </li>
 
 <li>
-Xinyu Ma, Jiafeng Guo, <b>Ruqing Zhang</b>, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Scattered or Connected? An Optimized Parameter-efficient Tuning Approach for Information Retrieval</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>) </i>. Hybrid Conference, Hosted in Atlanta, Georgia, USA (<b>Full Paper</b>)
+Xinyu Ma, Jiafeng Guo, <b>Ruqing Zhang</b>, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Scattered or Connected? An Optimized Parameter-efficient Tuning Approach for Information Retrieval</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>)</i>. Hybrid Conference, Hosted in Atlanta, Georgia, USA (<b>Full Paper</b>)
 </li>
 
 <li>
-Yinqiong Cai, Jiafeng Guo, Yixing Fan, Qingyao Ai, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href=''>Hard Negatives or False Negatives: Correcting Pooling Bias in Training Neural Ranking Models</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>) </i>. Hybrid Conference, Hosted in Atlanta, Georgia, USA (<b>Full Paper</b>)
+Yinqiong Cai, Jiafeng Guo, Yixing Fan, Qingyao Ai, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href=''>Hard Negatives or False Negatives: Correcting Pooling Bias in Training Neural Ranking Models</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>)</i>. Hybrid Conference, Hosted in Atlanta, Georgia, USA (<b>Full Paper</b>)
 </li>
 
 <li>
-Xinyu Ma, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan and Xueqi Cheng. <a target='new' href=''>A Contrastive Pre-training Approach to Discriminative Autoencoder for Dense Retrieval</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>) </i>. Hybrid Conference, Hosted in Atlanta, Georgia, USA (<b>Short Paper</b>)
+Xinyu Ma, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan and Xueqi Cheng. <a target='new' href=''>A Contrastive Pre-training Approach to Discriminative Autoencoder for Dense Retrieval</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>)</i>. Hybrid Conference, Hosted in Atlanta, Georgia, USA (<b>Short Paper</b>)
 </li>
 
 <li>
-Lu Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Discriminative Language Model via Self-Teaching for Dense Retrieval</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>) </i>. Hybrid Conference, Hosted in Atlanta, Georgia, USA (<b>Short Paper</b>)
+Lu Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Discriminative Language Model via Self-Teaching for Dense Retrieval</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>)</i>. Hybrid Conference, Hosted in Atlanta, Georgia, USA (<b>Short Paper</b>)
 </li>
 
 <li>
-Shaojie Jiang, <b>Ruqing Zhang</b>, Svitlana Vakulenko, Maarten de Rijke. <a target='new' href='https://arxiv.org/abs/2205.02517'>A Simple Contrastive Learning Objective for Alleviating Neural Text Degeneration </a>. <i>arXiv preprint arXiv:2205.02517. </i>
+Shaojie Jiang, <b>Ruqing Zhang</b>, Svitlana Vakulenko, Maarten de Rijke. <a target='new' href='https://arxiv.org/abs/2205.02517'>A Simple Contrastive Learning Objective for Alleviating Neural Text Degeneration</a>. <i>arXiv preprint arXiv:2205.02517. </i>
 </li>
 
 <li>
@@ -44,7 +44,7 @@ Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, and Xueqi Cheng. <a targe
 </li>
 
 <li>
-Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.01321'> PRADA: Practical Black-Box Adversarial Attacks against Neural Ranking Models </a>. <i>arXiv preprint arXiv:2204.01321.</i>
+Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.01321'> PRADA: Practical Black-Box Adversarial Attacks against Neural Ranking Models</a>. <i>arXiv preprint arXiv:2204.01321.</i>
 </li>
 
 <li>
