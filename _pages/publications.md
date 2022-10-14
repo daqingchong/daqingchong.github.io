@@ -10,6 +10,9 @@ IN THE YEAR OF 2022
 ------
 <ul>
 
+<li>
+Wenxiang Sun, Yixing Fan, Jiafeng Guo, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href=''>Visual Named Entity Linking: A New Dataset and A Baseline</a>. <i>The 2022 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2022 Findings</b>)</i>.  (<b>Full Paper</b>)
+</li>
 
 <li>
 Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Yiqun Liu, Yixing Fan and Xueqi Cheng. <a target='new' href=''>CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>)</i>. Hybrid Conference (<b>Full Paper</b>)
