@@ -1,15 +1,16 @@
 ---
 permalink: /
 title: "Ruqing Zhang"
-excerpt: "Ruqing Zhangß"
+excerpt: "Ruqing Zhang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Ruqing Zhang (张儒清) is an assistant professor at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). She received her Ph.D. degree in Computer Science from <a href='http://www.ict.ac.cn'>Institute of Computing Technology</a>, <a href='http://www.cas.cn'>Chinese Academy of Sciences</a>, Beijing, China, under the supervision of <a href='http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496654.html'> Prof. Guojie Li</a> and <a href='https://scholar.google.com/citations?user=nD0I3PUAAAAJ&hl=en'>Prof. Jiafeng Guo</a>, in 2019. Before that, she received her B.S. degree from <a href='https://scs.bupt.edu.cn'>Department of Computer Science</a>, <a href='https://www.bupt.edu.cn'>Beijing University of Posts and Telecommunications</a>, Beijing, China, in 2014. Her research area is information retrieval (IR), especially how to improve the performance of information retrieval using generative models, how to improve the robustness of ranking models, and how to make information retrieval trustworthy with the lens of “causality”.
+Ruqing Zhang (张儒清) is currently an Associate Professor at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). She received her Ph.D. degree in Computer Science from <a href='http://www.ict.ac.cn'>Institute of Computing Technology</a>, <a href='http://www.cas.cn'>Chinese Academy of Sciences</a>, Beijing, China, under the supervision of <a href='http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496654.html'> Prof. Guojie Li</a> and <a href='https://scholar.google.com/citations?user=nD0I3PUAAAAJ&hl=en'>Prof. Jiafeng Guo</a>, in 2019. Before that, she received her B.S. degree from <a href='https://scs.bupt.edu.cn'>Department of Computer Science</a>, <a href='https://www.bupt.edu.cn'>Beijing University of Posts and Telecommunications</a>, Beijing, China, in 2014. 
 
+Her research area is information retrieval (IR), especially how to design generative models for information retrieval, how to improve the robustness of ranking models, and how to make information retrieval trustworthy with the lens of "causality". She has authored more than 30 referred publications at well-known international journals and conferences, e.g., ACM TOIS, SIGIR, WWW, CIKM, ACL, AAAI, etc. 
 
 
 Hornors and Awards
