@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ruqing Zhang (张儒清) is currently an Associate Professor in Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). She received her Ph.D. degree in Computer Science from <a href='http://www.ict.ac.cn'>Institute of Computing Technology</a>, <a href='http://www.cas.cn'>Chinese Academy of Sciences</a> under the supervision of <a href='http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496654.html'> Prof. Guojie Li</a> and <a href='https://scholar.google.com/citations?user=nD0I3PUAAAAJ&hl=en'>Prof. Jiafeng Guo</a>, in 2019. Before that, she received her B.S. degree from <a href='https://scs.bupt.edu.cn'>Department of Computer Science</a>, <a href='https://www.bupt.edu.cn'>Beijing University of Posts and Telecommunications</a> in 2014. 
+Ruqing Zhang (张儒清) is currently an Associate Professor in Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). She received her Ph.D. degree in Computer Science from <a href='http://www.ict.ac.cn'>Institute of Computing Technology</a>, <a href='http://www.cas.cn'>Chinese Academy of Sciences</a> under the supervision of <a href='http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496654.html'> Prof. Guojie Li</a> and <a href='https://scholar.google.com/citations?user=nD0I3PUAAAAJ&hl=en'>Prof. Jiafeng Guo</a>, in 2019. Before that, she received her B.S. degree from <a href='https://scs.bupt.edu.cn'>Department of Computer Science</a>, <a href='https://www.bupt.edu.cn'>Beijing University of Posts and Telecommunications</a> in 2014. From Nov. 2022 to now, I am visiting the <a href='https://irlab.science.uva.nl/'>IRLab</a> at University of Amsterdam, where I work with <a href='https://staff.fnwi.uva.nl/m.derijke/'>Prof. Maarten de Rijke</a>. 
 
 Her research area is information retrieval (IR), especially how to design generative models for information retrieval, how to improve the robustness of ranking models, and how to make information retrieval trustworthy with the lens of "causality". She has authored more than 30 referred publications at well-known international journals and conferences, e.g., ACM TOIS, SIGIR, WWW, CIKM, WSDM, ACL, etc. 
 
@@ -49,7 +49,7 @@ Academic Services
 ------
 <ul>
  <li>
-PC Member: ECIR2023, EMNLP2022, CIKM2022, SIGIR2022, ECIR2022, AAAI2022, EMNLP2021, CIKM2021, SIGIR2021, ACL-IJCNLP2021, NAACL-HLT2021, AAAI2021, CIKM2020, SIGIR2020, ACL2020, AAAI2020, AACL-ICNLP2020, COLING2020, CCIR2019, CCL2019, CCIR2018
+PC Member: ACL2023, CVPR2023, ECIR2023, EMNLP2022, CIKM2022, SIGIR2022, ECIR2022, AAAI2022, EMNLP2021, CIKM2021, SIGIR2021, ACL-IJCNLP2021, NAACL-HLT2021, AAAI2021, CIKM2020, SIGIR2020, ACL2020, AAAI2020, AACL-ICNLP2020, COLING2020, CCIR2019, CCL2019, CCIR2018
  </li>
 </ul>
 
