@@ -11,31 +11,35 @@ IN THE YEAR OF 2022
 <ul>
 
 <li>
-Wenxiang Sun, Yixing Fan, Jiafeng Guo, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href=''>Visual Named Entity Linking: A New Dataset and A Baseline</a>. <i>The 2022 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2022 Findings</b>)</i>.  (<b>Full Paper</b>)
+Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.01321'> PRADA: Practical Black-Box Adversarial Attacks against Neural Ranking Models</a>. <i> ACM Transactions on Information Systems (<b>TOIS</b>). </i>
 </li>
 
 <li>
-Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Yiqun Liu, Yixing Fan and Xueqi Cheng. <a target='new' href=''>CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>)</i>. Hybrid Conference (<b>Full Paper</b>)
+Wenxiang Sun, Yixing Fan, Jiafeng Guo, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2211.04872.pdf'>Visual Named Entity Linking: A New Dataset and A Baseline</a>. <i>The 2022 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2022 Findings</b>)</i>.  (<b>Full Paper</b>)
 </li>
 
 <li>
-Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Wei Chen, Yixing Fan, Maarten de Rijke and Xueqi Cheng. <a target='new' href=''>Certified Robustness to Word Substitution Ranking Attack for Neural Ranking Models</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>)</i>. Hybrid Conference (<b>Full Paper</b>)
+Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Yiqun Liu, Yixing Fan and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3511808.3557271'>CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>)</i>. Hybrid Conference (<b>Full Paper</b>)
 </li>
 
 <li>
-Xinyu Ma, Jiafeng Guo, <b>Ruqing Zhang</b>, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Scattered or Connected? An Optimized Parameter-efficient Tuning Approach for Information Retrieval</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>)</i>. Hybrid Conference (<b>Full Paper</b>)
+Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Wei Chen, Yixing Fan, Maarten de Rijke and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3511808.3557256'>Certified Robustness to Word Substitution Ranking Attack for Neural Ranking Models</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>)</i>. Hybrid Conference (<b>Full Paper</b>)
 </li>
 
 <li>
-Yinqiong Cai, Jiafeng Guo, Yixing Fan, Qingyao Ai, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href=''>Hard Negatives or False Negatives: Correcting Pooling Bias in Training Neural Ranking Models</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>)</i>. Hybrid Conference (<b>Full Paper</b>)
+Xinyu Ma, Jiafeng Guo, <b>Ruqing Zhang</b>, Yixing Fan and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3511808.3557445'>Scattered or Connected? An Optimized Parameter-efficient Tuning Approach for Information Retrieval</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>)</i>. Hybrid Conference (<b>Full Paper</b>)
 </li>
 
 <li>
-Xinyu Ma, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan and Xueqi Cheng. <a target='new' href=''>A Contrastive Pre-training Approach to Discriminative Autoencoder for Dense Retrieval</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>)</i>. Hybrid Conference (<b>Short Paper</b>)
+Yinqiong Cai, Jiafeng Guo, Yixing Fan, Qingyao Ai, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3511808.3557343'>Hard Negatives or False Negatives: Correcting Pooling Bias in Training Neural Ranking Models</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>)</i>. Hybrid Conference (<b>Full Paper</b>)
 </li>
 
 <li>
-Lu Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Discriminative Language Model via Self-Teaching for Dense Retrieval</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>)</i>. Hybrid Conference (<b>Short Paper</b>)
+Xinyu Ma, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3511808.3557527'>A Contrastive Pre-training Approach to Discriminative Autoencoder for Dense Retrieval</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>)</i>. Hybrid Conference (<b>Short Paper</b>)
+</li>
+
+<li>
+Lu Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3511808.3557582'>Discriminative Language Model via Self-Teaching for Dense Retrieval</a>. <i>The 31st ACM International Conference on Information and Knowledge Management (<b>CIKM2022</b>)</i>. Hybrid Conference (<b>Short Paper</b>)
 </li>
 
 <li>
@@ -46,9 +50,6 @@ Shaojie Jiang, <b>Ruqing Zhang</b>, Svitlana Vakulenko, Maarten de Rijke. <a tar
 Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2108.05018'>Are Neural Ranking Models Robust?</a>. <i> ACM Transactions on Information Systems (<b>TOIS</b>). </i>
 </li>
 
-<li>
-Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.01321'> PRADA: Practical Black-Box Adversarial Attacks against Neural Ranking Models</a>. <i>arXiv preprint arXiv:2204.01321.</i>
-</li>
 
 <li>
 Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.05511'> GERE: Generative Evidence Retrieval for Fact Verification </a>. <i> The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR2022</b>)</i>. Virtual Event (<b>Short Paper, Acceptance Rate = 24.7%</b>) [<a href='https://github.com/Chriskuei/GERE'>code</a>]
