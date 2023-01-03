@@ -67,7 +67,7 @@ Sihao Yu, Jiafeng Guo, <b>Ruqing Zhang</b>, Yixing Fan, Zizhen Wang and Xueqi Ch
 </li>
 
 <li>
-Yixing Fan, Xiaohui Xie, Yinqiong Cai, Jia Chen, Xinyu Ma, Xiangsheng Li, <b>Ruqing Zhang</b>, Jiafeng Guo, Yiqun Liu. <a target='new' href='https://arxiv.org/pdf/2111.13853.pdf'>Pre-training Methods in Information Retrieval</a>. <i>Foundations and Trends in Information Retrieval (<b>(FnTIR)</b>)</i>.
+Yixing Fan, Xiaohui Xie, Yinqiong Cai, Jia Chen, Xinyu Ma, Xiangsheng Li, <b>Ruqing Zhang</b> and Jiafeng Guo <a target='new' href='https://arxiv.org/pdf/2111.13853.pdf'>Pre-training Methods in Information Retrieval</a>. <i>Foundations and Trends in Information Retrieval (<b>FnTIR</b>)</i>.
 </li>
 </ul>
 
