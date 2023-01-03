@@ -10,6 +10,9 @@ IN THE YEAR OF 2022
 ------
 <ul>
 
+<li>Sihao Yu, Fei Sun, Jiafeng Guo, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2210.16023.pdf'> LegoNet: A Fast and Exact Unlearning Architecture</a>. <i> arXiv preprint arXiv:2210.16023. </i>
+</li>
+
 <li>
 Chen Wu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2204.01321'> PRADA: Practical Black-Box Adversarial Attacks against Neural Ranking Models</a>. <i> ACM Transactions on Information Systems (<b>TOIS</b>). </i>
 </li>
@@ -64,7 +67,7 @@ Sihao Yu, Jiafeng Guo, <b>Ruqing Zhang</b>, Yixing Fan, Zizhen Wang and Xueqi Ch
 </li>
 
 <li>
-Yixing Fan, Xiaohui Xie, Yinqiong Cai, Jia Chen, Xinyu Ma, Xiangsheng Li, <b>Ruqing Zhang</b>, Jiafeng Guo, Yiqun Liu. <a target='new' href='https://arxiv.org/pdf/2111.13853.pdf'>Pre-training Methods in Information Retrieval</a>. <i>arXiv preprint arXiv:2111.13853</i>.
+Yixing Fan, Xiaohui Xie, Yinqiong Cai, Jia Chen, Xinyu Ma, Xiangsheng Li, <b>Ruqing Zhang</b>, Jiafeng Guo, Yiqun Liu. <a target='new' href='https://arxiv.org/pdf/2111.13853.pdf'>Pre-training Methods in Information Retrieval</a>. <i>Foundations and Trends in Information Retrieval (<b>(FnTIR)</b>)</i>.
 </li>
 </ul>
 
