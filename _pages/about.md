@@ -17,10 +17,10 @@ Hornors and Awards
 ------
 <ul>
  <li>
-2021, Academic New Star of the Institute of Computing Technology, CAS
+2021, Academic New Star in Institute of Computing Technology, CAS
 </li>
  <li>
-2021, Excellect Researcher of the Institute of Computing Technology, CAS
+2021, Excellect Researcher in Institute of Computing Technology, CAS
 </li>
 <li>
 <a href='https://www.ccf.org.cn/yxbsxwlwjtm/2021-01-14/721439.shtml'>2020, China Computer Federation (CCF) Outstanding Doctoral Dissertation Award Nomination </a>
@@ -32,7 +32,7 @@ Hornors and Awards
 2019, SIGIR Student Travel Award
 </li> -->
 <li>
-2018, Special Award for the Director of the Institute of Computing Technology, CAS
+2018, Special Award of the Director of the Institute of Computing Technology, CAS
 </li>
 <li>
 2018, National Scholarship for Doctoral Students
@@ -49,7 +49,7 @@ Academic Services
 ------
 <ul>
  <li>
-PC Member: ACL2023, CVPR2023, ECIR2023, EMNLP2022, CIKM2022, SIGIR2022, ECIR2022, AAAI2022, EMNLP2021, CIKM2021, SIGIR2021, ACL-IJCNLP2021, NAACL-HLT2021, AAAI2021, CIKM2020, SIGIR2020, ACL2020, AAAI2020, AACL-ICNLP2020, COLING2020, CCIR2019, CCL2019, CCIR2018
+PC Member: SIGIR2023, ACL2023, CVPR2023, ECIR2023, EMNLP2022, CIKM2022, SIGIR2022, ECIR2022, AAAI2022, EMNLP2021, CIKM2021, SIGIR2021, ACL-IJCNLP2021, NAACL-HLT2021, AAAI2021, CIKM2020, SIGIR2020, ACL2020, AAAI2020, AACL-ICNLP2020, COLING2020, CCIR2019, CCL2019, CCIR2018
  </li>
 </ul>
 
