@@ -6,6 +6,15 @@ author_profile: true
 ---
 
 
+IN THE YEAR OF 2023
+------
+<ul>
+<li>
+Yiyi Liu, <b>Ruqing Zhang</b>, Yixing Fan, Jiafeng Guo and Xueqi Cheng. <a target='new' href=''>Prompt Tuning with Contradictory Intentions for Sarcasm Recognition</a>. <i>The 17th Conference of the European Chapter of the Association for Computational Linguistics (<b>EACL 2023 Main</b>)</i>.  (<b>Full Paper</b>)
+</li>
+</ul>
+
+
 IN THE YEAR OF 2022
 ------
 <ul>
