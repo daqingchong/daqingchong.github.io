@@ -19,6 +19,9 @@ IN THE YEAR OF 2022
 ------
 <ul>
 
+<li>Yuting Wang, Yiyi Liu, <b>Ruqing Zhang</b>, Yixing Fan and Jiafeng Guo. <a target='new' href='https://aclanthology.org/2022.flp-1.11.pdf'> Euphemism Detection by Transformers and Relational Graph Attention Network</a>. <i> Proceedings of the 3rd Workshop on Figurative Language Processing (FLP). </i>
+</li>
+
 <li>Sihao Yu, Fei Sun, Jiafeng Guo, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2210.16023.pdf'> LegoNet: A Fast and Exact Unlearning Architecture</a>. <i> arXiv preprint arXiv:2210.16023. </i>
 </li>
 

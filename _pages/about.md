@@ -10,7 +10,7 @@ redirect_from:
 
 Ruqing Zhang (张儒清) is currently an Associate Professor in Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). She received her Ph.D. degree in Computer Science from <a href='http://www.ict.ac.cn'>Institute of Computing Technology</a>, <a href='http://www.cas.cn'>Chinese Academy of Sciences</a> under the supervision of <a href='http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496654.html'> Prof. Guojie Li</a> and <a href='https://scholar.google.com/citations?user=nD0I3PUAAAAJ&hl=en'>Prof. Jiafeng Guo</a>, in 2019. Before that, she received her B.S. degree from <a href='https://scs.bupt.edu.cn'>Department of Computer Science</a>, <a href='https://www.bupt.edu.cn'>Beijing University of Posts and Telecommunications</a> in 2014. From Nov. 2022 to now, she is visiting the <a href='https://irlab.science.uva.nl/'>IRLab</a> at University of Amsterdam, where she works with <a href='https://staff.fnwi.uva.nl/m.derijke/'>Prof. Maarten de Rijke</a>. 
 
-Her research area is information retrieval (IR), especially how to design generative models for information retrieval, how to improve the robustness of ranking models, and how to make information retrieval trustworthy with the lens of "causality". She has authored more than 30 referred publications at well-known international journals and conferences, e.g., ACM TOIS, SIGIR, WWW, CIKM, WSDM, ACL, etc. 
+Her research area is information retrieval (IR), especially how to design generative models for information retrieval, how to improve the robustness of ranking models, and how to make information retrieval trustworthy with the lens of "causality". She has authored more than 40 referred publications at well-known international journals and conferences, e.g., ACM TOIS, SIGIR, WWW, CIKM, WSDM, ACL, etc. 
 
 
 Hornors and Awards
@@ -28,9 +28,6 @@ Hornors and Awards
 <li>
 2019, President Award of Chinese Academy of Sciences
 </li>
-<!-- <li>
-2019, SIGIR Student Travel Award
-</li> -->
 <li>
 2018, Special Award of the Director of the Institute of Computing Technology, CAS
 </li>
@@ -39,9 +36,6 @@ Hornors and Awards
 </li>
 <li>
 2018, Excellent Paper Award in Chinese Conference of Information Retrieval (CCIR 2018)
-</li>
-<li>
-2018, Pacemaker to Merit Student
 </li>
 </ul>
 
@@ -60,7 +54,4 @@ PC Member: SIGIR2023, ACL2023, CVPR2023, ECIR2023, EMNLP2022, CIKM2022, SIGIR202
 }
 </style>
 
-<div class="container">
-<a href="https://clustrmaps.com/site/1bnut"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=znV8pNbPke_bsXMs1IANpaMX5uPcELB99Wojbw0EZ2U&cl=ffffff" /></a>
-</div>
 
