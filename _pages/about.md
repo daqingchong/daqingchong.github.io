@@ -13,6 +13,14 @@ Ruqing Zhang (张儒清) is currently an Associate Professor in Institute of Com
 Her research area is information retrieval (IR), especially how to design generative models for information retrieval, how to improve the robustness of ranking models, and how to make information retrieval trustworthy with the lens of "causality". She has authored more than 40 referred publications at well-known international journals and conferences, e.g., ACM TOIS, SIGIR, WWW, CIKM, WSDM, ACL, etc. 
 
 
+Workshops
+------
+<ul>
+<li>
+I will co-organize <a href='https://coda.io/@sigir/gen-ir'>The First Workshop on Generative Information Retrieval (Gen-IR)</a> at SIGIR 2023.
+</li>
+</ul>
+
 Hornors and Awards
 ------
 <ul>
