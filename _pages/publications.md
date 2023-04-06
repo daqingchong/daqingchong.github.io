@@ -9,6 +9,19 @@ author_profile: true
 IN THE YEAR OF 2023
 ------
 <ul>
+
+<li>
+Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yiqun Liu, Yixing Fan and Xueqi Cheng. <a target='new' href=''>A Unified Generative Retriever for Knowledge-Intensive Language Tasks via Prompt Learning</a>. <i>The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2023</b>)</i>. Taiwan. (<b>Full Paper, Acceptance Rate = 20.1%</b>)
+</li>
+
+<li>
+Yuan Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models</a>. <i>The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2023</b>)</i>. Taiwan. (<b>Full Paper, Acceptance Rate = 20.1%</b>)
+</li>
+
+<li>
+Garbiel Bénédict, <b>Ruqing Zhang</b> and Donald Metzler. <a target='new' href=''>Gen-IR@SIGIR 2023: The FirstWorkshop on Generative Information Retrieval</a>. <i>The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2023</b>)</i>. Taiwan. (<b>Workshop</b>)
+</li>
+
 <li>
 Yiyi Liu, <b>Ruqing Zhang</b>, Yixing Fan, Jiafeng Guo and Xueqi Cheng. <a target='new' href=''>Prompt Tuning with Contradictory Intentions for Sarcasm Recognition</a>. <i>The 17th Conference of the European Chapter of the Association for Computational Linguistics (<b>EACL 2023 Main</b>)</i>.  (<b>Full Paper</b>)
 </li>
