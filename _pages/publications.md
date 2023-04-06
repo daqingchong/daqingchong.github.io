@@ -11,15 +11,15 @@ IN THE YEAR OF 2023
 <ul>
 
 <li>
-Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yiqun Liu, Yixing Fan and Xueqi Cheng. <a target='new' href=''>A Unified Generative Retriever for Knowledge-Intensive Language Tasks via Prompt Learning</a>. <i>The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2023</b>)</i>. Taiwan. (<b>Full Paper, Acceptance Rate = 20.1%</b>)
+Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yiqun Liu, Yixing Fan and Xueqi Cheng. <a target='new' href=''>A Unified Generative Retriever for Knowledge-Intensive Language Tasks via Prompt Learning</a>. <i>The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2023</b>)</i>. Taiwan (<b>Full Paper, Acceptance Rate = 20.1%</b>)
 </li>
 
 <li>
-Yuan Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models</a>. <i>The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2023</b>)</i>. Taiwan. (<b>Full Paper, Acceptance Rate = 20.1%</b>)
+Yuan Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models</a>. <i>The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2023</b>)</i>. Taiwan (<b>Full Paper, Acceptance Rate = 20.1%</b>)
 </li>
 
 <li>
-Garbiel Bénédict, <b>Ruqing Zhang</b> and Donald Metzler. <a target='new' href=''>Gen-IR@SIGIR 2023: The FirstWorkshop on Generative Information Retrieval</a>. <i>The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2023</b>)</i>. Taiwan. (<b>Workshop</b>)
+Garbiel Bénédict, <b>Ruqing Zhang</b> and Donald Metzler. <a target='new' href=''>Gen-IR@SIGIR 2023: The First Workshop on Generative Information Retrieval</a>. <i>The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2023</b>)</i>. Taiwan (<b>Workshop</b>)
 </li>
 
 <li>
