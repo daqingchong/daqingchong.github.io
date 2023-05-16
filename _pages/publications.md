@@ -11,6 +11,10 @@ IN THE YEAR OF 2023
 <ul>
 
 <li>
+Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo, Jiangui Chen, Zuowei Zhu, Shuaiqiang Wang, Dawei Yin and Xueqi Cheng. <a target='new' href=''>Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies </a>. <i>29th SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD 2023</b>)</i>. (<b>Full Paper</b>)
+</li>
+
+<li>
 Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yiqun Liu, Yixing Fan and Xueqi Cheng. <a target='new' href=''>A Unified Generative Retriever for Knowledge-Intensive Language Tasks via Prompt Learning</a>. <i>The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2023</b>)</i>. (<b>Full Paper, Acceptance Rate = 20.1%</b>)
 </li>
 
