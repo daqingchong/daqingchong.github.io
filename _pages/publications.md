@@ -11,23 +11,27 @@ IN THE YEAR OF 2023
 <ul>
 
 <li>
-Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo, Jiangui Chen, Zuowei Zhu, Shuaiqiang Wang, Dawei Yin and Xueqi Cheng. <a target='new' href=''>Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies </a>. <i>29th SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD 2023</b>)</i>. (<b>Full Paper</b>)
+Yuan Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Wei Chen and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2306.12756.pdf'>On the Robustness of Generative Retrieval Models: An Out-of-Distribution Perspective</a>. <i> Gen-IR Workshop@SIGIR2023 </i>
 </li>
 
 <li>
-Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yiqun Liu, Yixing Fan and Xueqi Cheng. <a target='new' href=''>A Unified Generative Retriever for Knowledge-Intensive Language Tasks via Prompt Learning</a>. <i>The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2023</b>)</i>. (<b>Full Paper, Acceptance Rate = 20.1%</b>)
+Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo, Jiangui Chen, Zuowei Zhu, Shuaiqiang Wang, Dawei Yin and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2305.15115.pdf'>Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies </a>. <i>29th SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD 2023</b>)</i>. (<b>Full Paper</b>)
 </li>
 
 <li>
-Yuan Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models</a>. <i>The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2023</b>)</i>. (<b>Full Paper, Acceptance Rate = 20.1%</b>)
+Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yiqun Liu, Yixing Fan and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2304.14856.pdf'>A Unified Generative Retriever for Knowledge-Intensive Language Tasks via Prompt Learning</a>. <i>The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2023</b>)</i>. (<b>Full Paper, Acceptance Rate = 20.1%</b>)
 </li>
 
 <li>
-Garbiel Bénédict, <b>Ruqing Zhang</b> and Donald Metzler. <a target='new' href=''>Gen-IR@SIGIR 2023: The First Workshop on Generative Information Retrieval</a>. <i>The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2023</b>)</i>. (<b>Workshop</b>)
+Yuan Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2304.14867.pdf'>Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models</a>. <i>The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2023</b>)</i>. (<b>Full Paper, Acceptance Rate = 20.1%</b>)
 </li>
 
 <li>
-Yiyi Liu, <b>Ruqing Zhang</b>, Yixing Fan, Jiafeng Guo and Xueqi Cheng. <a target='new' href=''>Prompt Tuning with Contradictory Intentions for Sarcasm Recognition</a>. <i>The 17th Conference of the European Chapter of the Association for Computational Linguistics (<b>EACL 2023 Main</b>)</i>.  (<b>Full Paper</b>)
+Garbiel Bénédict, <b>Ruqing Zhang</b> and Donald Metzler. <a target='new' href='https://arxiv.org/pdf/2306.02887.pdf'>Gen-IR@SIGIR 2023: The First Workshop on Generative Information Retrieval</a>. <i>The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2023</b>)</i>. (<b>Workshop</b>)
+</li>
+
+<li>
+Yiyi Liu, <b>Ruqing Zhang</b>, Yixing Fan, Jiafeng Guo and Xueqi Cheng. <a target='new' href='https://aclanthology.org/2023.eacl-main.25.pdf'>Prompt Tuning with Contradictory Intentions for Sarcasm Recognition</a>. <i>The 17th Conference of the European Chapter of the Association for Computational Linguistics (<b>EACL 2023 Main</b>)</i>.  (<b>Full Paper</b>)
 </li>
 </ul>
 
