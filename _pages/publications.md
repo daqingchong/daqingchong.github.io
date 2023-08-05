@@ -11,7 +11,20 @@ IN THE YEAR OF 2023
 <ul>
 
 <li>
-Yuan Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Wei Chen and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2306.12756.pdf'>On the Robustness of Generative Retrieval Models: An Out-of-Distribution Perspective</a>. <i> Gen-IR Workshop@SIGIR2023 </i>
+Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Continual Learning for Generative Retrieval over Dynamic Corpora</a>. <i>32nd ACM International Conference on Information and Knowledge Management (<b>CIKM 2023</b>)</i>. Birmingham, UK. (<b>Full Paper, Acceptance Rate = 24%</b>)
+</li>
+
+<li>
+Yuan Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Black-box Adversarial Attacks against Dense Retrieval Models: A Multi-view Contrastive Learning Method</a>. <i>32nd ACM International Conference on Information and Knowledge Management (<b>CIKM 2023</b>)</i>. Birmingham, UK. (<b>Full Paper, Acceptance Rate = 24%</b>)
+</li>
+
+<li>
+Lu Chen, <b>Ruqing Zhang</b>, Wei Huang, Wei Chen, Jiafeng Guo and Xueqi Cheng. <a target='new' href=''>Inducing Causal Structure for Abstractive Text Summarization</a>. <i>32nd ACM International Conference on Information and Knowledge Management (<b>CIKM 2023</b>)</i>. Birmingham, UK. (<b>Full Paper, Acceptance Rate = 24%</b>)
+</li>
+
+
+<li>
+Yuan Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Wei Chen and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2306.12756.pdf'>On the Robustness of Generative Retrieval Models: An Out-of-Distribution Perspective</a>. <i>Gen-IR Workshop@SIGIR2023 </i>
 </li>
 
 <li>
