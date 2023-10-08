@@ -10,6 +10,12 @@ IN THE YEAR OF 2023
 ------
 <ul>
 
+
+
+<li>
+Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo and Maarten de Rijke. <a target='new' href=''>Recent Advances in Generative Information Retrieval	</a>. <i>1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (<b>SIGIR-AP 2023</b>)</i>. Beijing, China.
+</li>
+
 <li>
 Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Continual Learning for Generative Retrieval over Dynamic Corpora</a>. <i>32nd ACM International Conference on Information and Knowledge Management (<b>CIKM 2023</b>)</i>. Birmingham, UK. (<b>Full Paper, Acceptance Rate = 24%</b>)
 </li>
