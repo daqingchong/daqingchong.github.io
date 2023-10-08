@@ -10,10 +10,12 @@ IN THE YEAR OF 2023
 ------
 <ul>
 
-
+<li>
+Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo and Maarten de Rijke. <a target='new' href=''>Recent Advances in Generative Information Retrieval</a>. <i>1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (<b>SIGIR-AP 2023</b>)</i>. Beijing, China.
+</li>
 
 <li>
-Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo and Maarten de Rijke. <a target='new' href=''>Recent Advances in Generative Information Retrieval	</a>. <i>1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (<b>SIGIR-AP 2023</b>)</i>. Beijing, China.
+Hengran Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href=''>From Relevance to Utility: Evidence Retrieval with Feedback for Fact Verification</a>. <i>Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2023</b>)</i>. Singapore.
 </li>
 
 <li>
