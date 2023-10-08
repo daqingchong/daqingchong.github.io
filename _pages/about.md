@@ -25,7 +25,7 @@ Tutorials
 ------
 <ul>
 <li>
-I will co-origanize a tutorial on Recent Advances in Generative Information Retrieval at SIGIR-AP 2023 (November 26, 2023). Hope to see you there in person.
+I will co-origanize a tutorial on Recent Advances in Generative Information Retrieval at <a href='http://www.sigir-ap.org/sigir-ap-2023/call-for-tutorials/'>SIGIR-AP 2023</a> (November 26, 2023). 
 </li>
 </ul>
 
