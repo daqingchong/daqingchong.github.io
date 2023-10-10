@@ -17,7 +17,7 @@ Workshops
 ------
 <ul>
 <li>
-I co-organized <a href='https://coda.io/@sigir/gen-ir'>The First Workshop on Generative Information Retrieval (Gen-IR)</a> at SIGIR 2023 (July 27, 2023).
+I co-organized <a href='https://coda.io/@sigir/gen-ir'>The First Workshop on Generative Information Retrieval (Gen-IR)</a> at SIGIR 2023.
 </li>
 </ul>
 
@@ -25,7 +25,7 @@ Tutorials
 ------
 <ul>
 <li>
-I will co-origanize a tutorial on Recent Advances in Generative Information Retrieval at <a href='http://www.sigir-ap.org/sigir-ap-2023/call-for-tutorials/'>SIGIR-AP 2023</a> (November 26, 2023). 
+I will co-organize a tutorial on Recent Advances in Generative Information Retrieval at <a href='http://www.sigir-ap.org/sigir-ap-2023/call-for-tutorials/'>SIGIR-AP 2023</a>. 
 </li>
 </ul>
 
