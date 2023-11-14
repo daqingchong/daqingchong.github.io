@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ruqing Zhang"
+title: "Ruqing Zhang (张儒清)"
 excerpt: "Ruqing Zhang"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Ruqing Zhang (张儒清) is currently an Associate Professor at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). She received her Ph.D. degree in Computer Science from <a href='http://www.ict.ac.cn'>Institute of Computing Technology</a>, <a href='http://www.cas.cn'>Chinese Academy of Sciences</a> under the supervision of <a href='http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496654.html'> Academician Guojie Li</a> and <a href='https://scholar.google.com/citations?user=nD0I3PUAAAAJ&hl=en'>Prof. Jiafeng Guo</a>, in 2019. Before that, she received her B.S. degree from <a href='https://scs.bupt.edu.cn'>Department of Computer Science</a>, <a href='https://www.bupt.edu.cn'>Beijing University of Posts and Telecommunications</a> in 2014. From Nov. 2022 to now, she is visiting the <a href='https://irlab.science.uva.nl/'>IRLab</a> at University of Amsterdam, where she works with <a href='https://staff.fnwi.uva.nl/m.derijke/'>Prof. Maarten de Rijke</a>. 
+I am currently an Associate Professor at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. degree in Computer Science from <a href='http://www.ict.ac.cn'>Institute of Computing Technology</a>, <a href='http://www.cas.cn'>Chinese Academy of Sciences</a>, under the supervision of <a href='http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496654.html'> Academician Guojie Li</a> and <a href='https://scholar.google.com/citations?user=nD0I3PUAAAAJ&hl=en'>Prof. Jiafeng Guo</a>, in 2019. Before that, I received my B.S. degree from <a href='https://scs.bupt.edu.cn'>Department of Computer Science</a>, <a href='https://www.bupt.edu.cn'>Beijing University of Posts and Telecommunications</a> in 2014. From Nov. 2022 to Nov. 2023, I visited the <a href='https://irlab.science.uva.nl/'>IRLab</a> at University of Amsterdam, where I worked with <a href='https://staff.fnwi.uva.nl/m.derijke/'>Prof. Maarten de Rijke</a>. 
 
-Her research area is information retrieval (IR), especially how to design generative models for information retrieval, how to improve the robustness of ranking models, and how to make information retrieval trustworthy with the lens of "causality". She has authored more than 40 referred publications at well-known international journals and conferences, e.g., ACM TOIS, SIGIR, WWW, KDD, CIKM, WSDM, ACL, etc. 
+My research area is information retrieval (IR), especially how to design generative models for information retrieval, how to improve the robustness of ranking models, and how to make information retrieval trustworthy with the lens of "causality". I has authored more than 40 referred publications at well-known international journals and conferences, e.g., ACM TOIS, SIGIR, WWW, KDD, CIKM, WSDM, ACL, etc. 
 
 
 Workshops
@@ -33,7 +33,7 @@ Hornors and Awards
 ------
 <ul>
  <li>
-2021, Academic New Star in Institute of Computing Technology, CAS
+2022, Academic New Star in Institute of Computing Technology, CAS
 </li>
  <li>
 2021, Excellect Researcher in Institute of Computing Technology, CAS
