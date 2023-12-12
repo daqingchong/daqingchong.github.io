@@ -25,7 +25,10 @@ Tutorials
 ------
 <ul>
 <li>
-I will co-organize a tutorial on Recent Advances in Generative Information Retrieval at <a href='http://www.sigir-ap.org/sigir-ap-2023/call-for-tutorials/'>SIGIR-AP 2023</a>. 
+I co-organized a tutorial on <a href='https://sigir-ap2023-generative-ir.github.io/'>Recent Advances in Generative Information Retrieval</a> at SIGIR-AP 2023. 
+</li>
+<li>
+I will co-organize a tutorial on Recent Advances in Generative Information Retrieval at <a hred='https://www.ecir2024.org/'>ECIR 2024</a>. 
 </li>
 </ul>
 

@@ -5,13 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 
+IN THE YEAR OF 2024
+------
+
+<ul>
+<li>
+Yuan Liu, <b>Ruqing Zhang</b>, Mingkun Zhang, Wei Chen, Maarten de Rijke, Jiafeng Guo and Xueqi Cheng. <a target='new' href=''>Perturbation-Invariant Adversarial Training for Neural Ranking Models: Improving the Effectiveness-Robustness Trade-Off</a>. <i>the 38th AAAI Conference on Artificial Intelligence (<b>AAAI 2024</b>)</i>. Vancouver, Canada. (<b>Full Paper, Acceptance Rate = 23.75%</b>)
+</li>
+
+<li>
+Yubao Tang, <b>Ruqing Zhang</b>, Zhaochun Ren, Jiafeng Guo and Maarten de Rijke. <a target='new' href=''>Recent Advances in Generative Information Retrieval</a>. <i>The 46th European Conference on Information Retrieval (<b>ECIR 2024</b>)</i>. Glasgow, Scotland. (<b>Tutorial</b>)
+</li>
+
+</ul>
 
 IN THE YEAR OF 2023
 ------
 <ul>
 
 <li>
-Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo and Maarten de Rijke. <a target='new' href=''>Recent Advances in Generative Information Retrieval</a>. <i>1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (<b>SIGIR-AP 2023</b>)</i>. Beijing, China.
+Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo and Maarten de Rijke. <a target='new' href=''>Recent Advances in Generative Information Retrieval</a>. <i>1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (<b>SIGIR-AP 2023</b>)</i>. Beijing, China. (<b>Tutorial</b>)
 </li>
 
 <li>
