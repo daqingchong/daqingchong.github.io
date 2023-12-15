@@ -10,11 +10,15 @@ IN THE YEAR OF 2024
 
 <ul>
 <li>
-Yuan Liu, <b>Ruqing Zhang</b>, Mingkun Zhang, Wei Chen, Maarten de Rijke, Jiafeng Guo and Xueqi Cheng. <a target='new' href=''>Perturbation-Invariant Adversarial Training for Neural Ranking Models: Improving the Effectiveness-Robustness Trade-Off</a>. <i>the 38th AAAI Conference on Artificial Intelligence (<b>AAAI 2024</b>)</i>. Vancouver, Canada. (<b>Full Paper, Acceptance Rate = 23.75%</b>)
+Yuan Liu, <b>Ruqing Zhang</b>, Mingkun Zhang, Wei Chen, Maarten de Rijke, Jiafeng Guo and Xueqi Cheng. <a target='new' href=''>Perturbation-Invariant Adversarial Training for Neural Ranking Models: Improving the Effectiveness-Robustness Trade-Off</a>. <i>The 38th AAAI Conference on Artificial Intelligence (<b>AAAI 2024</b>)</i>. Vancouver, Canada. (<b>Full Paper, Acceptance Rate = 23.75%</b>)
 </li>
 
 <li>
 Yubao Tang, <b>Ruqing Zhang</b>, Zhaochun Ren, Jiafeng Guo and Maarten de Rijke. <a target='new' href=''>Recent Advances in Generative Information Retrieval</a>. <i>The 46th European Conference on Information Retrieval (<b>ECIR 2024</b>)</i>. Glasgow, Scotland. (<b>Tutorial</b>)
+</li>
+
+<li>
+Runze Fan, Yixing Fan, Jiangui Chen, Jiafeng Guo, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href=''>RIGHT: Retrieval-augmented Generation for Mainstream Hashtag Recommendation</a>. <i>The 46th European Conference on Information Retrieval (<b>ECIR 2024</b>)</i>. Glasgow, Scotland.  (<b>Full Paper, Acceptance Rate = 23%</b>)
 </li>
 
 </ul>
