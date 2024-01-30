@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Associate Professor at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. degree in Computer Science from <a href='http://www.ict.ac.cn'>Institute of Computing Technology</a>, <a href='http://www.cas.cn'>Chinese Academy of Sciences</a>, under the supervision of <a href='http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496654.html'> Academician Guojie Li</a> and <a href='https://scholar.google.com/citations?user=nD0I3PUAAAAJ&hl=en'>Prof. Jiafeng Guo</a>, in 2019. Before that, I received my B.S. degree from <a href='https://scs.bupt.edu.cn'>Department of Computer Science</a>, <a href='https://www.bupt.edu.cn'>Beijing University of Posts and Telecommunications</a> in 2014. From Nov. 2022 to Nov. 2023, I visited the <a href='https://irlab.science.uva.nl/'>IRLab</a> at University of Amsterdam, where I worked with <a href='https://staff.fnwi.uva.nl/m.derijke/'>Prof. Maarten de Rijke</a>. 
+I am currently an Associate Professor at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. degree in Computer Science from <a href='http://www.ict.ac.cn'>Institute of Computing Technology</a>, <a href='http://www.cas.cn'>Chinese Academy of Sciences</a>, under the supervision of <a href='http://www.ict.cas.cn/sourcedb_ict_cas/cn/jssrck/200909/t20090917_2496654.html'> Academician Guojie Li</a> and <a href='https://scholar.google.com/citations?user=nD0I3PUAAAAJ&hl=en'>Prof. Jiafeng Guo</a>, in 2019. Before that, I received my B.S. degree from <a href='https://scs.bupt.edu.cn'>Department of Computer Science</a>, <a href='https://www.bupt.edu.cn'>Beijing University of Posts and Telecommunications</a> in 2014. From Nov. 2022 to Nov. 2023, I visited the <a href='https://irlab.science.uva.nl/'>IRLab</a> at University of Amsterdam, where I worked with <a href='https://staff.fnwi.uva.nl/m.derijke/'>Prof. Maarten de Rijke</a>. 
 
 My research area is information retrieval (IR), especially how to design generative models for information retrieval, how to improve the robustness of ranking models, and how to make information retrieval trustworthy with the lens of "causality". I has authored more than 40 referred publications at well-known international journals and conferences, e.g., ACM TOIS, SIGIR, WWW, KDD, CIKM, WSDM, ACL, etc. 
 
@@ -61,6 +61,9 @@ Hornors and Awards
 Program Committee
 ------
 <ul>
+ <li>
+ 2024: SIGIR
+</li>
  <li>
  2023: SIGIR, WSDM, CIKM, EMNLP, ACL, CVPR, ECIR
 </li>
