@@ -13,7 +13,6 @@ IN THE YEAR OF 2024
 Lu Chen, Wei Huang, <b>Ruqing Zhang</b>, Wei Chen, Jiafeng Guo, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2402.06220'>A Unified Causal View of Instruction Tuning</a>. <i>arXiv preprint arXiv:2402.06220</i>
 </li>
 
-
 <li>
 Yuan Liu, <b>Ruqing Zhang</b>, Mingkun Zhang, Wei Chen, Maarten de Rijke, Jiafeng Guo and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2312.10329'>Perturbation-Invariant Adversarial Training for Neural Ranking Models: Improving the Effectiveness-Robustness Trade-Off</a>. <i>The 38th AAAI Conference on Artificial Intelligence (<b>AAAI 2024</b>)</i>. Vancouver, Canada. (<b>Full Paper, Acceptance Rate = 23.75%</b>)
 </li>
