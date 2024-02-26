@@ -10,7 +10,12 @@ IN THE YEAR OF 2024
 
 <ul>
 <li>
-Yuan Liu, <b>Ruqing Zhang</b>, Mingkun Zhang, Wei Chen, Maarten de Rijke, Jiafeng Guo and Xueqi Cheng. <a target='new' href=''>Perturbation-Invariant Adversarial Training for Neural Ranking Models: Improving the Effectiveness-Robustness Trade-Off</a>. <i>The 38th AAAI Conference on Artificial Intelligence (<b>AAAI 2024</b>)</i>. Vancouver, Canada. (<b>Full Paper, Acceptance Rate = 23.75%</b>)
+Lu Chen, Wei Huang, <b>Ruqing Zhang</b>, Wei Chen, Jiafeng Guo, Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2402.06220'>A Unified Causal View of Instruction Tuning</a>. <i>arXiv preprint arXiv:2402.06220</i>
+</li>
+
+
+<li>
+Yuan Liu, <b>Ruqing Zhang</b>, Mingkun Zhang, Wei Chen, Maarten de Rijke, Jiafeng Guo and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2312.10329'>Perturbation-Invariant Adversarial Training for Neural Ranking Models: Improving the Effectiveness-Robustness Trade-Off</a>. <i>The 38th AAAI Conference on Artificial Intelligence (<b>AAAI 2024</b>)</i>. Vancouver, Canada. (<b>Full Paper, Acceptance Rate = 23.75%</b>)
 </li>
 
 <li>
@@ -18,7 +23,7 @@ Yubao Tang, <b>Ruqing Zhang</b>, Zhaochun Ren, Jiafeng Guo and Maarten de Rijke.
 </li>
 
 <li>
-Runze Fan, Yixing Fan, Jiangui Chen, Jiafeng Guo, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href=''>RIGHT: Retrieval-augmented Generation for Mainstream Hashtag Recommendation</a>. <i>The 46th European Conference on Information Retrieval (<b>ECIR 2024</b>)</i>. Glasgow, Scotland.  (<b>Full Paper, Acceptance Rate = 23%</b>)
+Runze Fan, Yixing Fan, Jiangui Chen, Jiafeng Guo, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2312.10466.pdf'>RIGHT: Retrieval-augmented Generation for Mainstream Hashtag Recommendation</a>. <i>The 46th European Conference on Information Retrieval (<b>ECIR 2024</b>)</i>. Glasgow, Scotland.  (<b>Full Paper, Acceptance Rate = 23%</b>)
 </li>
 
 </ul>
@@ -26,7 +31,9 @@ Runze Fan, Yixing Fan, Jiangui Chen, Jiafeng Guo, <b>Ruqing Zhang</b> and Xueqi 
 IN THE YEAR OF 2023
 ------
 <ul>
-
+<li>
+Gabriel Bénédict, <b>Ruqing Zhang</b>, Donald Metzler, Andrew Yates, Romain Deffayet, Philipp Hager, Sami Jullien. <a target='new' href=''>Report on the 1st Workshop on Generative Information Retrieval (Gen-IR 2023) at SIGIR 2023</a>. <i>ACM SIGIR Forum</i>. 
+</li>
 <li>
 Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo and Maarten de Rijke. <a target='new' href=''>Recent Advances in Generative Information Retrieval</a>. <i>1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (<b>SIGIR-AP 2023</b>)</i>. Beijing, China. (<b>Tutorial</b>)
 </li>
