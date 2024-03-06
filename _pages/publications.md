@@ -37,26 +37,26 @@ IN THE YEAR OF 2023
 ------
 <ul>
 <li>
-Gabriel Bénédict, <b>Ruqing Zhang</b>, Donald Metzler, Andrew Yates, Romain Deffayet, Philipp Hager and Sami Jullien. <a target='new' href=''>Report on the 1st Workshop on Generative Information Retrieval (Gen-IR 2023) at SIGIR 2023</a>. <i>ACM SIGIR Forum</i>. 
+Gabriel Bénédict, <b>Ruqing Zhang</b>, Donald Metzler, Andrew Yates, Romain Deffayet, Philipp Hager and Sami Jullien. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3642979.3642995'>Report on the 1st Workshop on Generative Information Retrieval (Gen-IR 2023) at SIGIR 2023</a>. <i>ACM SIGIR Forum</i>. 
 </li>
 <li>
 Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo and Maarten de Rijke. <a target='new' href=''>Recent Advances in Generative Information Retrieval</a>. <i>1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (<b>SIGIR-AP 2023</b>)</i>. Beijing, China. (<b>Tutorial</b>)
 </li>
 
 <li>
-Hengran Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href=''>From Relevance to Utility: Evidence Retrieval with Feedback for Fact Verification</a>. <i>Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2023</b>)</i>. Singapore.
+Hengran Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href='https://aclanthology.org/2023.findings-emnlp.422.pdf'>From Relevance to Utility: Evidence Retrieval with Feedback for Fact Verification</a>. <i>Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2023</b>)</i>. Singapore.
 </li>
 
 <li>
-Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Continual Learning for Generative Retrieval over Dynamic Corpora</a>. <i>32nd ACM International Conference on Information and Knowledge Management (<b>CIKM 2023</b>)</i>. Birmingham, UK. (<b>Full Paper, Acceptance Rate = 24%</b>)
+Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3583780.3614821'>Continual Learning for Generative Retrieval over Dynamic Corpora</a>. <i>32nd ACM International Conference on Information and Knowledge Management (<b>CIKM 2023</b>)</i>. Birmingham, UK. (<b>Full Paper, Acceptance Rate = 24%</b>)
 </li>
 
 <li>
-Yuan Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Black-box Adversarial Attacks against Dense Retrieval Models: A Multi-view Contrastive Learning Method</a>. <i>32nd ACM International Conference on Information and Knowledge Management (<b>CIKM 2023</b>)</i>. Birmingham, UK. (<b>Full Paper, Acceptance Rate = 24%</b>)
+Yuan Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3583780.3614793'>Black-box Adversarial Attacks against Dense Retrieval Models: A Multi-view Contrastive Learning Method</a>. <i>32nd ACM International Conference on Information and Knowledge Management (<b>CIKM 2023</b>)</i>. Birmingham, UK. (<b>Full Paper, Acceptance Rate = 24%</b>)
 </li>
 
 <li>
-Lu Chen, <b>Ruqing Zhang</b>, Wei Huang, Wei Chen, Jiafeng Guo and Xueqi Cheng. <a target='new' href=''>Inducing Causal Structure for Abstractive Text Summarization</a>. <i>32nd ACM International Conference on Information and Knowledge Management (<b>CIKM 2023</b>)</i>. Birmingham, UK. (<b>Full Paper, Acceptance Rate = 24%</b>)
+Lu Chen, <b>Ruqing Zhang</b>, Wei Huang, Wei Chen, Jiafeng Guo and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3583780.3614934'>Inducing Causal Structure for Abstractive Text Summarization</a>. <i>32nd ACM International Conference on Information and Knowledge Management (<b>CIKM 2023</b>)</i>. Birmingham, UK. (<b>Full Paper, Acceptance Rate = 24%</b>)
 </li>
 
 

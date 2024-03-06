@@ -20,7 +20,7 @@ Workshops
 I will co-organize <a href='https://coda.io/@sigir/gen-ir-24'>The Second Workshop on Generative Information Retrieval (Gen-IR)</a> at SIGIR 2024. Looking forward to seeing you in Washington! 
 </li>
 <li>
-I co-organized <a href='https://coda.io/@sigir/gen-ir'>The First Workshop on Generative Information Retrieval (Gen-IR)</a> at SIGIR 2023.
+I co-organized <a href='https://coda.io/@sigir/gen-ir'>The First Workshop on Generative Information Retrieval (Gen-IR)</a> at SIGIR 2023. The final report on the workshop is available <a href='https://dl.acm.org/doi/pdf/10.1145/3642979.3642995'>here</a>
 </li>
 </ul>
 
