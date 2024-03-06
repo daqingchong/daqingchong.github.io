@@ -10,14 +10,14 @@ redirect_from:
 
 I am currently an Associate Professor at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. degree in Computer Science from <a href='http://www.ict.ac.cn'>Institute of Computing Technology</a>, <a href='http://www.cas.cn'>Chinese Academy of Sciences</a>, under the supervision of <a href='http://www.ict.cas.cn/sourcedb_ict_cas/cn/jssrck/200909/t20090917_2496654.html'> Academician Guojie Li</a> and <a href='https://scholar.google.com/citations?user=nD0I3PUAAAAJ&hl=en'>Prof. Jiafeng Guo</a>, in 2019. Before that, I received my B.S. degree from <a href='https://scs.bupt.edu.cn'>Department of Computer Science</a>, <a href='https://www.bupt.edu.cn'>Beijing University of Posts and Telecommunications</a> in 2014. From Nov. 2022 to Nov. 2023, I visited the <a href='https://irlab.science.uva.nl/'>IRLab</a> at University of Amsterdam, where I worked with <a href='https://staff.fnwi.uva.nl/m.derijke/'>Prof. Maarten de Rijke</a>. 
 
-My research area is information retrieval (IR), especially how to design generative models for information retrieval, how to improve the robustness of ranking models, and how to make information retrieval trustworthy with the lens of "causality". I has authored more than 40 referred publications at well-known international journals and conferences, e.g., ACM TOIS, SIGIR, WWW, KDD, CIKM, WSDM, ACL, etc. 
+My research area is information retrieval (IR), especially how to design generative models for information retrieval, how to improve the robustness of ranking models, and how to make information retrieval trustworthy with the lens of "causality". I has authored more than 40 referred publications at well-known international journals and conferences, e.g., ACM TOIS, SIGIR, WWW, KDD, CIKM, WSDM, ACL, EMNLP etc. 
 
 
 Workshops
 ------
 <ul>
 <li>
-I will co-organize <a href=''>The Second Workshop on Generative Information Retrieval (Gen-IR)</a> at SIGIR 2024. 
+I will co-organize <a href='https://coda.io/@sigir/gen-ir-24'>The Second Workshop on Generative Information Retrieval (Gen-IR)</a> at SIGIR 2024. Looking forward to seeing you in Washington! 
 </li>
 <li>
 I co-organized <a href='https://coda.io/@sigir/gen-ir'>The First Workshop on Generative Information Retrieval (Gen-IR)</a> at SIGIR 2023.
@@ -31,7 +31,10 @@ Tutorials
 I co-organized a tutorial on <a href='https://sigir-ap2023-generative-ir.github.io/'>Recent Advances in Generative Information Retrieval</a> at SIGIR-AP 2023. 
 </li>
 <li>
-I will co-organize a tutorial on Recent Advances in Generative Information Retrieval at <a hred='https://www.ecir2024.org/'>ECIR 2024</a>. 
+I will co-organize a tutorial on Recent Advances in Generative Information Retrieval at <a hred='https://www.ecir2024.org/tutorials/'>ECIR 2024</a>. Looking forward to seeing you in Glasgow! 
+</li>
+<li>
+I will co-organize a tutorial on Recent Advances in Generative Information Retrieval at <a hred='https://www2024.thewebconf.org/program/tutorials/'>The Web Conference 2024</a>. Looking forward to seeing you in Singapore! 
 </li>
 </ul>
 
