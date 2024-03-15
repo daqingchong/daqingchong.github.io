@@ -11,6 +11,10 @@ IN THE YEAR OF 2024
 <ul>
 
 <li>
+Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen, and Xueqi Cheng. <a target='new' href=''>Listwise Generative Retrieval Models via a Sequential Learning Process</a>. <i> ACM Transactions on Information Systems (<b>TOIS</b>). </i>
+</li>
+
+<li>
 Lu Chen, Wei Huang, <b>Ruqing Zhang</b>, Wei Chen, Jiafeng Guo and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2402.06220'>A Unified Causal View of Instruction Tuning</a>. <i>arXiv preprint arXiv:2402.06220</i>
 </li>
 
