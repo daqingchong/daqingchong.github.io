@@ -11,6 +11,14 @@ IN THE YEAR OF 2024
 <ul>
 
 <li>
+Yuan Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Multi-granular Adversarial Attacks against Black-box Neural Ranking Models</a>. <i>The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2024</b>)</i>. (<b>Full Paper, Acceptance Rate = 20.1%</b>)
+</li>
+
+<li>
+Hengran Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Are Large Language Models Good at Utility Judgments?</a>. <i>The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2024</b>)</i>. (<b>Full Paper, Acceptance Rate = 20.1%</b>)
+</li>
+
+<li>
 Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen, and Xueqi Cheng. <a target='new' href=''>Listwise Generative Retrieval Models via a Sequential Learning Process</a>. <i> ACM Transactions on Information Systems (<b>TOIS</b>). </i>
 </li>
 
