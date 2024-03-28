@@ -28,7 +28,7 @@ Tutorials
 ------
 <ul>
 <li>
-I will co-organize a tutorial on Recent Advances in Generative Information Retrieval at <a hred='https://www.ecir2024.org/tutorials/'>ECIR 2024</a>. Looking forward to seeing you in Glasgow! 
+I will co-organize a tutorial on <a href='https://ecir2024-generative-ir.github.io/'>Recent Advances in Generative Information Retrieval</a> at ECIR 2024. Looking forward to seeing you in Glasgow! 
 </li>
 <li>
 I will co-organize a tutorial on Recent Advances in Generative Information Retrieval at <a hred='https://www2024.thewebconf.org/program/tutorials/'>The Web Conference 2024</a>. Looking forward to seeing you in Singapore! 
