@@ -28,7 +28,6 @@ Tutorials
 ------
 <ul>
 <li>
-<li>
 I will co-organize a tutorial on Robust Information Retrieval at SIGIR 2024. Looking forward to seeing you in Washington! 
 </li>
 <li>
