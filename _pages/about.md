@@ -28,10 +28,7 @@ Tutorials
 ------
 <ul>
 <li>
-I will co-organize a tutorial on Robust Information Retrieval at SIGIR 2024. Looking forward to seeing you in Washington! 
-</li>
-<li>
-I will co-organize a tutorial on Recent Advances in Generative Information Retrieval at The Web Conference 2024. Looking forward to seeing you in Washington! 
+I will co-organize two tutorials on "Robust Information Retrieval" and "Recent Advances in Generative Information Retrieval" at SIGIR 2024. Looking forward to seeing you in Washington! 
 </li>
 <li>
 I will co-organize a tutorial on Recent Advances in Generative Information Retrieval at <a hred='https://www2024.thewebconf.org/program/tutorials/'>The Web Conference 2024</a>. Looking forward to seeing you in Singapore! 
