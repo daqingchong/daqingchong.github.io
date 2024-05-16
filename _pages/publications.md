@@ -11,6 +11,10 @@ IN THE YEAR OF 2024
 <ul>
 
 <li>
+Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Bootstrapped Pre-training with Dynamic Identifier Prediction for Generative Retrieval</a>. <i>Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (<b>EMNLP 2024</b>)</i>. (<b>Full Paper</b>)
+</li>
+
+<li>
 Yuan Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Multi-granular Adversarial Attacks against Black-box Neural Ranking Models</a>. <i>The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2024</b>)</i>. (<b>Full Paper, Acceptance Rate = 20.1%</b>)
 </li>
 
