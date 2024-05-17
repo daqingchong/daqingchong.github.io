@@ -15,6 +15,10 @@ Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and X
 </li>
 
 <li>
+Sen Li, Fuyu Lv, <b>Ruqing Zhang</b>, OU Dan, Zhixuan Zhang and Maarten de Rijke. <a target='new' href=''>Text Matching Indexers in Taobao Search</a>. <i>30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD 2024</b>)</i>. (<b>Full Paper</b>)
+</li>
+
+<li>
 Yuan Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Multi-granular Adversarial Attacks against Black-box Neural Ranking Models</a>. <i>The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2024</b>)</i>. (<b>Full Paper, Acceptance Rate = 20.1%</b>)
 </li>
 
