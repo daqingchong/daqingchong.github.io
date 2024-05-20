@@ -15,7 +15,7 @@ Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and X
 </li>
 
 <li>
-Sen Li, Fuyu Lv, <b>Ruqing Zhang</b>, Dan Ou, Zhixuan Zhang and Maarten de Rijke. <a target='new' href=''>Text Matching Indexers in Taobao Search</a>. <i>30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD 2024</b>)</i>. (<b>Full Paper</b>)
+Sen Li, Fuyu Lv, <b>Ruqing Zhang</b>, Dan Ou, Zhixuan Zhang and Maarten de Rijke. <a target='new' href=''>Text Matching Indexers in Taobao Search</a>. <i>30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD 2024</b>)</i>. (<b>Full Paper, Acceptance Rate = 20%</b>)
 </li>
 
 <li>
