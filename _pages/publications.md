@@ -11,6 +11,14 @@ IN THE YEAR OF 2024
 <ul>
 
 <li>
+Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Robust Neural Information Retrieval: An Adversarial and Out-of-distribution Perspective</a>. <i>	arXiv:2407.06992</i>
+</li>
+
+<li>
+Yinqiong Cai, Yixing Fan, Keping Bi, Jiafeng Guo, Wei Chen, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href=''>CAME: Competitively Learning a Mixture-of-Experts Model for First-stage Retrieval</a>. <i> ACM Transactions on Information Systems (<b>TOIS</b>). </i>
+</li>
+
+<li>
 Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Bootstrapped Pre-training with Dynamic Identifier Prediction for Generative Retrieval</a>. <i>Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (<b>ACL 2024</b>)</i>. (<b>Full Paper</b>)
 </li>
 

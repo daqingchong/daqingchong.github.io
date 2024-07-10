@@ -28,7 +28,7 @@ Tutorials
 ------
 <ul>
 <li>
-I will co-organize two tutorials on "Robust Information Retrieval" and "Generative Information Retrieval" at SIGIR 2024. Looking forward to seeing you in Washington! 
+I will co-organize two tutorials on "<a href='https://sigir2024-robust-information-retrieval.github.io/'>Robust Information Retrieval</a>" and "Generative Information Retrieval" at SIGIR 2024. Looking forward to seeing you in Washington! The survey on robust information retrieval is available <a href='https://arxiv.org/pdf/2407.06992'>here</a>.
 </li>
 <li>
 I co-organized a tutorial on Recent Advances in Generative Information Retrieval at <a href='https://sigir-ap2023-generative-ir.github.io/'>SIGIR-AP 2023</a>, <a href='https://ecir2024-generativeir.github.io/'>ECIR 2024</a> and <a href='https://TheWebConf2024-generative-IR.github.io'>The Web Conference 2024</a>.
@@ -65,7 +65,7 @@ Program Committee
 ------
 <ul>
  <li>
- 2024: SIGIR
+ 2024: SIGIR, WSDM, CIKM, EMNLP, ACL
 </li>
  <li>
  2023: SIGIR, WSDM, CIKM, EMNLP, ACL, CVPR, ECIR
