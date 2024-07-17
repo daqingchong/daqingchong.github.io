@@ -15,6 +15,10 @@ Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xu
 </li>
 
 <li>
+Jun Yang, Yixing Fan, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, and Xueqi Cheng. <a target='new' href=''>GaQR: An Efficient Generation-augmented Question Rewriter</a>. <i>33rd ACM International Conference on Information and Knowledge Management (<b>CIKM 2024</b>)</i>. Idaho, USA. (<b>Short Paper, Acceptance Rate = 27%</b>)
+</li>
+
+<li>
 Yinqiong Cai, Yixing Fan, Keping Bi, Jiafeng Guo, Wei Chen, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2311.02834'>CAME: Competitively Learning a Mixture-of-Experts Model for First-stage Retrieval</a>. <i> ACM Transactions on Information Systems (<b>TOIS</b>). </i>
 </li>
 
