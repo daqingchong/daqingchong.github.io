@@ -38,6 +38,9 @@ I co-organized the tutorial on "Recent Advances in Generative Information Retrie
 Hornors and Awards
 ------
 <ul>
+<li>
+2024, Youth Innovation Promotion Association，CAS
+</li>
  <li>
 2022, Academic New Star in Institute of Computing Technology, CAS
 </li>
