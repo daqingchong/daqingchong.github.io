@@ -15,7 +15,7 @@ Weichao Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan an
 </li>
 
 <li>
-Lu Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Controlling Risk of Retrieval-augmented Generation: A Counterfactual Prompting Framework</a>. <i> Fingdings of the 2024 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2024</b>)</i>. Miami, USA. (<b>Full Paper</b>)
+Lu Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Controlling Risk of Retrieval-augmented Generation: A Counterfactual Prompting Framework</a>. <i> Findings of the 2024 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2024</b>)</i>. Miami, USA. (<b>Full Paper</b>)
 </li>
 
 <li>
@@ -43,7 +43,7 @@ Sen Li, Fuyu Lv, <b>Ruqing Zhang</b>, Dan Ou, Zhixuan Zhang and Maarten de Rijke
 </li>
 
 <li>
-Yuan Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Multi-granular Adversarial Attacks against Black-box Neural Ranking Models</a>. <i>The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2024</b>)</i>. (<b>Full Paper, Acceptance Rate = 20.1%</b>)
+Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Multi-granular Adversarial Attacks against Black-box Neural Ranking Models</a>. <i>The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2024</b>)</i>. (<b>Full Paper, Acceptance Rate = 20.1%</b>)
 </li>
 
 <li>
