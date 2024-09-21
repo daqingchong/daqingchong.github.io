@@ -11,7 +11,19 @@ IN THE YEAR OF 2024
 <ul>
 
 <li>
-Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2407.06992'>Robust Neural Information Retrieval: An Adversarial and Out-of-distribution Perspective</a>. <i>	arXiv:2407.06992</i>
+Weichao Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Pretraining Data Detection for Large Language Models: A Divergence-based Calibration Method</a>. <i>The 2024 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2024</b>)</i>. Miami, USA. (<b>Full Paper</b>)
+</li>
+
+<li>
+Lu Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Controlling Risk of Retrieval-augmented Generation: A Counterfactual Prompting Framework</a>. <i> Fingdings of the 2024 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2024</b>)</i>. Miami, USA. (<b>Full Paper</b>)
+</li>
+
+<li>
+Yuanzheng Wang, Yixing Fan, Jiafeng Guo, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href=''>RoCEL: Advancing Table Entity Linking through Distinctive Row and Column Contexts</a>. <i> The 2024 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2024</b>)</i>. Miami, USA. (<b>Full Paper</b>)
+</li>
+
+<li>
+Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2407.06992'>Robust Neural Information Retrieval: An Adversarial and Out-of-distribution Perspective</a>. <i>arXiv:2407.06992</i>
 </li>
 
 <li>
@@ -19,7 +31,7 @@ Jun Yang, Yixing Fan, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, and Xu
 </li>
 
 <li>
-Yinqiong Cai, Yixing Fan, Keping Bi, Jiafeng Guo, Wei Chen, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2311.02834'>CAME: Competitively Learning a Mixture-of-Experts Model for First-stage Retrieval</a>. <i> ACM Transactions on Information Systems (<b>TOIS</b>). </i>
+Yinqiong Cai, Yixing Fan, Keping Bi, Jiafeng Guo, Wei Chen, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2311.02834'>CAME: Competitively Learning a Mixture-of-Experts Model for First-stage Retrieval</a>. <i>ACM Transactions on Information Systems (<b>TOIS</b>). </i>
 </li>
 
 <li>
