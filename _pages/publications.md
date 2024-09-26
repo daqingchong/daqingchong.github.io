@@ -11,6 +11,10 @@ IN THE YEAR OF 2024
 <ul>
 
 <li>
+Yubao Tang Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen and Xueqi Cheng. <a target='new' href=''>Generative Retrieval Meets Multi-Graded Relevance</a>. <i>The Thirty-eighth Annual Conference on Neural Information Processing Systems (<b>NeurIPS 2024</b>)</i>. Vancouver, Canada. (<b>Spotlight</b>)
+</li>
+
+<li>
 Weichao Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Pretraining Data Detection for Large Language Models: A Divergence-based Calibration Method</a>. <i>The 2024 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2024</b>)</i>. Miami, USA. (<b>Full Paper</b>)
 </li>
 
