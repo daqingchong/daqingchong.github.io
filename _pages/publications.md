@@ -11,7 +11,7 @@ IN THE YEAR OF 2024
 <ul>
 
 <li>
-Yubao Tang Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen and Xueqi Cheng. <a target='new' href=''>Generative Retrieval Meets Multi-Graded Relevance</a>. <i>The Thirty-eighth Annual Conference on Neural Information Processing Systems (<b>NeurIPS 2024</b>)</i>. Vancouver, Canada. (<b>Spotlight</b>)
+Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen and Xueqi Cheng. <a target='new' href=''>Generative Retrieval Meets Multi-Graded Relevance</a>. <i>The Thirty-eighth Annual Conference on Neural Information Processing Systems (<b>NeurIPS 2024</b>)</i>. Vancouver, Canada. (<b>Spotlight</b>)
 </li>
 
 <li>
