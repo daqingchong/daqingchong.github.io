@@ -5,6 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+IN THE YEAR OF 2024
+------
+
+<ul>
+<li>
+Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Shihao Liu, Shuaiqiang Wang, Dawei Yin and Xueqi Cheng. <a target='new' href=''>Generative Retrieval for Book Search</a>. <i>31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD 2025</b>)</i>. Toronto, Canada. (<b>Full Paper</b>)
+</li>
+</ul>
+
 IN THE YEAR OF 2024
 ------
 
