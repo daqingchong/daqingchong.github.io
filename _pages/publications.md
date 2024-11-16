@@ -25,7 +25,7 @@ Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen and Xue
 </li>
 
 <li>
-Weichao Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Pretraining Data Detection for Large Language Models: A Divergence-based Calibration Method</a>. <i>The 2024 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2024</b>)</i>. Miami, USA. (<b>Full Paper</b>)
+Weichao Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Pretraining Data Detection for Large Language Models: A Divergence-based Calibration Method</a>. <i>The 2024 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2024</b>)</i>. Miami, USA. (<b>Full Paper</b>) (<b>Best Paper Award</b>) 
 </li>
 
 <li>
