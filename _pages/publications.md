@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-IN THE YEAR OF 2024
+IN THE YEAR OF 2025
 ------
 
 <ul>
