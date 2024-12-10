@@ -11,6 +11,10 @@ IN THE YEAR OF 2025
 
 <ul>
 <li>
+Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Attack-in-the-Chain: Bootstrapping Large Language Models for Attacks against Black-box Neural Ranking Models</a>. <i>The 39th Annual AAAI Conference on Artificial Intelligence (<b>AAAI 2025</b>)</i>. Philadelphia, Pennsylvania. (<b>Full Paper</b>)
+</li>
+
+<li>
 Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Shihao Liu, Shuaiqiang Wang, Dawei Yin and Xueqi Cheng. <a target='new' href=''>Generative Retrieval for Book Search</a>. <i>31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD 2025</b>)</i>. Toronto, Canada. (<b>Full Paper</b>)
 </li>
 </ul>
