@@ -11,6 +11,10 @@ IN THE YEAR OF 2025
 
 <ul>
 <li>
+Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Changjiang Zhou, Maarten de Rijke and Xueqi Cheng. <a target='new' href=''>On the Robustness of Generative Information Retrieval Models: An Out-of-Distribution Perspective</a>. <i>The 47th European Conference on Information Retrieval (<b>ECIR 2025</b>)</i>. Lucca, Italy. (<b>Full Paper</b>)
+</li>
+
+<li>
 Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Attack-in-the-Chain: Bootstrapping Large Language Models for Attacks against Black-box Neural Ranking Models</a>. <i>The 39th Annual AAAI Conference on Artificial Intelligence (<b>AAAI 2025</b>)</i>. Philadelphia, Pennsylvania. (<b>Full Paper</b>)
 </li>
 
