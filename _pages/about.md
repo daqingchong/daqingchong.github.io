@@ -17,6 +17,9 @@ Workshops
 ------
 <ul>
 <li>
+I will co-organize <a href='https://sigir-2025-workshop-on-robust-ir.github.io/'>The First Workshop on Robust Information Retrieval (Robust-IR)</a> at SIGIR 2025. Looking forward to seeing you in Padova, Italy.
+</li>
+<li>
 I co-organized <a href='https://coda.io/@sigir/gen-ir-24'>The Second Workshop on Generative Information Retrieval (Gen-IR)</a> at SIGIR 2024. 
 </li>
 <li>
@@ -28,7 +31,7 @@ Tutorials
 ------
 <ul>
 <li>
-I will co-organize a tutorial on "Robust Information Retrieval" at WSDM 2025. Looking forward to seeing you in Hannover, Germany.
+I co-organized the tutorial on "<a href="https://wsdm2025-robust-information-retrieval.github.io/">Robust Information Retrieval</a>" at WSDM 2025. 
 </li>
 <li>
 I co-organized the tutorial on "<a href='https://sigir2024-robust-information-retrieval.github.io/'>Robust Information Retrieval</a>" at SIGIR 2024. The survey on robust information retrieval is available <a href='https://arxiv.org/pdf/2407.06992'>here</a>.
