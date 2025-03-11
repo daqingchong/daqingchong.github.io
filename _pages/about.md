@@ -31,10 +31,7 @@ Tutorials
 ------
 <ul>
 <li>
-I co-organized the tutorial on "<a href="https://wsdm2025-robust-information-retrieval.github.io/">Robust Information Retrieval</a>" at WSDM 2025. 
-</li>
-<li>
-I co-organized the tutorial on "<a href='https://sigir2024-robust-information-retrieval.github.io/'>Robust Information Retrieval</a>" at SIGIR 2024. The survey on robust information retrieval is available <a href='https://arxiv.org/pdf/2407.06992'>here</a>.
+I co-organized the tutorial on "Robust Information Retrieval" at <a href='https://sigir2024-robust-information-retrieval.github.io/'>SIGIR 2024</a> and <a href="https://wsdm2025-robust-information-retrieval.github.io/">WSDM 2025</a>. The survey on robust information retrieval is available <a href='https://arxiv.org/pdf/2407.06992'>here</a>.
 </li>
 <li>
 I co-organized the tutorial on "Recent Advances in Generative Information Retrieval" at <a href='https://sigir-ap2023-generative-ir.github.io/'>SIGIR-AP 2023</a>, <a href='https://ecir2024-generativeir.github.io/'>ECIR 2024</a>, <a href='https://TheWebConf2024-generative-IR.github.io'>The Web Conference 2024</a> and <a href='https://generative-ir.github.io/'>SIGIR 2024</a>.
