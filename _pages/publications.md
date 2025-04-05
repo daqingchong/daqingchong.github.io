@@ -10,6 +10,19 @@ IN THE YEAR OF 2025
 ------
 
 <ul>
+
+<li>
+Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Boosting Retrieval-Augmented Generation with Generation-Augmented Retrieval: A Co-Training Approach</a>. <i>The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval. (<b>SIGIR 2025</b>)</i>. Padua, Italy. (<b>Full Paper</b>)
+</li>
+
+<li>
+Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href=''>On the Scaling of Robustness and Effectiveness in Dense Retrieval</a>. <i>The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval. (<b>SIGIR 2025</b>)</i>. Padua, Italy. (<b>Full Paper</b>)
+</li>
+
+<li>
+Ning Xian, Yixing Fan, <b>Ruqing Zhang</b>, Maarten de Rijke and Jiafeng Guo. <a target='new' href=''>An Empirical Study of Evaluating Long-form Question Answering</a>. <i>The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval. (<b>SIGIR 2025</b>)</i>. Padua, Italy. (<b>Full Paper</b>)
+</li>
+
 <li>
 Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Changjiang Zhou, Maarten de Rijke and Xueqi Cheng. <a target='new' href=''>On the Robustness of Generative Information Retrieval Models: An Out-of-Distribution Perspective</a>. <i>The 47th European Conference on Information Retrieval (<b>ECIR 2025</b>)</i>. Lucca, Italy. (<b>Full Paper</b>)
 </li>
