@@ -24,6 +24,14 @@ Ning Xian, Yixing Fan, <b>Ruqing Zhang</b>, Maarten de Rijke and Jiafeng Guo. <a
 </li>
 
 <li>
+Jiafeng Guo, Yinqiong Cai, Keping Bi, Yixing Fan, Wei Chen, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href=''>CAME: Competitively Learning a Mixture-of-Experts Model for First-stage Retrieval</a>. <i>ACM Transactions on Information Systems (<b>TOIS</b>). </i>
+</li>
+
+<li>
+Xueqi Cheng, Yuanzheng Wang, Yixing Fan, Jiafeng Guo, <b>Ruqing Zhang</b> and Keping Bi. <a target='new' href=''>GSM-EL: A Generalizable Symbol-Manipulation Approach for Entity Linking</a>. <i>IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>). </i>
+</li>
+
+<li>
 Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Changjiang Zhou, Maarten de Rijke and Xueqi Cheng. <a target='new' href=''>On the Robustness of Generative Information Retrieval Models: An Out-of-Distribution Perspective</a>. <i>The 47th European Conference on Information Retrieval (<b>ECIR 2025</b>)</i>. Lucca, Italy. (<b>Full Paper</b>)
 </li>
 
@@ -65,9 +73,6 @@ Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xu
 Jun Yang, Yixing Fan, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, and Xueqi Cheng. <a target='new' href=''>GaQR: An Efficient Generation-augmented Question Rewriter</a>. <i>33rd ACM International Conference on Information and Knowledge Management (<b>CIKM 2024</b>)</i>. Idaho, USA. (<b>Short Paper, Acceptance Rate = 27%</b>)
 </li>
 
-<li>
-Yinqiong Cai, Yixing Fan, Keping Bi, Jiafeng Guo, Wei Chen, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2311.02834'>CAME: Competitively Learning a Mixture-of-Experts Model for First-stage Retrieval</a>. <i>ACM Transactions on Information Systems (<b>TOIS</b>). </i>
-</li>
 
 <li>
 Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Bootstrapped Pre-training with Dynamic Identifier Prediction for Generative Retrieval</a>. <i>Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (<b>ACL 2024</b>)</i>. (<b>Full Paper</b>)
