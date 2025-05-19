@@ -12,6 +12,10 @@ IN THE YEAR OF 2025
 <ul>
 
 <li>
+Hongru Song, Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Jianming Lv, Maarten de Rijke, Xueqi Cheng <a target='new' href=''>The Silent Saboteur: Imperceptible Adversarial Attacks against Black-Box Retrieval-Augmented Generation Systems</a>. <i>Findings of the 63rd Annual Meeting of the Association for Computational Linguistics. (<b>ACL 2025</b>)</i>. Vienna, Austria. (<b>Full Paper</b>)
+</li>
+
+<li>
 Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href=''>Boosting Retrieval-Augmented Generation with Generation-Augmented Retrieval: A Co-Training Approach</a>. <i>The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval. (<b>SIGIR 2025</b>)</i>. Padua, Italy. (<b>Full Paper</b>)
 </li>
 
@@ -104,7 +108,7 @@ Jiafeng Guo, Changjiang Zhou, <b>Ruqing Zhang</b>, Jiangui Chen, Maarten de Rijk
 
 
 <li>
-Yuan Liu, <b>Ruqing Zhang</b>, Mingkun Zhang, Wei Chen, Maarten de Rijke, Jiafeng Guo and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2312.10329'>Perturbation-Invariant Adversarial Training for Neural Ranking Models: Improving the Effectiveness-Robustness Trade-Off</a>. <i>The 38th AAAI Conference on Artificial Intelligence (<b>AAAI 2024</b>)</i>. Vancouver, Canada. (<b>Full Paper, Acceptance Rate = 23.75%</b>)
+Yu-An Liu, <b>Ruqing Zhang</b>, Mingkun Zhang, Wei Chen, Maarten de Rijke, Jiafeng Guo and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2312.10329'>Perturbation-Invariant Adversarial Training for Neural Ranking Models: Improving the Effectiveness-Robustness Trade-Off</a>. <i>The 38th AAAI Conference on Artificial Intelligence (<b>AAAI 2024</b>)</i>. Vancouver, Canada. (<b>Full Paper, Acceptance Rate = 23.75%</b>)
 </li>
 
 <li>
@@ -136,7 +140,7 @@ Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixi
 </li>
 
 <li>
-Yuan Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3583780.3614793'>Black-box Adversarial Attacks against Dense Retrieval Models: A Multi-view Contrastive Learning Method</a>. <i>32nd ACM International Conference on Information and Knowledge Management (<b>CIKM 2023</b>)</i>. Birmingham, UK. (<b>Full Paper, Acceptance Rate = 24%</b>)
+Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan and Xueqi Cheng. <a target='new' href='https://dl.acm.org/doi/pdf/10.1145/3583780.3614793'>Black-box Adversarial Attacks against Dense Retrieval Models: A Multi-view Contrastive Learning Method</a>. <i>32nd ACM International Conference on Information and Knowledge Management (<b>CIKM 2023</b>)</i>. Birmingham, UK. (<b>Full Paper, Acceptance Rate = 24%</b>)
 </li>
 
 <li>
@@ -145,7 +149,7 @@ Lu Chen, <b>Ruqing Zhang</b>, Wei Huang, Wei Chen, Jiafeng Guo and Xueqi Cheng. 
 
 
 <li>
-Yuan Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Wei Chen and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2306.12756.pdf'>On the Robustness of Generative Retrieval Models: An Out-of-Distribution Perspective</a>. <i>Gen-IR Workshop@SIGIR2023 </i>
+Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Wei Chen and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2306.12756.pdf'>On the Robustness of Generative Retrieval Models: An Out-of-Distribution Perspective</a>. <i>Gen-IR Workshop@SIGIR2023 </i>
 </li>
 
 <li>
@@ -157,7 +161,7 @@ Jiangui Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yiqun Liu, Yix
 </li>
 
 <li>
-Yuan Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2304.14867.pdf'>Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models</a>. <i>The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2023</b>)</i>. (<b>Full Paper, Acceptance Rate = 20.1%</b>)
+Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2304.14867.pdf'>Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models</a>. <i>The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2023</b>)</i>. (<b>Full Paper, Acceptance Rate = 20.1%</b>)
 </li>
 
 <li>
