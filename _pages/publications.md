@@ -12,7 +12,7 @@ IN THE YEAR OF 2025
 <ul>
 
 <li>
-Hongru Song, Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Jianming Lv, Maarten de Rijke, Xueqi Cheng <a target='new' href=''>The Silent Saboteur: Imperceptible Adversarial Attacks against Black-Box Retrieval-Augmented Generation Systems</a>. <i>Findings of the 63rd Annual Meeting of the Association for Computational Linguistics. (<b>ACL 2025</b>)</i>. Vienna, Austria. (<b>Full Paper</b>)
+Hongru Song, Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Jianming Lv, Maarten de Rijke and Xueqi Cheng. <a target='new' href=''>The Silent Saboteur: Imperceptible Adversarial Attacks against Black-Box Retrieval-Augmented Generation Systems</a>. <i>Findings of the 63rd Annual Meeting of the Association for Computational Linguistics. (<b>ACL 2025</b>)</i>. Vienna, Austria. (<b>Full Paper</b>)
 </li>
 
 <li>
