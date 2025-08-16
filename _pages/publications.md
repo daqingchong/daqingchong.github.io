@@ -11,6 +11,9 @@ IN THE YEAR OF 2025
 
 <ul>
 
+
+
+
 <li>
 Hongru Song, Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Jianming Lv, Maarten de Rijke and Xueqi Cheng. <a target='new' href=''>The Silent Saboteur: Imperceptible Adversarial Attacks against Black-Box Retrieval-Augmented Generation Systems</a>. <i>Findings of the 63rd Annual Meeting of the Association for Computational Linguistics. (<b>ACL 2025</b>)</i>. Vienna, Austria. (<b>Full Paper</b>)
 </li>
@@ -46,6 +49,11 @@ Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xu
 <li>
 Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Shihao Liu, Shuaiqiang Wang, Dawei Yin and Xueqi Cheng. <a target='new' href=''>Generative Retrieval for Book Search</a>. <i>31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD 2025</b>)</i>. Toronto, Canada. (<b>Full Paper</b>)
 </li>
+
+<li>
+Jiafeng Guo, Changjiang Zhou, <b>Ruqing Zhang</b>, Jiangui Chen, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2402.06220'>CorpusBrain++: A Continual Generative Pre-Training Framework for Knowledge-Intensive Language Tasks</a>.<i> ACM Transactions on Information Systems (<b>TOIS</b>). </i>
+</li>
+
 </ul>
 
 IN THE YEAR OF 2024
@@ -102,9 +110,7 @@ Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Wei Chen, and Xu
 Lu Chen, Wei Huang, <b>Ruqing Zhang</b>, Wei Chen, Jiafeng Guo and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2402.06220'>A Unified Causal View of Instruction Tuning</a>. <i>arXiv preprint arXiv:2402.06220</i>
 </li>
 
-<li>
-Jiafeng Guo, Changjiang Zhou, <b>Ruqing Zhang</b>, Jiangui Chen, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2402.06220'>CorpusBrain++: A Continual Generative Pre-Training Framework for Knowledge-Intensive Language Tasks</a>. <i>	arXiv:2402.16767</i>
-</li>
+
 
 
 <li>
