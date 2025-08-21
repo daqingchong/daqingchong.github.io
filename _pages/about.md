@@ -17,7 +17,7 @@ Workshops
 ------
 <ul>
 <li>
-I will co-organize <a href='https://sigir-2025-workshop-on-robust-ir.github.io/'>The First Workshop on Robust Information Retrieval (Robust-IR)</a> at SIGIR 2025. Looking forward to seeing you in Padova, Italy.
+I co-organized <a href='https://sigir-2025-workshop-on-robust-ir.github.io/'>The First Workshop on Robust Information Retrieval (Robust-IR)</a> at SIGIR 2025.
 </li>
 <li>
 I co-organized <a href='https://coda.io/@sigir/gen-ir-24'>The Second Workshop on Generative Information Retrieval (Gen-IR)</a> at SIGIR 2024. 
@@ -41,6 +41,9 @@ I co-organized the tutorial on "Recent Advances in Generative Information Retrie
 Hornors and Awards
 ------
 <ul>
+<li>
+2025, Beijing Youth Talent Support Project
+</li>
 <li>
 2024, <a href='https://2024.emnlp.org/program/best_papers/'>EMNLP Best Paper Award</a>
 </li>

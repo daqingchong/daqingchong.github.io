@@ -11,6 +11,10 @@ IN THE YEAR OF 2025
 
 <ul>
 
+<li>
+Changjiang Zhou, <b>Ruqing Zhang</b>, Jiafeng Guo, Yu-An Liu, Fan Zhang, Ganyuan Luo and Xueqi Cheng. <a target='new' href=''>A Generative Framework for Personalized Sticker Retrieval</a>. <i>Findings of the 2025 Conference on Empirical Methods in Natural Language Processing. (<b>EMNLP 2025</b>)</i>. Suzhou, China. (<b>Full Paper</b>)
+</li>
+
 
 
 
