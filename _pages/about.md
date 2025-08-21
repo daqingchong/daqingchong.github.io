@@ -51,6 +51,9 @@ Hornors and Awards
 2024, Youth Innovation Promotion Association, CAS
 </li>
  <li>
+2024, Excellect Researcher in Institute of Computing Technology, CAS
+</li>
+ <li>
 2022, Academic New Star in Institute of Computing Technology, CAS
 </li>
  <li>
