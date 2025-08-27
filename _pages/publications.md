@@ -16,8 +16,6 @@ Changjiang Zhou, <b>Ruqing Zhang</b>, Jiafeng Guo, Yu-An Liu, Fan Zhang, Ganyuan
 </li>
 
 
-
-
 <li>
 Hongru Song, Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Jianming Lv, Maarten de Rijke and Xueqi Cheng. <a target='new' href=''>The Silent Saboteur: Imperceptible Adversarial Attacks against Black-Box Retrieval-Augmented Generation Systems</a>. <i>Findings of the 63rd Annual Meeting of the Association for Computational Linguistics. (<b>ACL 2025</b>)</i>. Vienna, Austria. (<b>Full Paper</b>)
 </li>
@@ -34,13 +32,7 @@ Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xu
 Ning Xian, Yixing Fan, <b>Ruqing Zhang</b>, Maarten de Rijke and Jiafeng Guo. <a target='new' href=''>An Empirical Study of Evaluating Long-form Question Answering</a>. <i>The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval. (<b>SIGIR 2025</b>)</i>. Padua, Italy. (<b>Full Paper</b>)
 </li>
 
-<li>
-Jiafeng Guo, Yinqiong Cai, Keping Bi, Yixing Fan, Wei Chen, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href=''>CAME: Competitively Learning a Mixture-of-Experts Model for First-stage Retrieval</a>. <i>ACM Transactions on Information Systems (<b>TOIS</b>). </i>
-</li>
 
-<li>
-Xueqi Cheng, Yuanzheng Wang, Yixing Fan, Jiafeng Guo, <b>Ruqing Zhang</b> and Keping Bi. <a target='new' href=''>GSM-EL: A Generalizable Symbol-Manipulation Approach for Entity Linking</a>. <i>IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>). </i>
-</li>
 
 <li>
 Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Changjiang Zhou, Maarten de Rijke and Xueqi Cheng. <a target='new' href=''>On the Robustness of Generative Information Retrieval Models: An Out-of-Distribution Perspective</a>. <i>The 47th European Conference on Information Retrieval (<b>ECIR 2025</b>)</i>. Lucca, Italy. (<b>Full Paper</b>)
@@ -55,7 +47,20 @@ Yubao Tang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Shihao Liu, Shua
 </li>
 
 <li>
-Jiafeng Guo, Changjiang Zhou, <b>Ruqing Zhang</b>, Jiangui Chen, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2402.06220'>CorpusBrain++: A Continual Generative Pre-Training Framework for Knowledge-Intensive Language Tasks</a>.<i> ACM Transactions on Information Systems (<b>TOIS</b>). </i>
+Jiafeng Guo, Changjiang Zhou, <b>Ruqing Zhang</b>, Jiangui Chen, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href='https://arxiv.org/abs/2402.06220'>CorpusBrain++: A Continual Generative Pre-Training Framework for Knowledge-Intensive Language Tasks</a>. <i> ACM Transactions on Information Systems (<b>TOIS</b>). </i>
+
+<li>
+Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2407.06992'>Robust Neural Information Retrieval: An Adversarial and Out-of-distribution Perspective</a>. <i> ACM Transactions on Information Systems (<b>TOIS</b>). </i>
+</li>
+
+<li>
+Jiafeng Guo, Yinqiong Cai, Keping Bi, Yixing Fan, Wei Chen, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href=''>CAME: Competitively Learning a Mixture-of-Experts Model for First-stage Retrieval</a>. <i>ACM Transactions on Information Systems (<b>TOIS</b>). </i>
+</li>
+
+<li>
+Xueqi Cheng, Yuanzheng Wang, Yixing Fan, Jiafeng Guo, <b>Ruqing Zhang</b> and Keping Bi. <a target='new' href=''>GSM-EL: A Generalizable Symbol-Manipulation Approach for Entity Linking</a>. <i>IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>). </i>
+</li>
+
 </li>
 
 </ul>
@@ -81,9 +86,7 @@ Lu Chen, <b>Ruqing Zhang</b>, Jiafeng Guo, Yixing Fan and Xueqi Cheng. <a target
 Yuanzheng Wang, Yixing Fan, Jiafeng Guo, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href=''>RoCEL: Advancing Table Entity Linking through Distinctive Row and Column Contexts</a>. <i> The 2024 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2024</b>)</i>. Miami, USA. (<b>Full Paper</b>)
 </li>
 
-<li>
-Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href='https://arxiv.org/pdf/2407.06992'>Robust Neural Information Retrieval: An Adversarial and Out-of-distribution Perspective</a>. <i>arXiv:2407.06992</i>
-</li>
+
 
 <li>
 Jun Yang, Yixing Fan, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, and Xueqi Cheng. <a target='new' href=''>GaQR: An Efficient Generation-augmented Question Rewriter</a>. <i>33rd ACM International Conference on Information and Knowledge Management (<b>CIKM 2024</b>)</i>. Idaho, USA. (<b>Short Paper, Acceptance Rate = 27%</b>)
