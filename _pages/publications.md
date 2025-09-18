@@ -12,6 +12,15 @@ IN THE YEAR OF 2025
 <ul>
 
 <li>
+Yingchen Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Wenjun Peng, Sen Li, Fuyu Lv and Xueqi Cheng. <a target='new' href=''>C2T-ID: Converting Semantic Codebooks to Textual Document Identifiers for Generative Search</a>. <i>The 3rd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (<b>SIGIR-AP 2025</b>)</i>. Xi'an, China. (<b>Full Paper</b>)
+</li>
+
+<li>
+Haosheng Qian, Yixing Fan, Jiafeng Guo, <b>Ruqing Zhang</b>, Qi Chen, Dawei Yin and Xueqi Cheng. <a target='new' href=''>VeriCite: Towards Reliable Citations in Retrieval-Augmented Generation via Rigorous Verification</a>. <i>The 3rd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (<b>SIGIR-AP 2025</b>)</i>. Xi'an, China. (<b>Full Paper</b>)
+</li>
+
+
+<li>
 Changjiang Zhou, <b>Ruqing Zhang</b>, Jiafeng Guo, Yu-An Liu, Fan Zhang, Ganyuan Luo and Xueqi Cheng. <a target='new' href=''>A Generative Framework for Personalized Sticker Retrieval</a>. <i>Findings of the 2025 Conference on Empirical Methods in Natural Language Processing. (<b>EMNLP 2025</b>)</i>. Suzhou, China. (<b>Full Paper</b>)
 </li>
 
