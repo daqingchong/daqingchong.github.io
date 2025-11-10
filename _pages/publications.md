@@ -9,6 +9,17 @@ author_profile: true
 IN THE YEAR OF 2025
 ------
 
+
+<ul>
+<li>
+Wenda Wei, Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Lixin Su, Shuaiqiang Wang, Dawei Yin, Maarten de Rijke, Xueqi Cheng. <a target='new' href=''>Thinking Forward and Backward: Multi-Objective Reinforcement Learning for Retrieval-Augmented Reasoning</a>. <i>The 40th Annual AAAI Conference on Artificial Intelligence (<b>AAAI 2026</b>)</i>. Singapore. (<b>Full Paper</b>)
+</li>
+
+</ul>
+
+IN THE YEAR OF 2025
+------
+
 <ul>
 
 <li>
