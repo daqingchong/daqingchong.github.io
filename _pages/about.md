@@ -76,24 +76,18 @@ Hornors and Awards
 </li>
 </ul>
 
+
+
 Program Committee
 ------
 <ul>
  <li>
- 2024: SIGIR, WSDM, CIKM, EMNLP, ACL
+ Area Chairs: SIGIR, ACL ARR, AAAI
 </li>
  <li>
- 2023: SIGIR, WSDM, CIKM, EMNLP, ACL, CVPR, ECIR
+ (Senior) Reviewers: SIGIR, ICLR, NeurIPS, WSDM, CIKM, ACL, EMNLP, CVPR, NAACL, COLING, ECIR, AAAI, ECIR etc.
 </li>
- <li>
- 2022: SIGIR, CIKM, EMNLP, ECIR, AAAI
-</li>
- <li>
- 2021: SIGIR, CIKM, EMNLP, AAAI, ACL, NAACL-HLT
-</li>
- <li>
- 2020: SIGIR, CIKM, AAAI, ACL, AACL-ICNLP, COLING
-</li>
+
 
 </ul>
 
