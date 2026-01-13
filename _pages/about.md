@@ -82,10 +82,10 @@ Program Committee
 ------
 <ul>
  <li>
- Area Chairs: SIGIR, ACL ARR, AAAI
+ Senior Program Committee: SIGIR, ACL, AAAI
 </li>
  <li>
- (Senior) Reviewers: SIGIR, ICLR, NeurIPS, WSDM, CIKM, ACL, EMNLP, CVPR, NAACL, COLING, ECIR, AAAI, ECIR etc.
+ Reviewers: TOIS, TKDE, TPAMI, SIGIR, ICLR, NeurIPS, WSDM, CIKM, ACL, EMNLP, CVPR, NAACL, COLING, ECIR, AAAI, ECIR etc.
 </li>
 
 
