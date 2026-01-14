@@ -12,6 +12,14 @@ IN THE YEAR OF 2026
 
 <ul>
 <li>
+Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Changjiang Zhou, Fan Zhang and Yinhu Zhao. <a target='new' href=''>Déjà Vu of Strange Stickers! Enhancing Out-of-Distribution Robustness in Sticker Retrieval via Cross-Modal Intent Alignment</a>. <i>The Web Conference 2026 (<b>WebConf 2026</b>)</i>. Dubai, UAE. (<b>Full Paper</b>)
+</li>
+
+<li>
+Changjiang Zhou, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Fan Yixing and Xueqi Cheng. <a target='new' href=''>LongRanker: Efficient One-Pass Document Reranking with Long-Context Large Language Models</a>. <i>The Web Conference 2026 (<b>WebConf 2026</b>)</i>. Dubai, UAE. (<b>Full Paper</b>)
+</li>
+
+<li>
 Wenda Wei, Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Lixin Su, Shuaiqiang Wang, Dawei Yin, Maarten de Rijke, Xueqi Cheng. <a target='new' href=''>Thinking Forward and Backward: Multi-Objective Reinforcement Learning for Retrieval-Augmented Reasoning</a>. <i>The 40th Annual AAAI Conference on Artificial Intelligence (<b>AAAI 2026</b>)</i>. Singapore. (<b>Full Paper</b>)
 </li>
 
