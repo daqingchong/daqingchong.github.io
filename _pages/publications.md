@@ -16,11 +16,15 @@ Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Changjiang Zhou, Fan Zhang and Yinh
 </li>
 
 <li>
-Changjiang Zhou, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Fan Yixing and Xueqi Cheng. <a target='new' href=''>LongRanker: Efficient One-Pass Document Reranking with Long-Context Large Language Models</a>. <i>The Web Conference 2026 (<b>WebConf 2026</b>)</i>. Dubai, UAE. (<b>Full Paper</b>)
+Changjiang Zhou, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href=''>LongRanker: Efficient One-Pass Document Reranking with Long-Context Large Language Models</a>. <i>The Web Conference 2026 (<b>WebConf 2026</b>)</i>. Dubai, UAE. (<b>Full Paper</b>)
 </li>
 
 <li>
 Wenda Wei, Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Lixin Su, Shuaiqiang Wang, Dawei Yin, Maarten de Rijke, Xueqi Cheng. <a target='new' href=''>Thinking Forward and Backward: Multi-Objective Reinforcement Learning for Retrieval-Augmented Reasoning</a>. <i>The 40th Annual AAAI Conference on Artificial Intelligence (<b>AAAI 2026</b>)</i>. Singapore. (<b>Full Paper</b>)
+</li>
+
+<li>
+Yingchen Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Kaixuan Zhang, Zhihong Chen, Fuyu Lv and Xueqi Cheng. <a target='new' href=''>Generative Store Retrieval in Taobao Search</a>. <i>The 31st International Conference on Database Systems for Advanced Applications (<b>DASFAA 2026</b>)</i>. Jeju Island, Korea. (<b>Full Paper</b>)
 </li>
 
 </ul>
