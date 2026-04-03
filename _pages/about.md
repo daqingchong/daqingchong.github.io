@@ -58,13 +58,13 @@ Hornors and Awards
 2024, Youth Innovation Promotion Association, CAS
 </li>
  <li>
-2024, Excellect Researcher in Institute of Computing Technology, CAS
+2024, Outstanding Researcher, ICT, CAS
 </li>
  <li>
-2022, Academic New Star in Institute of Computing Technology, CAS
+2022, New Hundred Stars Talent Program, ICT, CAS
 </li>
  <li>
-2021, Excellect Researcher in Institute of Computing Technology, CAS
+2021, Outstanding Researcher, ICT, CAS
 </li>
 <li>
 <a href='https://www.ccf.org.cn/yxbsxwlwjtm/2021-01-14/721439.shtml'>2020, China Computer Federation (CCF) Outstanding Doctoral Dissertation Award Nomination </a>
