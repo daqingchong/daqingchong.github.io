@@ -11,6 +11,19 @@ IN THE YEAR OF 2026
 
 
 <ul>
+
+<li>
+Xin Liu, <b>Ruqing Zhang</b>, Yu-An Liu, Lixin Su, Jiafeng Guo and Xueqi Cheng. <a target='new' href=''>Is a Busy Search Agent a Good One? Overthinking and Overretrieval at Scale</a>. <i>The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2026</b>)</i>. Melbourne, Australia. (<b>Short Paper</b>)
+</li>
+
+<li>
+Puji Wang, Yingchen Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo and Xueqi Cheng. <a target='new' href=''>One-Pass Decoding for Generative Recommendation with WFST-Constrained A* Search</a>. <i>The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2026</b>)</i>. Melbourne, Australia. (<b>Short Paper</b>)
+</li>
+
+<li>
+Hongru Song, Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng. <a target='new' href=''>AdversarialCoT: Single-Document Retrieval Poisoning for LLM Reasoning</a>. <i>The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2026</b>)</i>. Melbourne, Australia. (<b>Short Paper</b>)
+</li>
+
 <li>
 Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Changjiang Zhou, Fan Zhang and Yinhu Zhao. <a target='new' href=''>Déjà Vu of Strange Stickers! Enhancing Out-of-Distribution Robustness in Sticker Retrieval via Cross-Modal Intent Alignment</a>. <i>The Web Conference 2026 (<b>WebConf 2026</b>)</i>. Dubai, UAE. (<b>Full Paper</b>)
 </li>
