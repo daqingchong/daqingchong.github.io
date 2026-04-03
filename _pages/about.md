@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Ruqing Zhang (张儒清)"
 excerpt: "Ruqing Zhang"
@@ -84,11 +85,11 @@ Hornors and Awards
 
 
 
-Program Committee
+Services
 ------
 <ul>
  <li>
- Senior Program Committee: SIGIR, ACL, AAAI
+ Senior Program Committee / Area Chair: SIGIR, ACL, AAAI
 </li>
  <li>
  Reviewers: TOIS, TKDE, TPAMI, SIGIR, ICLR, NeurIPS, WSDM, CIKM, ACL, EMNLP, CVPR, NAACL, COLING, ECIR, AAAI, ECIR etc.
