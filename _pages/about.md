@@ -15,9 +15,9 @@ My research focuses on <b>Generative Information Retrieval</b>, aiming to move b
 
 My current interests center on <b>DeepResearch agents</b>, i.e., autonomous systems for long-horizon information access and knowledge synthesis. I am particularly interested in three challenges: (1) Self-evolving intelligence: enabling agents to continuously learn, adapt, and accumulate reusable knowledge; (2) Computational efficiency: improving token economy and computational efficiency for scalable deployment; and (3) Safety: enhancing robustness, reliability, and trustworthiness in real-world applications.
 
-I have authored over 80 peer-reviewed publications in leading international journals and conferences, including ACM TOIS, SIGIR, WWW, KDD, NeurIPS, CIKM, WSDM, ACL, EMNLP etc. My researcg is supported by the National Key Research and Development Program of China, National Natural Science Foundation of China (NSFC), the CAS Strategic Priority Research Program, and research funding from industry partners including Baidu,Tencent, ByteDance, Alibaba, etc. 
+I have authored over 80 peer-reviewed publications in leading international journals and conferences, including ACM TOIS, SIGIR, WWW, KDD, NeurIPS, CIKM, WSDM, ACL, EMNLP etc. My research is supported by the National Key Research and Development Program of China, National Natural Science Foundation of China (NSFC), the CAS Strategic Priority Research Program, and research funding from industry partners including Baidu,Tencent, ByteDance, Alibaba, etc. 
 
-I am always excited to work with talented and self-motivated interns interested in machine learning, information retrieval, natural language processing, and LLMs. Master’s positions are available each year, and motivated students are encouraged to reach out. 
+<i>I am always excited to work with talented and self-motivated interns interested in machine learning, information retrieval, natural language processing, and LLMs. Master’s positions are available each year, and motivated students are encouraged to reach out.</i>
 
 
 Workshops
