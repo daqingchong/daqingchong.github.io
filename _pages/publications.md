@@ -13,6 +13,15 @@ IN THE YEAR OF 2026
 <ul>
 
 <li>
+Yu-An Liu, <b>Ruqing Zhang</b>, Hongru Song, Jiafeng Guo, Yixing Fan and Xueqi Cheng. <a target='new' href=''>	
+Stop Hardening Everything: A Training-Free Neuron-Level Defense for Neural Ranking Models</a>. <i>The 64th Annual Meeting of the Association for Computational Linguistics (<b>ACL 2026</b>)</i>. San Diego, United States. (<b>Main, Full Paper</b>)
+</li>
+
+<li>
+Xin Liu, Yu-An Liu, <b>Ruqing Zhang</b>, Yixing Fan, Lixin Su, Jiafeng Guo and Xueqi Cheng. <a target='new' href=''>Compete to Complete: Co-opetition Adversarial Learning for Retrieval-Augmented Generation</a>. <i>The 64th Annual Meeting of the Association for Computational Linguistics (<b>ACL 2026</b>)</i>. San Diego, United States. (<b>Main, Full Paper</b>)
+</li>
+
+<li>
 Xin Liu, <b>Ruqing Zhang</b>, Yu-An Liu, Lixin Su, Jiafeng Guo and Xueqi Cheng. <a target='new' href=''>Is a Busy Search Agent a Good One? Overthinking and Overretrieval at Scale</a>. <i>The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2026</b>)</i>. Melbourne, Australia. (<b>Short Paper</b>)
 </li>
 
