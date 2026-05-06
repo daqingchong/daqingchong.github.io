@@ -89,10 +89,10 @@ Services
 ------
 <ul>
  <li>
- Senior Program Committee / Area Chair: SIGIR, ACL, AAAI
+ Senior Program Committee / Area Chair: SIGIR, ACL, AAAI, CIKM
 </li>
  <li>
- Reviewers: TOIS, TKDE, TPAMI, SIGIR, ICLR, NeurIPS, WSDM, CIKM, ACL, EMNLP, CVPR, NAACL, COLING, ECIR, AAAI, ECIR etc.
+ Reviewers: TOIS, TKDE, TPAMI, ICLR, NeurIPS, KDD, WebConf, WSDM, EMNLP, CVPR, NAACL, COLING, ECIR, etc.
 </li>
 
 
