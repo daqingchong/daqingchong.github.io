@@ -49,6 +49,9 @@ Hornors and Awards
 ------
 <ul>
 <li>
+2026, <a href='https://sigir.org/awards/sigir-ecr-awards/'>SIGIR Early Career Researcher Awards (Excellence in Research)</a>
+</li>
+<li>
 2025, Beijing Youth Talent Support Project
 </li>
 <li>

@@ -13,6 +13,11 @@ IN THE YEAR OF 2026
 <ul>
 
 <li>
+Hongru Song, <b>Ruqing Zhang</b>, Jiafeng Guo, Xueqi Cheng and Maarten de Rijke. <a target='new' href=''>	
+DeepRepro: State-Aware Subplanning for Paper-to-Code Reproduction in Evolving Repositories</a>. <i>35th International ACM Conference on Knowledge and Information Management (<b>CIKM 2026</b>)</i>. Rome, ITALY. (<b>Demo Paper</b>)
+</li>
+
+<li>
 Yu-An Liu, <b>Ruqing Zhang</b>, Hongru Song, Jiafeng Guo, Yixing Fan and Xueqi Cheng. <a target='new' href=''>	
 Stop Hardening Everything: A Training-Free Neuron-Level Defense for Neural Ranking Models</a>. <i>The 64th Annual Meeting of the Association for Computational Linguistics (<b>ACL 2026</b>)</i>. San Diego, United States. (<b>Main, Full Paper</b>)
 </li>
