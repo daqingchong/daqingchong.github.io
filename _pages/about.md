@@ -17,8 +17,6 @@ My current interests center on <b>DeepResearch agents</b>, i.e., autonomous syst
 
 I have authored over 80 peer-reviewed publications in leading international journals and conferences, including ACM TOIS, SIGIR, WWW, KDD, NeurIPS, CIKM, WSDM, ACL, EMNLP etc. My research is supported by the National Key Research and Development Program of China, National Natural Science Foundation of China (NSFC), the CAS Strategic Priority Research Program, and research funding from industry partners including Baidu,Tencent, ByteDance, Alibaba, etc. 
 
-<i>I am always excited to work with talented and self-motivated interns interested in machine learning, information retrieval, natural language processing, and LLMs. Master’s positions are available each year, and motivated students are encouraged to reach out.</i>
-
 
 Workshops
 ------
@@ -49,7 +47,7 @@ Hornors and Awards
 ------
 <ul>
 <li>
-2026, <a href='https://sigir.org/awards/sigir-ecr-awards/'>SIGIR Early Career Researcher Awards (Excellence in Research)</a>
+2026, <a href='https://sigir.org/awards/sigir-ecr-awards/'>ACM SIGIR Early Career Researcher Awards (Excellence in Research)</a>
 </li>
 <li>
 2025, Beijing Youth Talent Support Project
