@@ -13,8 +13,13 @@ IN THE YEAR OF 2026
 <ul>
 
 <li>
+Yuzhe Liu, <b>Ruqing Zhang</b>, Yingchen Zhang, Jiafeng Guo and Xueqi Cheng <a target='new' href=''>	
+Retriever as an Attack Surface: Exploring Fairness Vulnerabilities in Retrieval-Augmented Generation</a>. <i>The 35th International ACM Conference on Knowledge and Information Management (<b>CIKM 2026</b>)</i>. Rome, ITALY. (<b>Full Paper</b>)
+</li>
+
+<li>
 Hongru Song, <b>Ruqing Zhang</b>, Jiafeng Guo, Xueqi Cheng and Maarten de Rijke. <a target='new' href=''>	
-DeepRepro: State-Aware Subplanning for Paper-to-Code Reproduction in Evolving Repositories</a>. <i>35th International ACM Conference on Knowledge and Information Management (<b>CIKM 2026</b>)</i>. Rome, ITALY. (<b>Demo Paper</b>)
+DeepRepro: State-Aware Subplanning for Paper-to-Code Reproduction in Evolving Repositories</a>. <i>The 35th International ACM Conference on Knowledge and Information Management (<b>CIKM 2026</b>)</i>. Rome, ITALY. (<b>Demo Paper</b>)
 </li>
 
 <li>
