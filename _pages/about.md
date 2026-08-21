@@ -14,15 +14,12 @@ I am currently an Associate Professor at Institute of Computing Technology (ICT)
 My research focuses on <b>Generative Information Retrieval</b>, aiming to move beyond traditional document retrieval toward systems that can understand, generate, and continuously refine knowledge. I study key topics including complex query understanding, generative retrieval, retrieval-augmented generation, agentic search, adversarial robustness, model distillation, LLM agents and LLM reasoning. 
 
 My current research interests center on <b>Long-Horizon Agents</b>: autonomous systems capable of sustained reasoning, interaction, and knowledge accumulation over extended tasks. I am particularly interested in understanding how such agents can continuously improve, efficiently scale, and operate reliably in complex real-world environments. Specifically, my research explores three fundamental challenges: 
-
-(1) Self-evolving intelligence: enabling agents to continuously learn from experience, refine their capabilities, and accumulate reusable knowledge through self-improvement and adaptation;
-
-(2) Efficient agentic computation: developing resource-efficient reasoning and execution mechanisms to improve scalability and enable long-term deployment;
-
+(1) Self-evolving intelligence: enabling agents to continuously learn from experience, refine their capabilities, and accumulate reusable knowledge through self-improvement and adaptation; 
+(2) Efficient agentic computation: developing resource-efficient reasoning and execution mechanisms to improve scalability and enable long-term deployment; 
 (3) Reliable and trustworthy agents: enhancing robustness, safety, and interpretability to ensure dependable performance in real-world applications.
 
 
-I have authored over 100 peer-reviewed publications in leading international journals and conferences, including ACM TOIS, SIGIR, WWW, KDD, NeurIPS, CIKM, WSDM, ACL, EMNLP etc. My research is supported by the National Key Research and Development Program of China, National Natural Science Foundation of China (NSFC), the CAS Strategic Priority Research Program, and research funding from industry partners including Baidu, Tencent, ByteDance, Alibaba, etc. 
+I have authored over 100 peer-reviewed publications in leading international journals and conferences, including ACM TOIS, SIGIR, WWW, KDD, NeurIPS, CIKM, WSDM, ACL, EMNLP etc. My research is supported by the National Key Research and Development Program of China, National Natural Science Foundation of China, the CAS Strategic Priority Research Program, and research funding from industry partners including Baidu, Tencent, ByteDance, Alibaba, etc. 
 
 
 Workshops
@@ -100,7 +97,7 @@ Services
  Senior Program Committee / Area Chair: SIGIR, ACL, AAAI, CIKM
 </li>
  <li>
- Reviewers: TOIS, TKDE, TPAMI, ICLR, NeurIPS, KDD, WebConf, WSDM, EMNLP, CVPR, NAACL, COLING, ECIR, etc.
+ Reviewers: TOIS, TKDE, TPAMI, ICLR, NeurIPS, KDD, WebConf, WSDM, EMNLP, CVPR, NAACL, ECIR, etc.
 </li>
 
 
