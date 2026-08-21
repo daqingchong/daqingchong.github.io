@@ -13,11 +13,11 @@ IN THE YEAR OF 2026
 <ul>
 
 <li>
-Yingchen Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Fuyu Lv, Xueqi Cheng. <a target='new' href=''>Training-Free Generative Retrieval</a>. <i>The 2026 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2026</b>)</i>. Budapest, Hungary. (<b>Main, Long Paper</b>)
+Yingchen Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Fuyu Lv and Xueqi Cheng. <a target='new' href=''>Training-Free Generative Retrieval</a>. <i>The 2026 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2026</b>)</i>. Budapest, Hungary. (<b>Main, Long Paper</b>)
 </li>
 
 <li>
-Yingchen Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Wenjun Peng, Sen Li, Fuyu Lv, Xueqi Cheng. <a target='new' href=''>Adaptive Reasoning for Efficient Generative Retrieval</a>. <i>The 2026 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2026</b>)</i>. Budapest, Hungary. (<b>Main, Long Paper</b>)
+Yingchen Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Wenjun Peng, Sen Li, Fuyu Lv and Xueqi Cheng. <a target='new' href=''>Adaptive Reasoning for Efficient Generative Retrieval</a>. <i>The 2026 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2026</b>)</i>. Budapest, Hungary. (<b>Main, Long Paper</b>)
 </li>
 
 
