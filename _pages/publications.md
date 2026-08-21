@@ -13,7 +13,20 @@ IN THE YEAR OF 2026
 <ul>
 
 <li>
-Yuzhe Liu, <b>Ruqing Zhang</b>, Yingchen Zhang, Jiafeng Guo and Xueqi Cheng <a target='new' href=''>	
+Yingchen Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Fuyu Lv, Xueqi Cheng. <a target='new' href=''>Training-Free Generative Retrieval</a>. <i>The 2026 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2026</b>)</i>. Budapest, Hungary. (<b>Main, Long Paper</b>)
+</li>
+
+<li>
+Yingchen Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Wenjun Peng, Sen Li, Fuyu Lv, Xueqi Cheng. <a target='new' href=''>Adaptive Reasoning for Efficient Generative Retrieval</a>. <i>The 2026 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2026</b>)</i>. Budapest, Hungary. (<b>Main, Long Paper</b>)
+</li>
+
+
+<li>
+Changjiang Zhou, <b>Ruqing Zhang</b>, Jiafeng Guo, Yingchen Zhang, Fuyu Lv and Xueqi Cheng. <a target='new' href=''>ParaShard: Knowledge Sharding for Effective Parametric Retrieval-Augmented Generation</a>. <i>The 2026 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2026</b>)</i>. Budapest, Hungary. (<b>Findings, Long Paper</b>)
+</li>
+
+<li>
+Yuzhe Liu, <b>Ruqing Zhang</b>, Yingchen Zhang, Jiafeng Guo and Xueqi Cheng. <a target='new' href=''>	
 Retriever as an Attack Surface: Exploring Fairness Vulnerabilities in Retrieval-Augmented Generation</a>. <i>The 35th International ACM Conference on Knowledge and Information Management (<b>CIKM 2026</b>)</i>. Rome, ITALY. (<b>Full Paper</b>)
 </li>
 
@@ -24,11 +37,11 @@ DeepRepro: State-Aware Subplanning for Paper-to-Code Reproduction in Evolving Re
 
 <li>
 Yu-An Liu, <b>Ruqing Zhang</b>, Hongru Song, Jiafeng Guo, Yixing Fan and Xueqi Cheng. <a target='new' href=''>	
-Stop Hardening Everything: A Training-Free Neuron-Level Defense for Neural Ranking Models</a>. <i>The 64th Annual Meeting of the Association for Computational Linguistics (<b>ACL 2026</b>)</i>. San Diego, United States. (<b>Main, Full Paper</b>)
+Stop Hardening Everything: A Training-Free Neuron-Level Defense for Neural Ranking Models</a>. <i>The 64th Annual Meeting of the Association for Computational Linguistics (<b>ACL 2026</b>)</i>. San Diego, United States. (<b>Main, Long Paper</b>)
 </li>
 
 <li>
-Xin Liu, Yu-An Liu, <b>Ruqing Zhang</b>, Yixing Fan, Lixin Su, Jiafeng Guo and Xueqi Cheng. <a target='new' href=''>Compete to Complete: Co-opetition Adversarial Learning for Retrieval-Augmented Generation</a>. <i>The 64th Annual Meeting of the Association for Computational Linguistics (<b>ACL 2026</b>)</i>. San Diego, United States. (<b>Main, Full Paper</b>)
+Xin Liu, Yu-An Liu, <b>Ruqing Zhang</b>, Yixing Fan, Lixin Su, Jiafeng Guo and Xueqi Cheng. <a target='new' href=''>Compete to Complete: Co-opetition Adversarial Learning for Retrieval-Augmented Generation</a>. <i>The 64th Annual Meeting of the Association for Computational Linguistics (<b>ACL 2026</b>)</i>. San Diego, United States. (<b>Main, Long Paper</b>)
 </li>
 
 <li>
