@@ -25,6 +25,11 @@ Yingchen Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Wenjun Peng, Sen Li, Fuyu Lv a
 Changjiang Zhou, <b>Ruqing Zhang</b>, Jiafeng Guo, Yingchen Zhang, Fuyu Lv and Xueqi Cheng. <a target='new' href=''>ParaShard: Knowledge Sharding for Effective Parametric Retrieval-Augmented Generation</a>. <i>The 2026 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2026</b>)</i>. Budapest, Hungary. (<b>Findings, Long Paper</b>)
 </li>
 
+
+<li>
+Yunfei Zhong, Jun Yang, Wei Huang, yinqiong cai, Haosheng Qian, Yixing Fan, <b>Ruqing Zhang</b>, Lixin Su, Daiting Shi, Jiafeng Guo. <a target='new' href=''>Querit-Reranker: Training Compact Multilingual Rerankers via Efficient Label-Free Distribution Adaptation</a>. <i>The 2026 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2026</b>)</i>. Budapest, Hungary. (<b>Industry Track</b>)
+</li>
+
 <li>
 Yuzhe Liu, <b>Ruqing Zhang</b>, Yingchen Zhang, Jiafeng Guo and Xueqi Cheng. <a target='new' href=''>	
 Retriever as an Attack Surface: Exploring Fairness Vulnerabilities in Retrieval-Augmented Generation</a>. <i>The 35th International ACM Conference on Knowledge and Information Management (<b>CIKM 2026</b>)</i>. Rome, ITALY. (<b>Full Paper</b>)
