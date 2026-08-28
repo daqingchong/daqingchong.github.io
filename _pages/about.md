@@ -13,7 +13,7 @@ I am currently an Associate Professor at Institute of Computing Technology (ICT)
 
 My research focuses on <b>Generative Information Retrieval</b>, aiming to move beyond traditional document retrieval toward intelligent systems that can understand, generate, and continuously refine knowledge. I study key topics including <b>generative retrieval</b>, <b>search agents</b>, <b>multimodal search</b>, <b>trustworthy LLM reasoning</b>, and <b>safety evaluation of LLMs</b>.
 
-My research focuses on building <b>autonomous scientific research agents</b> that enable large language models to participate in and accelerate the scientific discovery process. I study how foundation models can evolve from passive knowledge assistants into autonomous systems capable of long-horizon reasoning, experimentation, collaboration, and continuous self-improvement. My research investigates three fundamental challenges: 
+My current research interests center on building <b>autonomous scientific research agents</b> that enable large language models to participate in and accelerate the scientific discovery process. I study how foundation models can evolve from passive knowledge assistants into autonomous systems capable of long-horizon reasoning, experimentation, collaboration, and continuous self-improvement. My research investigates three fundamental challenges: 
 (1) <b>Self-evolving scientific intelligence</b>.
 How can AI agents continuously acquire, organize, and refine knowledge from their experiences? I explore recursive self-improvement, experience-driven learning, and adaptive knowledge evolution mechanisms that allow agents to progressively enhance their research capabilities. 
 (2) <b>Scalable and efficient agentic research</b>.
