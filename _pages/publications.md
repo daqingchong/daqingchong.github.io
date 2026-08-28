@@ -27,7 +27,7 @@ Changjiang Zhou, <b>Ruqing Zhang</b>, Jiafeng Guo, Yingchen Zhang, Fuyu Lv and X
 
 
 <li>
-Yunfei Zhong, Jun Yang, Wei Huang, yinqiong cai, Haosheng Qian, Yixing Fan, <b>Ruqing Zhang</b>, Lixin Su, Daiting Shi, Jiafeng Guo. <a target='new' href=''>Querit-Reranker: Training Compact Multilingual Rerankers via Efficient Label-Free Distribution Adaptation</a>. <i>The 2026 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2026</b>)</i>. Budapest, Hungary. (<b>Industry Track</b>)
+Yunfei Zhong, Jun Yang, Wei Huang, Yinqiong cai, Haosheng Qian, Yixing Fan, <b>Ruqing Zhang</b>, Lixin Su, Daiting Shi, Jiafeng Guo. <a target='new' href=''>Querit-Reranker: Training Compact Multilingual Rerankers via Efficient Label-Free Distribution Adaptation</a>. <i>The 2026 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2026</b>)</i>. Budapest, Hungary. (<b>Industry Track</b>)
 </li>
 
 <li>
