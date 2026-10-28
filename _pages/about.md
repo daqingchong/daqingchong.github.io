@@ -23,7 +23,7 @@ Workshops
 ------
 <ul>
 <li>
-I’m excited to co-organize <a href='https://autor2-workshop.github.io/WSDM2027/'>The First Workshop on AutoResearch for Information Retrieval and Recommender Systems</a>, co-located with WSDM 2026! Join us to explore how AI-driven research and autonomous agents can transform the way we conduct research and shape the next generation of information retrieval and recommender systems. We welcome your participation and contributions! 
+I’m excited to co-organize <a href='https://autor2-workshop.github.io/WSDM2027/'>The First Workshop on AutoResearch for Information Retrieval and Recommender Systems</a>, co-located with WSDM 2027! Join us to explore how AI-driven research and autonomous agents can transform the way we conduct research and shape the next generation of information retrieval and recommender systems. We welcome your participation and contributions! 
 </li>
 
 <li>
