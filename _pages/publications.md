@@ -6,6 +6,26 @@ author_profile: true
 ---
 
 
+
+IN THE YEAR OF 2025
+------
+
+<ul>
+<li>
+Yingchen Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Changjiang Zhou and Xueqi Cheng. <a target='new' href=''>Corpus Memory Accessibility in Mixed-Modality Generative Retrieval: Two Design Principles</a>. <i>The 20th ACM International Conference on Web Search and Data Mining (<b>WSDM 2027</b>)</i>. Hong Kong. (<b>Main, Full Paper</b>)
+</li>
+
+<li>
+Yuxin Yue, Yingchen Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke and Xueqi Cheng. <a target='new' href=''>Faithful Chart Generation for Multimodal Deep Research: Frame–Evidence Co-Adaptation</a>. <i>The 20th ACM International Conference on Web Search and Data Mining (<b>WSDM 2027</b>)</i>. Hong Kong. (<b>Main, Full Paper</b>)
+</li>
+
+<li>
+Hongru Song, Yu-an Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Sen Li, Wenjun Peng, Fuyu lv and Xueqi Cheng. <a target='new' href=''>PROSPER: LLMs as Sparse Retrievers for First-Stage Product Search</a>. <i>The 20th ACM International Conference on Web Search and Data Mining (<b>WSDM 2027</b>)</i>. Hong Kong. (<b>Main, Full Paper</b>)
+</li>
+
+</ul>
+
+
 IN THE YEAR OF 2026
 ------
 
@@ -29,6 +49,7 @@ Changjiang Zhou, <b>Ruqing Zhang</b>, Jiafeng Guo, Yingchen Zhang, Fuyu Lv and X
 <li>
 Yunfei Zhong, Jun Yang, Wei Huang, Yinqiong cai, Haosheng Qian, Yixing Fan, <b>Ruqing Zhang</b>, Lixin Su, Daiting Shi, Jiafeng Guo. <a target='new' href=''>Querit-Reranker: Training Compact Multilingual Rerankers via Efficient Label-Free Distribution Adaptation</a>. <i>The 2026 Conference on Empirical Methods in Natural Language Processing (<b>EMNLP 2026</b>)</i>. Budapest, Hungary. (<b>Industry Track</b>)
 </li>
+
 
 <li>
 Yuzhe Liu, <b>Ruqing Zhang</b>, Yingchen Zhang, Jiafeng Guo and Xueqi Cheng. <a target='new' href=''>	
@@ -75,6 +96,15 @@ Wenda Wei, Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo, Lixin Su, Shuaiqiang Wan
 
 <li>
 Yingchen Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Kaixuan Zhang, Zhihong Chen, Fuyu Lv and Xueqi Cheng. <a target='new' href=''>Generative Store Retrieval in Taobao Search</a>. <i>The 31st International Conference on Database Systems for Advanced Applications (<b>DASFAA 2026</b>)</i>. Jeju Island, Korea. (<b>Full Paper</b>)
+</li>
+
+
+<li>
+Yunfei Zhong, Jun Yang, Yixing Fan, Lixin Su, Maarten de Rijke, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href=''>Reason to Retrieve: Enhancing Query Understanding through Decomposition and Interpretation (<b>SIGIR-AP 2026</b>)</i>. Singapore. 
+</li>
+
+<li>
+Jun Yang, Yixing Fan, Jiafeng Guo, Lixin Su, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href=''>Beyond Pre-retrieval: Query Understanding as the Central State in Iterative Retrieval (<b>SIGIR-AP 2026</b>)</i>. Singapore. 
 </li>
 
 </ul>
