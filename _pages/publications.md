@@ -100,14 +100,15 @@ Yingchen Zhang, <b>Ruqing Zhang</b>, Jiafeng Guo, Maarten de Rijke, Kaixuan Zhan
 
 
 <li>
-Yunfei Zhong, Jun Yang, Yixing Fan, Lixin Su, Maarten de Rijke, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href=''>Reason to Retrieve: Enhancing Query Understanding through Decomposition and Interpretation (<b>SIGIR-AP 2026</b>)</i>. Singapore. 
+Yunfei Zhong, Jun Yang, Yixing Fan, Lixin Su, Maarten de Rijke, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href=''>Reason to Retrieve: Enhancing Query Understanding through Decomposition and Interpretation</a>. <i>The 4th International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (<b>SIGIR-AP 2026</b>)</i>. Singapore.
 </li>
 
 <li>
-Jun Yang, Yixing Fan, Jiafeng Guo, Lixin Su, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href=''>Beyond Pre-retrieval: Query Understanding as the Central State in Iterative Retrieval (<b>SIGIR-AP 2026</b>)</i>. Singapore. 
+Jun Yang, Yixing Fan, Jiafeng Guo, Lixin Su, <b>Ruqing Zhang</b> and Xueqi Cheng. <a target='new' href=''>Beyond Pre-retrieval: Query Understanding as the Central State in Iterative Retrieval</a>. <i>The 4th International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (<b>SIGIR-AP 2026</b>)</i>. Singapore. 
 </li>
 
 </ul>
+
 
 IN THE YEAR OF 2025
 ------
