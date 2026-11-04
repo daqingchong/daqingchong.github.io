@@ -32,8 +32,6 @@ Yubao Tang, <b>Ruqing Zhang</b>, Zhaochun Ren, Jiafeng Guo and Maarten de Rijke.
 Robust Information Retrieval
 ------
 <ul>
-<li>
-
 
 <li>
 Yu-An Liu, <b>Ruqing Zhang</b>, Jiafeng Guo and Maarten de Rijke. <a target='new' href='https://sigir2024-robust-information-retrieval.github.io/'>Tutorial Slides</a>. <i>The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR 2024</b>)</i>. Washington D.C., USA. 
