@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Associate Professor at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. degree in Computer Science from <a href='http://www.ict.ac.cn'>Institute of Computing Technology</a>, <a href='http://www.cas.cn'>Chinese Academy of Sciences</a>, under the supervision of <a href='http://www.ict.cas.cn/sourcedb/cn/jssrck/200909/t20090917_2496654.html'> Academician Guojie Li</a> and <a href='https://scholar.google.com/citations?user=nD0I3PUAAAAJ&hl=en'>Prof. Jiafeng Guo</a>, in 2019. Prior to that, I received my B.S. degree from <a href='https://scs.bupt.edu.cn'>Department of Computer Science</a>, <a href='https://www.bupt.edu.cn'>Beijing University of Posts and Telecommunications</a> in 2014. From Nov. 2022 to Nov. 2023, I was a visiting researcher at the <a href='https://irlab.science.uva.nl/'>IRLab</a>, University of Amsterdam, where I worked with <a href='https://staff.fnwi.uva.nl/m.derijke/'>Prof. Maarten de Rijke</a>. 
+I am currently an Associate Professor at the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). Before joining ICT, I received Ph.D. degree in Computer Science from <a href='http://www.ict.ac.cn'>Institute of Computing Technology</a>, <a href='http://www.cas.cn'>Chinese Academy of Sciences</a> in 2019 and B.S. degree in Computer Science from <a href='https://scs.bupt.edu.cn'>Department of Computer Science</a>, <a href='https://www.bupt.edu.cn'>Beijing University of Posts and Telecommunications</a> in 2014.
 
 
 My research focuses on <b>Generative Information Retrieval</b>, with the goal of moving beyond traditional document retrieval toward intelligent systems that can understand, reason over, generate, and continuously refine knowledge. My research spans <i>generative retrieval</i>, <i>search agents</i>, <i>multimodal search</i>, <i>trustworthy LLM reasoning</i>, and <i>LLM safety evaluation</i>. 
@@ -19,8 +19,39 @@ More recently, I have been working on <b>Autonomous Scientific Research Agents</
 I have authored over 100 peer-reviewed publications in leading international journals and conferences, including ACM TOIS, SIGIR, WWW, KDD, NeurIPS, CIKM, WSDM, ACL, EMNLP etc. My research is supported by the National Key Research and Development Program of China, National Natural Science Foundation of China, the CAS Strategic Priority Research Program, and research funding from industry partners including Baidu, Tencent, ByteDance, Alibaba, etc. 
 
 
+Experience
+------
 
-Hornors and Awards
+<ul>
+<li>
+Institute of Computing Technology, Chinese Academy of Sciences, Associate Professor. Beijing, China, Sept. 2022 - Now
+</li>
+
+<li>
+Institute of Computing Technology, Chinese Academy of Sciences, Assistant Professor. Beijing, China, Jul. 2019 - Sept. 2022
+</li>
+
+<li>
+University of Amsterdam, Visiting Scholar at <a href='https://irlab.science.uva.nl/'>IRLab</a>, advised by Prof. <a href='https://staff.fnwi.uva.nl/m.derijke/'>Maarten de Rijke</a>. Amsterdam, The Netherlands, Oct. 2022 - Oct. 2023
+</li>
+
+<li>
+Institute of Computing Technology, Chinese Academy of Sciences, Ph.D. Student, advised by Prof. <a href='http://www.ict.cas.cn/sourcedb/cn/jssrck/200909/t20090917_2496654.html'>Guojie Li</a> and Prof. <a href='https://scholar.google.com/citations?user=nD0I3PUAAAAJ&hl=en'>Jiafeng Guo</a>. Beijing, China, Sept. 2014 - Jul. 2019
+</li>
+
+<li>
+ByteDance, Toutiao, Ph.D Intern. Beijing, China, Sept. 2017 - Jun. 2018
+</li>
+
+<li>
+Beijing University of Posts and Telecommunications, Department of Computer Science, Undergraduate Student. Beijing, China, Sept. 2010 - Jul. 2014
+</li>
+
+</ul>
+ 
+
+
+Hornors
 ------
 <ul>
 <li>
