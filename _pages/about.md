@@ -28,12 +28,13 @@ Institute of Computing Technology, Chinese Academy of Sciences, Associate Profes
 </li>
 
 <li>
-Institute of Computing Technology, Chinese Academy of Sciences, Assistant Professor. Beijing, China, Jul. 2019 - Sept. 2022
+University of Amsterdam, Visiting Scholar at <a href='https://irlab.science.uva.nl/'>IRLab</a>, advised by Prof. <a href='https://staff.fnwi.uva.nl/m.derijke/'>Maarten de Rijke</a>. Amsterdam, The Netherlands, Oct. 2022 - Oct. 2023
 </li>
 
 <li>
-University of Amsterdam, Visiting Scholar at <a href='https://irlab.science.uva.nl/'>IRLab</a>, advised by Prof. <a href='https://staff.fnwi.uva.nl/m.derijke/'>Maarten de Rijke</a>. Amsterdam, The Netherlands, Oct. 2022 - Oct. 2023
+Institute of Computing Technology, Chinese Academy of Sciences, Assistant Professor. Beijing, China, Jul. 2019 - Sept. 2022
 </li>
+
 
 <li>
 Institute of Computing Technology, Chinese Academy of Sciences, Ph.D. Student, advised by Prof. <a href='http://www.ict.cas.cn/sourcedb/cn/jssrck/200909/t20090917_2496654.html'>Guojie Li</a> and Prof. <a href='https://scholar.google.com/citations?user=nD0I3PUAAAAJ&hl=en'>Jiafeng Guo</a>. Beijing, China, Sept. 2014 - Jul. 2019
