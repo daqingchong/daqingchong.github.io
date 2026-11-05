@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Ruqing Zhang (张儒清)"
+title: "Ruqing Zhang (张儒清) 🐛"
 excerpt: "Ruqing Zhang"
 author_profile: true
 redirect_from:
