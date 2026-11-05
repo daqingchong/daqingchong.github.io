@@ -33,7 +33,7 @@ author_profile: true
   <nav class="pub-years" aria-label="Publication years"><a href="#publications-2027">2027</a><a href="#publications-2026">2026</a><a href="#publications-2025">2025</a><a href="#publications-2024">2024</a><a href="#publications-2023">2023</a><a href="#publications-2022">2022</a><a href="#publications-2021">2021</a><a href="#publications-2020">2020</a><a href="#publications-2019">2019</a><a href="#publications-2018">2018</a><a href="#publications-2017">2017</a></nav>
 
   <section class="pub-section" id="publications-2027" aria-labelledby="year-2027">
-    <h2 class="pub-year" id="year-2027">2027 <span class="pub-count">3 publications</span></h2>
+    <h2 class="pub-year" id="year-2027">2027</h2>
     <ul class="pub-list">
       <li class="pub-item">
         <h3 class="pub-title">Corpus Memory Accessibility in Mixed-Modality Generative Retrieval: Two Design Principles</h3>
@@ -57,7 +57,7 @@ author_profile: true
   </section>
 
   <section class="pub-section" id="publications-2026" aria-labelledby="year-2026">
-    <h2 class="pub-year" id="year-2026">2026 <span class="pub-count">17 publications</span></h2>
+    <h2 class="pub-year" id="year-2026">2026</h2>
     <ul class="pub-list">
       <li class="pub-item">
         <h3 class="pub-title">Training-Free Generative Retrieval</h3>
@@ -165,7 +165,7 @@ author_profile: true
   </section>
 
   <section class="pub-section" id="publications-2025" aria-labelledby="year-2025">
-    <h2 class="pub-year" id="year-2025">2025 <span class="pub-count">14 publications</span></h2>
+    <h2 class="pub-year" id="year-2025">2025</h2>
     <ul class="pub-list">
       <li class="pub-item">
         <h3 class="pub-title">C2T-ID: Converting Semantic Codebooks to Textual Document Identifiers for Generative Search</h3>
@@ -255,7 +255,7 @@ author_profile: true
   </section>
 
   <section class="pub-section" id="publications-2024" aria-labelledby="year-2024">
-    <h2 class="pub-year" id="year-2024">2024 <span class="pub-count">14 publications</span></h2>
+    <h2 class="pub-year" id="year-2024">2024</h2>
     <ul class="pub-list">
       <li class="pub-item">
         <h3 class="pub-title">Generative Retrieval Meets Multi-Graded Relevance</h3>
@@ -345,7 +345,7 @@ author_profile: true
   </section>
 
   <section class="pub-section" id="publications-2023" aria-labelledby="year-2023">
-    <h2 class="pub-year" id="year-2023">2023 <span class="pub-count">12 publications</span></h2>
+    <h2 class="pub-year" id="year-2023">2023</h2>
     <ul class="pub-list">
       <li class="pub-item">
         <h3 class="pub-title"><a href="https://dl.acm.org/doi/pdf/10.1145/3642979.3642995" target="_blank" rel="noopener noreferrer">Report on the 1st Workshop on Generative Information Retrieval (Gen-IR 2023) at SIGIR 2023</a></h3>
@@ -423,7 +423,7 @@ author_profile: true
   </section>
 
   <section class="pub-section" id="publications-2022" aria-labelledby="year-2022">
-    <h2 class="pub-year" id="year-2022">2022 <span class="pub-count">16 publications</span></h2>
+    <h2 class="pub-year" id="year-2022">2022</h2>
     <ul class="pub-list">
       <li class="pub-item">
         <h3 class="pub-title"><a href="https://aclanthology.org/2022.flp-1.11.pdf" target="_blank" rel="noopener noreferrer">Euphemism Detection by Transformers and Relational Graph Attention Network</a></h3>
@@ -525,7 +525,7 @@ author_profile: true
   </section>
 
   <section class="pub-section" id="publications-2021" aria-labelledby="year-2021">
-    <h2 class="pub-year" id="year-2021">2021 <span class="pub-count">9 publications</span></h2>
+    <h2 class="pub-year" id="year-2021">2021</h2>
     <ul class="pub-list">
       <li class="pub-item">
         <h3 class="pub-title"><a href="https://arxiv.org/abs/2108.05069" target="_blank" rel="noopener noreferrer">FedMatch: Federated Learning Over Heterogeneous Question Answering Data</a></h3>
@@ -585,7 +585,7 @@ author_profile: true
   </section>
 
   <section class="pub-section" id="publications-2020" aria-labelledby="year-2020">
-    <h2 class="pub-year" id="year-2020">2020 <span class="pub-count">5 publications</span></h2>
+    <h2 class="pub-year" id="year-2020">2020</h2>
     <ul class="pub-list">
       <li class="pub-item">
         <h3 class="pub-title"><a href="https://arxiv.org/pdf/2008.10889.pdf" target="_blank" rel="noopener noreferrer">Query Understanding via Intent Description Generation</a></h3>
@@ -621,7 +621,7 @@ author_profile: true
   </section>
 
   <section class="pub-section" id="publications-2019" aria-labelledby="year-2019">
-    <h2 class="pub-year" id="year-2019">2019 <span class="pub-count">2 publications</span></h2>
+    <h2 class="pub-year" id="year-2019">2019</h2>
     <ul class="pub-list">
       <li class="pub-item">
         <h3 class="pub-title"><a href="https://dl.acm.org/doi/abs/10.1145/3331184.3331208" target="_blank" rel="noopener noreferrer">Outline Generation: Understanding the Inherent Content Structure of Documents</a></h3>
@@ -639,7 +639,7 @@ author_profile: true
   </section>
 
   <section class="pub-section" id="publications-2018" aria-labelledby="year-2018">
-    <h2 class="pub-year" id="year-2018">2018 <span class="pub-count">5 publications</span></h2>
+    <h2 class="pub-year" id="year-2018">2018</h2>
     <ul class="pub-list">
       <li class="pub-item">
         <h3 class="pub-title"><a href="https://gsai.ruc.edu.cn/uploads/20211006/c3f8689df8ff6c4dfd9050e0e2aef383.pdf" target="_blank" rel="noopener noreferrer">Question Headline Generation for News Articles</a></h3>
@@ -675,7 +675,7 @@ author_profile: true
   </section>
 
   <section class="pub-section" id="publications-2017" aria-labelledby="year-2017">
-    <h2 class="pub-year" id="year-2017">2017 <span class="pub-count">1 publications</span></h2>
+    <h2 class="pub-year" id="year-2017">2017</h2>
     <ul class="pub-list">
       <li class="pub-item">
         <h3 class="pub-title">Research on Theme Information Extraction of Any Page</h3>
