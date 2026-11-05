@@ -230,7 +230,6 @@ author_profile: true
            aria-labelledby="generative-tutorials">
 
     <header class="tt-header">
-      <p class="tt-eyebrow">Generative IR · Tutorial Series</p>
       <h2 class="tt-topic-title" id="generative-tutorials">
         Recent Advances in Generative Information Retrieval
       </h2>
@@ -345,7 +344,6 @@ author_profile: true
            aria-labelledby="robust-tutorials">
 
     <header class="tt-header">
-      <p class="tt-eyebrow">Robust IR · Tutorial Series</p>
       <h2 class="tt-topic-title" id="robust-tutorials">
         Robust Information Retrieval
       </h2>
