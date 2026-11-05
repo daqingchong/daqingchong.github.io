@@ -281,11 +281,12 @@ redirect_from:
     <h2 id="research-heading">Research Interests</h2>
 
     <h3>Generative Information Retrieval</h3>
-    <p>
-      My research aims to move beyond traditional document retrieval
-      toward intelligent systems that can understand, reason over,
-      generate, and continuously refine knowledge.
-    </p>
+   <p>
+    My research aims to advance intelligent information retrieval with
+    generative large language models, enabling systems to retrieve useful
+    information, generate trustworthy answers, and operate robustly
+    in real-world environments.
+   </p>
 
     <ul class="research-topics" aria-label="Research topics">
       <li>Generative Retrieval</li>
@@ -469,15 +470,15 @@ redirect_from:
         <span>Outstanding Researcher, ICT, CAS</span>
       </li>
 
-      <li class="honor-item">
-        <span class="honor-year">2020</span>
-        <span>
-          <a href="https://www.ccf.org.cn/yxbsxwlwjtm/2021-01-14/721439.shtml">
-            China Computer Federation (CCF) Outstanding Doctoral
-            Dissertation Award Nomination
-          </a>
-        </span>
-      </li>
+<li class="honor-item honor-featured">
+  <span class="honor-year">2020</span>
+  <span>
+    <a href="https://www.ccf.org.cn/yxbsxwlwjtm/2021-01-14/721439.shtml">
+      China Computer Federation (CCF) Outstanding Doctoral
+      Dissertation Award Nomination
+    </a>
+  </span>
+</li>
 
       <li class="honor-item">
         <span class="honor-year">2019</span>
