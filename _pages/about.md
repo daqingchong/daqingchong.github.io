@@ -118,7 +118,7 @@ redirect_from:
 </style>
 
 <div class="home-page">
-<div class="home-intro"><p class="home-eyebrow">INFORMATION RETRIEVAL · AUTONOMOUS AGENTS</p>
+<div class="home-intro">
 <p>
       I am currently an <strong>Associate Professor</strong> at the
       <a href="http://www.ict.ac.cn">Institute of Computing Technology (ICT)</a>,
