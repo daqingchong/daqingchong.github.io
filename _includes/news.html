@@ -1,0 +1,22 @@
+{% if site.data.news %}
+<section class="sidebar-news" aria-label="Latest news">
+  <h3 class="sidebar-news__title">News</h3>
+
+  <ul class="sidebar-news__list">
+    {% for item in site.data.news limit: 6 %}
+    <li class="sidebar-news__item">
+      <span class="sidebar-news__date">{{ item.date | escape }}</span>
+
+      <div class="sidebar-news__text">
+        {{ item.text | markdownify }}
+        {% if item.url %}
+          <a href="{{ item.url | escape }}"
+             target="_blank"
+             rel="noopener noreferrer">Details ↗</a>
+        {% endif %}
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
