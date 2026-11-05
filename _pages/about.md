@@ -287,6 +287,7 @@ redirect_from:
    </p>
 
     <h3>Generative Information Retrieval</h3>
+   
    <p>
     I study search for agents and agents for search: adapting retrieval 
     to the diverse and evolving information needs of AI agents, and using 
@@ -295,7 +296,7 @@ redirect_from:
 
     <ul class="research-topics" aria-label="Research topics">
       <li>Generative Retrieval</li>
-       <li>Agent-Aware Retrieval/li>
+       <li>Agent-Aware Retrieval</li>
       <li>Agentic Search</li>
       <li>Multimodal Search</li>
       <li>Trustworthy LLM Reasoning</li>
