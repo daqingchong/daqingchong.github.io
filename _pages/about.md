@@ -306,18 +306,15 @@ redirect_from:
     <ul class="research-challenges">
       <li>
         <strong>Self-evolving scientific intelligence</strong>:
-        enabling agents to continuously learn and accumulate
-        reusable knowledge.
+        enabling agents to learn from experience and accumulate reusable knowledge for continuous improvement.
       </li>
       <li>
         <strong>Scalable agentic research</strong>:
-        enabling efficient, long-horizon scientific reasoning
-        and execution.
+        enabling efficient scientific reasoning and execution over long research horizons.
       </li>
       <li>
         <strong>Trustworthy scientific agents</strong>:
-        ensuring reliable, interpretable, and safe AI-assisted
-        scientific discovery.
+        enabling safe and robust operation in real-world scientific environments. 
       </li>
     </ul>
   </section>
@@ -326,7 +323,7 @@ redirect_from:
     <p>
       I have authored over <strong>100 peer-reviewed publications</strong>
       in leading international journals and conferences, including
-      ACM TOIS, SIGIR, WWW, KDD, NeurIPS, CIKM, WSDM, ACL, and EMNLP.
+      ACM TOIS, SIGIR, WebConf, KDD, NeurIPS, WSDM, ACL, and EMNLP.
       My research is supported by the National Key Research and
       Development Program of China, the National Natural Science
       Foundation of China, the CAS Strategic Priority Research Program,
