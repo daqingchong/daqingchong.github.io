@@ -396,8 +396,7 @@ author_profile: true
     <h3 class="ws-featured-title" id="autor2-title">
       <a href="https://autor2-workshop.github.io/WSDM2027/"
          target="_blank" rel="noopener noreferrer">
-        The First Workshop on AutoResearch for Information Retrieval
-        and Recommender Systems
+        The First Workshop on AutoResearch for Information Retrieval and Recommender Systems
       </a>
     </h3>
 

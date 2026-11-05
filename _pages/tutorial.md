@@ -7,203 +7,402 @@ author_profile: true
 
 <style>
   .tutorial-page {
-    --tutorial-accent: #287a96;
-    --tutorial-border: #e5e9ed;
-    --tutorial-muted: #687580;
+    --tt-accent: #287a96;
+    --tt-text: #263746;
+    --tt-muted: #687580;
+    --tt-border: #e5e9ed;
+    color: var(--tt-text);
+    line-height: 1.7;
   }
 
-  .tutorial-section {
-    margin: 0 0 36px;
+  .tutorial-page,
+  .tutorial-page * {
+    box-sizing: border-box;
   }
 
-  .tutorial-section h2 {
-    margin: 0 0 18px;
-    padding-bottom: 10px;
-    border-bottom: 2px solid var(--tutorial-border);
-    font-size: 1.3em;
-    line-height: 1.4;
+  .tutorial-page a {
+    color: var(--tt-accent);
+    text-decoration: none;
   }
 
-  .tutorial-page .tutorial-list {
-    display: grid;
-    gap: 14px;
+  .tutorial-page a:hover,
+  .tutorial-page a:focus-visible {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  /* Topic sections */
+  .tutorial-page .tt-section {
+    margin: 0 0 32px;
+    overflow: hidden;
+    border: 1px solid var(--tt-border);
+    border-radius: 10px;
+    background: #fff;
+  }
+
+  .tutorial-page .tt-section:last-child {
+    margin-bottom: 0;
+  }
+
+  .tutorial-page .tt-section-generative {
+    --tt-topic: #287a96;
+    --tt-tint: #f0f7fa;
+  }
+
+  .tutorial-page .tt-section-robust {
+    --tt-topic: #3c736a;
+    --tt-tint: #f0f7f4;
+  }
+
+  .tutorial-page .tt-header {
+    padding: 22px 24px;
+    border-top: 3px solid var(--tt-topic);
+    border-bottom: 1px solid var(--tt-border);
+    background: var(--tt-tint);
+  }
+
+  .tutorial-page .tt-eyebrow {
+    margin: 0 0 7px;
+    color: var(--tt-topic);
+    font-size: 0.68em;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    line-height: 1.5;
+    text-transform: uppercase;
+  }
+
+  .tutorial-page .tt-topic-title {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    color: var(--tt-text);
+    font-size: 1.12em;
+    font-weight: 650;
+    line-height: 1.5;
+  }
+
+  /* Tutorial rows */
+  .tutorial-page .tt-list {
     margin: 0;
     padding: 0;
     list-style: none;
   }
 
-  .tutorial-page .tutorial-card {
+  .tutorial-page .tt-item {
+    display: grid;
+    grid-template-columns: 112px minmax(0, 1fr);
+    gap: 22px;
     margin: 0;
-    padding: 18px 22px;
-    border: 1px solid var(--tutorial-border);
-    border-left: 3px solid var(--tutorial-accent);
-    border-radius: 8px;
-    background: #fff;
+    padding: 22px 24px;
+    border-bottom: 1px solid var(--tt-border);
   }
 
-  .tutorial-card h3 {
-    margin: 0 0 8px;
-    color: #263746;
-    font-size: 1.05em;
-    line-height: 1.4;
+  .tutorial-page .tt-item:last-child {
+    border-bottom: 0;
   }
 
-  .tutorial-speakers {
-    margin: 0 0 12px;
-    color: #4a5560;
-    font-size: 0.92em;
-    line-height: 1.7;
+  .tutorial-page .tt-venue {
+    align-self: start;
+    padding: 11px 8px;
+    border: 1px solid var(--tt-border);
+    border-radius: 7px;
+    background: #fafcfd;
+    text-align: center;
   }
 
-  .tutorial-speakers strong {
-    color: #263746;
+  .tutorial-page .tt-conference {
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    color: var(--tt-topic);
+    font-size: 0.85em;
+    font-weight: 700;
+    line-height: 1.5;
   }
 
-  .tutorial-footer {
+  .tutorial-page .tt-year {
+    display: block;
+    margin-top: 3px;
+    color: var(--tt-muted);
+    font-size: 0.77em;
+    font-variant-numeric: tabular-nums;
+    line-height: 1.5;
+  }
+
+  .tutorial-page .tt-content {
+    min-width: 0;
+  }
+
+  .tutorial-page .tt-speakers {
+    margin: 0;
+    color: #52616d;
+    font-size: 0.84em;
+    line-height: 1.8;
+  }
+
+  .tutorial-page .tt-speakers strong {
+    color: var(--tt-text);
+    font-weight: 650;
+  }
+
+  .tutorial-page .tt-footer {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    gap: 8px 18px;
-    color: var(--tutorial-muted);
-    font-size: 0.85em;
+    justify-content: space-between;
+    gap: 10px 18px;
+    margin-top: 12px;
   }
 
-  .tutorial-page .tutorial-link {
-    display: inline-block;
-    padding: 3px 11px;
+  .tutorial-page .tt-location {
+    color: var(--tt-muted);
+    font-size: 0.75em;
+    line-height: 1.6;
+  }
+
+  .tutorial-page .tt-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    padding: 4px 10px;
     border: 1px solid #d5e7ee;
     border-radius: 5px;
     background: #f2f8fa;
-    color: var(--tutorial-accent);
+    color: var(--tt-accent);
+    font-size: 0.73em;
     font-weight: 600;
-    text-decoration: none;
+    line-height: 1.6;
+    white-space: nowrap;
     transition: background-color 0.15s ease;
   }
 
-  .tutorial-page .tutorial-link:hover,
-  .tutorial-page .tutorial-link:focus-visible {
+  .tutorial-page .tt-link:hover,
+  .tutorial-page .tt-link:focus-visible {
     background: #e2f0f5;
-    text-decoration: underline;
+    text-decoration: none;
   }
 
+  /* Mobile */
   @media (max-width: 600px) {
-    .tutorial-page .tutorial-card {
-      padding: 15px 16px;
+    .tutorial-page .tt-header {
+      padding: 18px;
     }
 
-    .tutorial-section h2 {
-      font-size: 1.15em;
+    .tutorial-page .tt-topic-title {
+      font-size: 1em;
+    }
+
+    .tutorial-page .tt-item {
+      grid-template-columns: 1fr;
+      gap: 12px;
+      padding: 18px;
+    }
+
+    .tutorial-page .tt-venue {
+      display: inline-flex;
+      align-items: baseline;
+      justify-self: start;
+      gap: 8px;
+      padding: 4px 10px;
+      text-align: left;
+    }
+
+    .tutorial-page .tt-year {
+      margin-top: 0;
+    }
+
+    .tutorial-page .tt-footer {
+      justify-content: flex-start;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .tutorial-page .tt-link {
+      transition: none;
     }
   }
 </style>
 
 <div class="tutorial-page">
 
-  <section class="tutorial-section">
-    <h2>Recent Advances in Generative Information Retrieval</h2>
+  <section class="tt-section tt-section-generative"
+           aria-labelledby="generative-tutorials">
 
-    <ul class="tutorial-list">
-      <li class="tutorial-card">
-        <h3>SIGIR 2024</h3>
-        <p class="tutorial-speakers">
-          Yubao Tang, <strong>Ruqing Zhang</strong>, Zhaochun Ren,
-          Jiafeng Guo and Maarten de Rijke
-        </p>
-        <div class="tutorial-footer">
-          <span>Washington, D.C., USA</span>
-          <a class="tutorial-link"
-             href="https://generative-ir.github.io/"
-             target="_blank" rel="noopener noreferrer">
-            Tutorial Slides &rarr;
-          </a>
+    <header class="tt-header">
+      <p class="tt-eyebrow">Generative IR · Tutorial Series</p>
+      <h2 class="tt-topic-title" id="generative-tutorials">
+        Recent Advances in Generative Information Retrieval
+      </h2>
+    </header>
+
+    <ul class="tt-list">
+
+      <li class="tt-item">
+        <div class="tt-venue">
+          <h3 class="tt-conference">SIGIR</h3>
+          <span class="tt-year">2024</span>
+        </div>
+
+        <div class="tt-content">
+          <p class="tt-speakers">
+            Yubao Tang, <strong>Ruqing Zhang</strong>, Zhaochun Ren,
+            Jiafeng Guo and Maarten de Rijke
+          </p>
+
+          <div class="tt-footer">
+            <span class="tt-location">Washington, D.C., USA</span>
+            <a class="tt-link"
+               href="https://generative-ir.github.io/"
+               target="_blank" rel="noopener noreferrer"
+               aria-label="Tutorial website and slides for Generative IR at SIGIR 2024">
+              Website &amp; Slides
+              <span aria-hidden="true">&nearr;</span>
+            </a>
+          </div>
         </div>
       </li>
 
-      <li class="tutorial-card">
-        <h3>WebConf 2024</h3>
-        <p class="tutorial-speakers">
-          Yubao Tang, <strong>Ruqing Zhang</strong>, Zhaochun Ren,
-          WeiWei Sun, Jiafeng Guo and Maarten de Rijke
-        </p>
-        <div class="tutorial-footer">
-          <span>Glasgow, Scotland</span>
-          <a class="tutorial-link"
-             href="https://TheWebConf2024-generative-IR.github.io"
-             target="_blank" rel="noopener noreferrer">
-            Tutorial Slides &rarr;
-          </a>
+      <li class="tt-item">
+        <div class="tt-venue">
+          <h3 class="tt-conference">WebConf</h3>
+          <span class="tt-year">2024</span>
+        </div>
+
+        <div class="tt-content">
+          <p class="tt-speakers">
+            Yubao Tang, <strong>Ruqing Zhang</strong>, Zhaochun Ren,
+            WeiWei Sun, Jiafeng Guo and Maarten de Rijke
+          </p>
+
+          <div class="tt-footer">
+            <span class="tt-location">Glasgow, Scotland</span>
+            <a class="tt-link"
+               href="https://TheWebConf2024-generative-IR.github.io"
+               target="_blank" rel="noopener noreferrer"
+               aria-label="Tutorial website and slides for Generative IR at WebConf 2024">
+              Website &amp; Slides
+              <span aria-hidden="true">&nearr;</span>
+            </a>
+          </div>
         </div>
       </li>
 
-      <li class="tutorial-card">
-        <h3>ECIR 2024</h3>
-        <p class="tutorial-speakers">
-          Yubao Tang, <strong>Ruqing Zhang</strong>, Zhaochun Ren,
-          Jiafeng Guo and Maarten de Rijke
-        </p>
-        <div class="tutorial-footer">
-          <span>Glasgow, Scotland</span>
-          <a class="tutorial-link"
-             href="https://ecir2024-generativeir.github.io/"
-             target="_blank" rel="noopener noreferrer">
-            Tutorial Slides &rarr;
-          </a>
+      <li class="tt-item">
+        <div class="tt-venue">
+          <h3 class="tt-conference">ECIR</h3>
+          <span class="tt-year">2024</span>
+        </div>
+
+        <div class="tt-content">
+          <p class="tt-speakers">
+            Yubao Tang, <strong>Ruqing Zhang</strong>, Zhaochun Ren,
+            Jiafeng Guo and Maarten de Rijke
+          </p>
+
+          <div class="tt-footer">
+            <span class="tt-location">Glasgow, Scotland</span>
+            <a class="tt-link"
+               href="https://ecir2024-generativeir.github.io/"
+               target="_blank" rel="noopener noreferrer"
+               aria-label="Tutorial website and slides for Generative IR at ECIR 2024">
+              Website &amp; Slides
+              <span aria-hidden="true">&nearr;</span>
+            </a>
+          </div>
         </div>
       </li>
 
-      <li class="tutorial-card">
-        <h3>SIGIR-AP 2023</h3>
-        <p class="tutorial-speakers">
-          Yubao Tang, <strong>Ruqing Zhang</strong>,
-          Jiafeng Guo and Maarten de Rijke
-        </p>
-        <div class="tutorial-footer">
-          <span>Beijing, China</span>
-          <a class="tutorial-link"
-             href="https://sigir-ap2023-generative-ir.github.io/"
-             target="_blank" rel="noopener noreferrer">
-            Tutorial Slides &rarr;
-          </a>
+      <li class="tt-item">
+        <div class="tt-venue">
+          <h3 class="tt-conference">SIGIR-AP</h3>
+          <span class="tt-year">2023</span>
+        </div>
+
+        <div class="tt-content">
+          <p class="tt-speakers">
+            Yubao Tang, <strong>Ruqing Zhang</strong>,
+            Jiafeng Guo and Maarten de Rijke
+          </p>
+
+          <div class="tt-footer">
+            <span class="tt-location">Beijing, China</span>
+            <a class="tt-link"
+               href="https://sigir-ap2023-generative-ir.github.io/"
+               target="_blank" rel="noopener noreferrer"
+               aria-label="Tutorial website and slides for Generative IR at SIGIR-AP 2023">
+              Website &amp; Slides
+              <span aria-hidden="true">&nearr;</span>
+            </a>
+          </div>
         </div>
       </li>
+
     </ul>
   </section>
 
-  <section class="tutorial-section">
-    <h2>Robust Information Retrieval</h2>
+  <section class="tt-section tt-section-robust"
+           aria-labelledby="robust-tutorials">
 
-    <ul class="tutorial-list">
-      <li class="tutorial-card">
-        <h3>WSDM 2025</h3>
-        <p class="tutorial-speakers">
-          Yu-An Liu, <strong>Ruqing Zhang</strong>,
-          Jiafeng Guo and Maarten de Rijke
-        </p>
-        <div class="tutorial-footer">
-          <span>Hannover, Germany</span>
-          <a class="tutorial-link"
-             href="https://wsdm2025-robust-information-retrieval.github.io/"
-             target="_blank" rel="noopener noreferrer">
-            Tutorial Slides &rarr;
-          </a>
+    <header class="tt-header">
+      <p class="tt-eyebrow">Robust IR · Tutorial Series</p>
+      <h2 class="tt-topic-title" id="robust-tutorials">
+        Robust Information Retrieval
+      </h2>
+    </header>
+
+    <ul class="tt-list">
+
+      <li class="tt-item">
+        <div class="tt-venue">
+          <h3 class="tt-conference">WSDM</h3>
+          <span class="tt-year">2025</span>
+        </div>
+
+        <div class="tt-content">
+          <p class="tt-speakers">
+            Yu-An Liu, <strong>Ruqing Zhang</strong>,
+            Jiafeng Guo and Maarten de Rijke
+          </p>
+
+          <div class="tt-footer">
+            <span class="tt-location">Hannover, Germany</span>
+            <a class="tt-link"
+               href="https://wsdm2025-robust-information-retrieval.github.io/"
+               target="_blank" rel="noopener noreferrer"
+               aria-label="Tutorial website and slides for Robust IR at WSDM 2025">
+              Website &amp; Slides
+              <span aria-hidden="true">&nearr;</span>
+            </a>
+          </div>
         </div>
       </li>
 
-      <li class="tutorial-card">
-        <h3>SIGIR 2024</h3>
-        <p class="tutorial-speakers">
-          Yu-An Liu, <strong>Ruqing Zhang</strong>,
-          Jiafeng Guo and Maarten de Rijke
-        </p>
-        <div class="tutorial-footer">
-          <span>Washington, D.C., USA</span>
-          <a class="tutorial-link"
-             href="https://sigir2024-robust-information-retrieval.github.io/"
-             target="_blank" rel="noopener noreferrer">
-            Tutorial Slides &rarr;
-          </a>
+      <li class="tt-item">
+        <div class="tt-venue">
+          <h3 class="tt-conference">SIGIR</h3>
+          <span class="tt-year">2024</span>
+        </div>
+
+        <div class="tt-content">
+          <p class="tt-speakers">
+            Yu-An Liu, <strong>Ruqing Zhang</strong>,
+            Jiafeng Guo and Maarten de Rijke
+          </p>
+
+          <div class="tt-footer">
+            <span class="tt-location">Washington, D.C., USA</span>
+            <a class="tt-link"
+               href="https://sigir2024-robust-information-retrieval.github.io/"
+               target="_blank" rel="noopener noreferrer"
+               aria-label="Tutorial website and slides for Robust IR at SIGIR 2024">
+              Website &amp; Slides
+              <span aria-hidden="true">&nearr;</span>
+            </a>
+          </div>
         </div>
       </li>
+
     </ul>
   </section>
 
