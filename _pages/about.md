@@ -280,48 +280,40 @@ redirect_from:
   <section class="research-panel" aria-labelledby="research-heading">
     <h2 id="research-heading">Research Interests</h2>
 
+    <p>
+    My research connects information retrieval and autonomous agents, 
+    with the goal of building intelligent systems that acquire useful 
+    information, generate trustworthy answers, and learn from experience.
+   </p>
+
     <h3>Generative Information Retrieval</h3>
    <p>
-    My research aims to advance intelligent information retrieval with
-    generative large language models, enabling systems to retrieve useful
-    information, generate trustworthy answers, and operate robustly
-    in real-world environments.
+    I study search for agents and agents for search: adapting retrieval 
+    to the diverse and evolving information needs of AI agents, and using 
+    agents to improve information seeking. 
    </p>
 
     <ul class="research-topics" aria-label="Research topics">
       <li>Generative Retrieval</li>
-      <li>Search Agents</li>
+       <li>Agent-Aware Retrieval/li>
+      <li>Agentic Search</li>
       <li>Multimodal Search</li>
       <li>Trustworthy LLM Reasoning</li>
-      <li>LLM Safety Evaluation</li>
+     
     </ul>
 
-    <h3>Autonomous Scientific Research Agents</h3>
+    <h3>Autonomous Research Agents</h3>
     <p>
-      More recently, I have been working on enabling large language
-      models and AI agents to participate in and accelerate scientific
-      discovery, focusing on three fundamental challenges:
+      More recently, I develop autonomous agents for scientific research 
+      that learn from experience, reason and act efficiently over long horizons, 
+      and operate safely in real-world environments.
     </p>
 
-    <ul class="research-challenges">
-      <li>
-        <strong>Self-evolving scientific intelligence</strong>:
-        enabling agents to learn from experience and accumulate reusable knowledge for continuous improvement.
-      </li>
-      <li>
-        <strong>Scalable agentic research</strong>:
-        enabling efficient scientific reasoning and execution over long research horizons.
-      </li>
-      <li>
-        <strong>Trustworthy scientific agents</strong>:
-        enabling safe and robust operation in real-world scientific environments. 
-      </li>
-    </ul>
+   
     <ul class="research-topics" aria-label="Research topics">
-      <li>Recursive Self-Improvement</li>
+      <li>Experience-Driven Self-Improvement</li>
       <li>Long-Horizon Planning</li>
-      <li>Agent-Aware Search</li>
-      <li>Experience Mining</li>
+      <li>Efficient Agentic Reasoning</li>
       <li>Agent Safety Evaluation</li>
     </ul>
 
