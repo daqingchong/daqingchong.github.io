@@ -179,39 +179,79 @@ redirect_from:
   }
 
   /* Honors */
+  .home-page .honors-group-title {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin: 26px 0 12px;
+    color: var(--home-muted);
+    font-size: 0.76em;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    line-height: 1.5;
+  }
+  .home-page .honors-group-title::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--home-border);
+  }
   .home-page .honors-list {
     margin: 0;
     padding: 0;
     list-style: none;
   }
-
   .home-page .honor-item {
     display: grid;
     grid-template-columns: 52px minmax(0, 1fr);
+    align-items: baseline;
     gap: 14px;
     margin: 0;
-    padding: 9px 0;
+    padding: 10px 16px;
+    border-left: 3px solid transparent;
     font-size: 0.91em;
-    line-height: 1.7;
+    line-height: 1.65;
   }
-
   .home-page .honor-year {
     color: var(--home-muted);
-    font-size: 0.92em;
+    font-size: 0.88em;
+    font-weight: 600;
     font-variant-numeric: tabular-nums;
   }
-
+  .home-page .honor-content { min-width: 0; }
   .home-page .honor-featured {
-    margin-bottom: 6px;
-    padding: 12px 14px;
-    border: 1px solid #efdfb5;
-    border-radius: 6px;
-    background: #fffaf0;
+    margin: 8px 0;
+    padding: 16px;
+    border: 1px solid #ecdfc4;
+    border-left: 3px solid #b58b42;
+    border-radius: 0 8px 8px 0;
+    background: #fffbf3;
   }
-
-  .home-page .honor-featured a {
-    color: #87601e;
+  .home-page .honor-featured .honor-year { color: #87601e; }
+  .home-page .honor-title {
+    color: #79551c;
+    font-weight: 650;
+    line-height: 1.5;
+  }
+  .home-page .honor-content .honor-description {
+    margin: 6px 0 0;
+    color: #465460;
+    font-size: 0.9em;
+    line-height: 1.65;
+  }
+  .home-page .honor-content .honor-note {
+    margin: 5px 0 0;
+    color: var(--home-muted);
+    font-size: 0.82em;
+    line-height: 1.65;
+  }
+  .home-page .honor-paper {
+    display: inline-block;
+    margin-left: 3px;
+    font-size: 0.92em;
     font-weight: 600;
+    white-space: nowrap;
   }
 
   /* Services */
@@ -421,91 +461,153 @@ redirect_from:
     </ul>
   </section>
 
-  <section class="home-section" aria-labelledby="honors-heading">
-    <h2 id="honors-heading">Honors &amp; Awards</h2>
-
-    <ul class="honors-list">
-      <li class="honor-item honor-featured">
-        <span class="honor-year">2026</span>
-        <span>
-          <a href="https://sigir.org/awards/sigir-ecr-awards/">
-            ACM SIGIR Early Career Researcher Awards
-            (Excellence in Research)
-          </a>
-        </span>
-      </li>
-
-      <li class="honor-item">
-        <span class="honor-year">2025</span>
-        <span>Beijing Youth Talent Support Project</span>
-      </li>
-
-      <li class="honor-item honor-featured">
-        <span class="honor-year">2024</span>
-        <span>
-          <a href="https://2024.emnlp.org/program/best_papers/">
-            EMNLP Best Paper Award
-          </a>
-        </span>
-      </li>
-
-      <li class="honor-item">
-        <span class="honor-year">2024</span>
-        <span>Youth Innovation Promotion Association, CAS</span>
-      </li>
-
-      <li class="honor-item">
-        <span class="honor-year">2024</span>
-        <span>Outstanding Researcher, ICT, CAS</span>
-      </li>
-
-      <li class="honor-item">
-        <span class="honor-year">2022</span>
-        <span>New Hundred Stars Talent Program, ICT, CAS</span>
-      </li>
-
-      <li class="honor-item">
-        <span class="honor-year">2021</span>
-        <span>Outstanding Researcher, ICT, CAS</span>
-      </li>
-
-<li class="honor-item honor-featured">
-  <span class="honor-year">2020</span>
-  <span>
-    <a href="https://www.ccf.org.cn/yxbsxwlwjtm/2021-01-14/721439.shtml">
-      China Computer Federation (CCF) Outstanding Doctoral
-      Dissertation Award Nomination
+<section aria-labelledby="honors-heading" class="home-section">
+ <h2 id="honors-heading">
+  Honors &amp; Awards
+ </h2>
+ <h3 class="honors-group-title">
+  Professional Honors
+ </h3>
+ <ul class="honors-list">
+  <li class="honor-item honor-featured">
+   <span class="honor-year">
+    2026
+   </span>
+   <div class="honor-content">
+    <a class="honor-title" href="https://sigir.org/awards/sigir-ecr-awards/">
+     ACM SIGIR Early Career Researcher Award (for Research)
     </a>
-  </span>
-</li>
-
-      <li class="honor-item">
-        <span class="honor-year">2019</span>
-        <span>President Award of Chinese Academy of Sciences</span>
-      </li>
-
-      <li class="honor-item">
-        <span class="honor-year">2018</span>
-        <span>
-          Special Award of the Director of the Institute of
+    <p class="honor-description">
+     In recognition of outstanding research contributions and leadership
+    in the SIGIR community at an early career stage.
+    </p>
+   </div>
+  </li>
+  <li class="honor-item">
+   <span class="honor-year">
+    2025
+   </span>
+   <div class="honor-content">
+    Beijing Youth Talent Support Project
+   </div>
+  </li>
+  <li class="honor-item honor-featured">
+   <span class="honor-year">
+    2024
+   </span>
+   <div class="honor-content">
+    <a class="honor-title" href="https://2024.emnlp.org/program/best_papers/">
+     EMNLP Best Paper Award
+    </a>
+    <p class="honor-description">
+     For proposing a new dataset and method for black-box detection of
+    pretraining data in large language models.
+     <a class="honor-paper" href="https://aclanthology.org/2024.emnlp-main.300/">
+      [Paper]
+     </a>
+    </p>
+    <p class="honor-note">
+     The second Best Long Paper award in EMNLP history
+      for research led by an institution in mainland China.
+    </p>
+   </div>
+  </li>
+  <li class="honor-item">
+   <span class="honor-year">
+    2024
+   </span>
+   <div class="honor-content">
+    Youth Innovation Promotion Association, CAS
+   </div>
+  </li>
+  <li class="honor-item">
+   <span class="honor-year">
+    2024
+   </span>
+   <div class="honor-content">
+    Outstanding Researcher, ICT, CAS
+   </div>
+  </li>
+  <li class="honor-item">
+   <span class="honor-year">
+    2022
+   </span>
+   <div class="honor-content">
+    New Hundred Stars Talent Program, ICT, CAS
+   </div>
+  </li>
+  <li class="honor-item">
+   <span class="honor-year">
+    2021
+   </span>
+   <div class="honor-content">
+    Outstanding Researcher, ICT, CAS
+   </div>
+  </li>
+ </ul>
+ <h3 class="honors-group-title">
+  Doctoral Honors
+ </h3>
+ <ul class="honors-list">
+  <li class="honor-item honor-featured">
+   <span class="honor-year">
+    2020
+   </span>
+   <div class="honor-content">
+    <a class="honor-title" href="https://www.ccf.org.cn/yxbsxwlwjtm/2021-01-14/721439.shtml">
+     China Computer Federation (CCF) Outstanding Doctoral
+        Dissertation Award Nomination
+    </a>
+    <p class="honor-description">
+     For my Ph.D. thesis,
+     <em>
+      Research on Deep Sequence Model
+    for Text Generation
+     </em>
+     .
+    </p>
+    <p class="honor-note">
+     Established by CCF to recognize outstanding doctoral research in China that advances computer science and addresses theoretical and practical challenges.
+    </p>
+   </div>
+  </li>
+  <li class="honor-item">
+   <span class="honor-year">
+    2019
+   </span>
+   <div class="honor-content">
+    President Award of Chinese Academy of Sciences
+   </div>
+  </li>
+  <li class="honor-item">
+   <span class="honor-year">
+    2018
+   </span>
+   <div class="honor-content">
+    Special Award of the Director of the Institute of
           Computing Technology, CAS
-        </span>
-      </li>
-
-      <li class="honor-item">
-        <span class="honor-year">2018</span>
-        <span>National Scholarship for Doctoral Students</span>
-      </li>
-
-      <li class="honor-item">
-        <span class="honor-year">2018</span>
-        <span>
-          Excellent Paper Award, Chinese Conference on
+   </div>
+  </li>
+  <li class="honor-item">
+   <span class="honor-year">
+    2018
+   </span>
+   <div class="honor-content">
+    National Scholarship for Doctoral Students
+   </div>
+  </li>
+  <li class="honor-item">
+   <span class="honor-year">
+    2018
+   </span>
+   <div class="honor-content">
+    Excellent Paper Award, Chinese Conference on
           Information Retrieval (CCIR 2018)
-        </span>
-      </li>
-    </ul>
-  </section>
+   </div>
+  </li>
+ </ul>
+</section>
+
 
   <section class="home-section" aria-labelledby="services-heading">
     <h2 id="services-heading">Academic Service</h2>
