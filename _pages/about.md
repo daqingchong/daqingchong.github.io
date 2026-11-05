@@ -282,8 +282,8 @@ redirect_from:
 
     <p>
     My research connects information retrieval and autonomous agents, 
-    with the goal of building intelligent systems that acquire useful 
-    information, generate trustworthy answers, and learn from experience.
+    with the goal of building self-evolving intelligent systems that acquire useful 
+    information, generate trustworthy answers, and continually improve their capabilities through experience.
    </p>
 
     <h3>Generative Information Retrieval</h3>
