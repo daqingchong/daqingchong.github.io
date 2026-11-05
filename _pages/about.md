@@ -139,7 +139,7 @@ redirect_from:
     with the goal of building self-evolving intelligent systems that acquire useful 
     information, generate trustworthy answers, and continually improve their capabilities through experience.
    </p>
-<div class="research-grid"><article class="research-card research-card-1"><p class="research-kicker">01 / SEARCH &amp; INFORMATION</p><h3>Generative Information Retrieval</h3>
+<div class="research-grid"><article class="research-card research-card-1"><h3>Generative Information Retrieval</h3>
 <p>
     I study search for agents and agents for search: adapting retrieval 
     to the diverse and evolving information needs of AI agents, and using 
@@ -152,7 +152,7 @@ redirect_from:
 <li>Multimodal Search</li>
 <li>Trustworthy LLM Reasoning</li>
 </ul>
-</article><article class="research-card research-card-2"><p class="research-kicker">02 / LEARNING &amp; DISCOVERY</p><h3>Autonomous Research Agents</h3>
+</article><article class="research-card research-card-2"><h3>Autonomous Research Agents</h3>
 <p>
       More recently, I develop autonomous agents for scientific research 
       that learn from experience, reason and act efficiently over long horizons, 
