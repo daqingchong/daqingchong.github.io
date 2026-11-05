@@ -45,7 +45,7 @@ ByteDance, Toutiao, Ph.D Intern. Beijing, China, Sept. 2017 - Jun. 2018
 </li>
 
 <li>
-Beijing University of Posts and Telecommunications, Department of Computer Science, Undergraduate Student. Beijing, China, Sept. 2010 - Jul. 2014
+Beijing University of Posts and Telecommunications, Undergraduate Student. Beijing, China, Sept. 2010 - Jul. 2014
 </li>
 
 </ul>
