@@ -317,6 +317,15 @@ redirect_from:
         enabling safe and robust operation in real-world scientific environments. 
       </li>
     </ul>
+    <ul class="research-topics" aria-label="Research topics">
+      <li>Recursive Self-Improvement</li>
+      <li>Long-Horizon Planning</li>
+      <li>Agent-Aware Search</li>
+      <li>Experience Mining</li>
+      <li>Agent Safety Evaluation</li>
+    </ul>
+
+
   </section>
 
   <div class="research-summary">
