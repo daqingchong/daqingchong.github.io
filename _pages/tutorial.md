@@ -37,6 +37,7 @@ author_profile: true
 
 .archive > .page__title {
   display: none;
+}
 
 </style>
 
