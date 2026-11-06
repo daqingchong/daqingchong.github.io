@@ -62,23 +62,38 @@ redirect_from:
       in 2014.
     </p>
 </div>
+
+
 <section aria-labelledby="research-heading" class="research-panel home-section">
 <h2 id="research-heading">Research Interests</h2>
 
 <div class="research-grid"><article class="research-card research-card-1"><h3>Generative Information Retrieval</h3>
-<p>I study generative retrieval, multimodal retrieval, agentic search, and retrieval-augmented generation. I am particularly interested in Search for Agents, i.e., modeling the information needs of different autonomous agents; and Agents for Search, i.e., leveraging autonomous agents to advance search.
-</p>
-</article><article class="research-card research-card-2"><h3>Autonomous Research Agents</h3>
-<p>More recently, my research focuses on experience-driven AutoResearch agents, investigating how scientific experience can be distilled, accumulated, retrieved, and reused to support continuous learning and self-evolving scientific discovery.</p>
+<p>My research centers on Generative Information Retrieval, aiming to build intelligent systems that can effectively acquire, synthesize, and leverage information for complex tasks. My work spans generative retrieval, multimodal retrieval, retrieval-augmented generation, and agentic search, with a particular focus on the interplay between search and autonomous agents: Search for Agents, which addresses the diverse information needs of autonomous agents, and Agents for Search, which leverages autonomous agents to advance information retrieval.</p>
+
+</article><article class="research-card research-card-2"><h3>Experience-Driven AutoResearch Agents</h3>
+<p>Building upon this foundation, I am exploring experience-driven AutoResearch agents that learn from past research trajectories and continuously improve their scientific discovery capabilities. My research focuses on how scientific experience can be distilled, accumulated, retrieved, and reused to guide future research, enabling continuous learning and self-evolving scientific intelligence.</p>
 </article></div></section>
-<div class="research-summary"><p>I have authored over <strong>100 peer-reviewed publications</strong>
-      in leading international journals and conferences, including
-      ACM TOIS, SIGIR, WebConf, KDD, NeurIPS, WSDM, ACL, and EMNLP.
-      My research is supported by the National Key Research and
-      Development Program of China, the National Natural Science
-      Foundation of China, the CAS Strategic Priority Research Program,
-      and industry partners including Baidu, Tencent, ByteDance,
-      and Alibaba.</p></div>
+
+
+<div class="research-summary">
+  <p>
+    I have authored over <strong>100 peer-reviewed publications</strong>
+    in journals and conferences including ACM TOIS, SIGIR, WebConf,
+    KDD, NeurIPS, WSDM, ACL, and EMNLP. My work has received the
+    <strong>EMNLP 2024 Best Long Paper Award</strong>, a
+    <strong>NeurIPS 2024 Spotlight</strong>, two Best Paper Finalist
+    recognitions at CCIR 2024 and 2025, and the CCIR 2018 Excellent
+    Paper Award. Three papers were also listed by Paper Digest among
+    the most influential papers at SIGIR and CIKM.
+  </p>
+
+  <p>
+    My research is supported by the National Key R&amp;D Program of China,
+    the National Natural Science Foundation of China, the CAS Strategic
+    Priority Research Program, and industry partners including Baidu,
+    Tencent, ByteDance, and Alibaba.
+  </p>
+</div>
 
 
 <section aria-labelledby="experience-heading" class="home-section">
@@ -102,7 +117,7 @@ redirect_from:
             University of Amsterdam
           </p>
 <p class="experience-detail">
-            Worked with Prof.
+            Supervisor: Prof.
             <a href="https://staff.fnwi.uva.nl/m.derijke/">
               Maarten de Rijke
             </a>
@@ -126,7 +141,7 @@ redirect_from:
             Institute of Computing Technology, Chinese Academy of Sciences
           </p>
 <p class="experience-detail">
-            Advised by Prof.
+            Supervisor: Prof.
             <a href="http://www.ict.cas.cn/sourcedb/cn/jssrck/200909/t20090917_2496654.html">
               Guojie Li
             </a>
