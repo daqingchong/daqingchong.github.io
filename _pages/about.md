@@ -70,7 +70,7 @@ redirect_from:
 <div class="research-grid"><article class="research-card research-card-1"><h3>Generative Information Retrieval</h3>
 <p>I work on generative and multimodal retrieval, retrieval for agents with different information needs, and agentic search. I am also interested in evidence-grounded generation and trustworthy reasoning.</p>
 </article><article class="research-card research-card-2"><h3>Autonomous Research Agents</h3>
-<p>I study agents for scientific research, with an emphasis on learning from past experience, long-term planning, efficient reasoning, and safety evaluation.</p>
+<p>More recectly, I study autoresearch agents for scientific discovery, with an emphasis on learning from past experience, long-horizon planning, efficient reasoning, and safety evaluation.</p>
 </article></div></section>
 <div class="research-summary"><p>I have authored over <strong>100 peer-reviewed publications</strong>
       in leading international journals and conferences, including
