@@ -68,7 +68,7 @@ redirect_from:
 <h2 id="research-heading">Research Interests</h2>
 
 <div class="research-grid"><article class="research-card research-card-1"><h3>Generative Information Retrieval</h3>
-<p>My research centers on Generative Information Retrieval, aiming to build intelligent systems that can effectively acquire, synthesize, and leverage information for complex tasks. My work spans generative retrieval, multimodal retrieval, retrieval-augmented generation, and agentic search, with a particular focus on the interplay between search and autonomous agents: Search for Agents, which addresses the diverse information needs of autonomous agents, and Agents for Search, which leverages autonomous agents to advance information retrieval.</p>
+<p>My research centers on Generative Information Retrieval, aiming to build intelligent systems that can effectively acquire and leverage information for complex tasks. My work spans generative retrieval, retrieval-augmented generation, and agentic search, with a particular focus on the interplay between search and autonomous agents: Search for Agents, which addresses the diverse information needs of autonomous agents, and Agents for Search, which leverages autonomous agents to advance information retrieval.</p>
 
 </article><article class="research-card research-card-2"><h3>Experience-Driven AutoResearch Agents</h3>
 <p>Building upon this foundation, I am exploring experience-driven AutoResearch agents that learn from past research trajectories and continuously improve their scientific discovery capabilities. My research focuses on how scientific experience can be distilled, accumulated, retrieved, and reused to guide future research, enabling continuous learning and self-evolving scientific intelligence.</p>
@@ -77,22 +77,18 @@ redirect_from:
 
 <div class="research-summary">
   <p>
-    I have authored over <strong>100 peer-reviewed publications</strong>
+    I have authored over 100 peer-reviewed publications 
     in journals and conferences including ACM TOIS, SIGIR, WebConf,
     KDD, NeurIPS, WSDM, ACL, and EMNLP. My work has received the
-    <strong>EMNLP 2024 Best Long Paper Award</strong>, a
-    <strong>NeurIPS 2024 Spotlight</strong>, two Best Paper Finalist
+    EMNLP 2024 Best Long Paper Award, a NeurIPS 2024 Spotlight, two Best Paper Finalist
     recognitions at CCIR 2024 and 2025, and the CCIR 2018 Excellent
     Paper Award. Three papers were also listed by Paper Digest among
-    the most influential papers at SIGIR and CIKM.
-  </p>
-
-  <p>
-    My research is supported by the National Key R&amp;D Program of China,
+    the most influential papers at SIGIR and CIKM.   My research is supported by the National Key R&amp;D Program of China,
     the National Natural Science Foundation of China, the CAS Strategic
     Priority Research Program, and industry partners including Baidu,
     Tencent, ByteDance, and Alibaba.
   </p>
+
 </div>
 
 
