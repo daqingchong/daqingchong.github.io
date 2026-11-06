@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "Tutorials"
@@ -34,11 +33,6 @@ author_profile: true
 @media (max-width: 640px) {
   .tutorial-page .tt-item { grid-template-columns: 1fr; gap: 3px; }
 }
-
-.archive > .page__title {
-  display: none;
-}
-
 </style>
 
 <div class="tutorial-page">

@@ -64,14 +64,12 @@ redirect_from:
 </div>
 <section aria-labelledby="research-heading" class="research-panel home-section">
 <h2 id="research-heading">Research Interests</h2>
-<p class="research-lead">My research lies at the intersection of information retrieval and autonomous agents, 
-    aiming to build self-evolving intelligent systems that acquire and synthesize 
-    information, generate reliable knowledge, and continuously improve through experience.</p>
+
 <div class="research-grid"><article class="research-card research-card-1"><h3>Generative Information Retrieval</h3>
 <p>I study generative retrieval, multimodal retrieval, agentic search, and retrieval-augmented generation. I am particularly interested in Search for Agents, i.e., modeling the information needs of different autonomous agents; and Agents for Search, i.e., leveraging autonomous agents to advance search.
 </p>
 </article><article class="research-card research-card-2"><h3>Autonomous Research Agents</h3>
-<p>More recently, I have been exploring experience-driven AutoResearch agents that learn from past research trajectories, accumulate reusable knowledge, and continuously improve their scientific discovery capabilities.</p>
+<p>More recently, my research focuses on experience-driven AutoResearch agents, investigating how scientific experience can be distilled, accumulated, retrieved, and reused to support continuous learning and self-evolving scientific discovery.</p>
 </article></div></section>
 <div class="research-summary"><p>I have authored over <strong>100 peer-reviewed publications</strong>
       in leading international journals and conferences, including
@@ -173,7 +171,7 @@ redirect_from:
 <a class="honor-title" href="https://sigir.org/awards/sigir-ecr-awards/">
      ACM SIGIR Early Career Researcher Award (for Research)
     </a>
-<p class="honor-description">Recognizes outstanding research contributions and leadership in the information retrieval community at an early career stage.</p></div>
+<p class="honor-description"><em>Recognizes outstanding research contributions and leadership in the information retrieval community at an early career stage.</em></p></div>
 </li>
 <li class="honor-item">
 <span class="honor-year">
@@ -191,7 +189,7 @@ redirect_from:
 <a class="honor-title" href="https://2024.emnlp.org/program/best_papers/">
      EMNLP Best Paper Award
     </a>
-<p class="honor-description">For proposing a new dataset and method for black-box detection of pretraining data in large language models. <a class="honor-paper" href="https://aclanthology.org/2024.emnlp-main.300/">
+<p class="honor-description"><em>For proposing a new dataset and method for black-box detection of pretraining data in large language models.</em><a class="honor-paper" href="https://aclanthology.org/2024.emnlp-main.300/">
       [Paper]
      </a></p>
 </div>
