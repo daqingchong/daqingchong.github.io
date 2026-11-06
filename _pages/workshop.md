@@ -63,7 +63,9 @@ author_profile: true
       Yingchen Zhang, Mingwei Zhang, Ming Li, Andy Wang,
       Yinglong Xia, Zhaochun Ren and <strong>Ruqing Zhang</strong>
 </p>
-<p class="ws-invitation">We welcome your participation and contributions.</p>
+<p class="ws-invitation">Join us to explore how autonomous research agents can advance
+  information retrieval and recommender systems.
+  We welcome your participation and contributions!</p>
 
 </article>
 <h2 class="ws-group-title" id="past-workshops">
