@@ -32,11 +32,16 @@ author_profile: true
 .workshop-page .ws-organizers { margin: 0; }
 .workshop-page .ws-invitation,
 .workshop-page .ws-actions { margin: .5em 0 0; }
+
+.archive > .page__title {
+  display: none;
+}
+
 </style>
 
 <div class="workshop-page">
 <h2 class="ws-group-title" id="upcoming-workshops">
-    Upcoming
+    Upcoming Workshop
   </h2>
 <article aria-labelledby="autor2-title" class="ws-featured">
 <div class="ws-topline">
