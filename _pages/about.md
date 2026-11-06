@@ -27,7 +27,7 @@ redirect_from:
 .home-page .experience-item,
 .home-page .honor-item {
   display: grid;
-  grid-template-columns: 155px minmax(0, 1fr);
+  grid-template-columns: 190px minmax(0, 1fr);
   gap: 16px;
   margin-bottom: 1em;
 }
@@ -80,6 +80,8 @@ redirect_from:
       Foundation of China, the CAS Strategic Priority Research Program,
       and industry partners including Baidu, Tencent, ByteDance,
       and Alibaba.</p></div>
+
+
 <section aria-labelledby="experience-heading" class="home-section">
 <h2 id="experience-heading">Experience</h2>
 <ul class="experience-list">
@@ -170,7 +172,7 @@ redirect_from:
 <a class="honor-title" href="https://sigir.org/awards/sigir-ecr-awards/">
      ACM SIGIR Early Career Researcher Award (for Research)
     </a>
-<p class="honor-description">Recognizes research contributions and leadership in the information retrieval community at an early career stage.</p></div>
+<p class="honor-description">Recognizes outstanding research contributions and leadership in the information retrieval community at an early career stage.</p></div>
 </li>
 <li class="honor-item">
 <span class="honor-year">
@@ -188,7 +190,7 @@ redirect_from:
 <a class="honor-title" href="https://2024.emnlp.org/program/best_papers/">
      EMNLP Best Paper Award
     </a>
-<p class="honor-description">For work on black-box detection of pretraining data in large language models. <a class="honor-paper" href="https://aclanthology.org/2024.emnlp-main.300/">
+<p class="honor-description">For proposing a new dataset and method for black-box detection of pretraining data in large language models. <a class="honor-paper" href="https://aclanthology.org/2024.emnlp-main.300/">
       [Paper]
      </a></p>
 </div>
