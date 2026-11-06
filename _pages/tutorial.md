@@ -275,7 +275,7 @@ author_profile: true
           </p>
 
           <div class="tt-footer">
-            <span class="tt-location">Glasgow, Scotland</span>
+            <span class="tt-location">Singapore</span>
             <a class="tt-link"
                href="https://TheWebConf2024-generative-IR.github.io"
                target="_blank" rel="noopener noreferrer"
