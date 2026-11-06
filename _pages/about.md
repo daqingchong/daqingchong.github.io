@@ -64,13 +64,14 @@ redirect_from:
 </div>
 <section aria-labelledby="research-heading" class="research-panel home-section">
 <h2 id="research-heading">Research Interests</h2>
-<p class="research-lead">My research connects information retrieval and autonomous agents, 
-    with the goal of building self-evolving intelligent systems that acquire useful 
-    information, generate trustworthy answers, and continually improve their capabilities.</p>
+<p class="research-lead">My research lies at the intersection of information retrieval and autonomous agents, 
+    aiming to build self-evolving intelligent systems that acquire and synthesize 
+    information, generate reliable knowledge, and continuously improve through experience.</p>
 <div class="research-grid"><article class="research-card research-card-1"><h3>Generative Information Retrieval</h3>
-<p>I work on generative and multimodal retrieval, retrieval for agents with different information needs, and agentic search. I am also interested in evidence-grounded generation and trustworthy reasoning.</p>
+<p>I study generative retrieval, multimodal retrieval, agentic search, and information acquisition for autonomous agents. My research also explores 
+            evidence-grounded generation, robust retrieval, and reliable reasoning.</p>
 </article><article class="research-card research-card-2"><h3>Autonomous Research Agents</h3>
-<p>More recectly, I study autoresearch agents for scientific discovery, with an emphasis on learning from past experience, long-horizon planning, efficient reasoning, and safety evaluation.</p>
+<p>More recently, I study experience-driven AutoResearch agents, focusing on learning from past research trajectories, accumulating and reusing experimental knowledge, and enabling continuous self-improvement for autonomous scientific discovery.</p>
 </article></div></section>
 <div class="research-summary"><p>I have authored over <strong>100 peer-reviewed publications</strong>
       in leading international journals and conferences, including
