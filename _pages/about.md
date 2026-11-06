@@ -47,7 +47,6 @@ redirect_from:
   .home-page .experience-item { grid-template-columns: 1fr; gap: 2px; }
 }
 </style>
-
 <div class="home-page">
 <div class="home-intro">
 <p>
@@ -65,15 +64,22 @@ redirect_from:
 </div>
 <section aria-labelledby="research-heading" class="research-panel home-section">
 <h2 id="research-heading">Research Interests</h2>
-<p class="research-lead">My research focuses on information retrieval and autonomous agents. I study how agents find and use information, and how they learn from experience to improve search and scientific research.</p>
-<div class="research-grid"><article class="research-card research-card-1"><h3>Information Retrieval</h3>
-<p>I work on generative and multimodal retrieval, retrieval for agents with different information needs, and agent-based search. I am also interested in evidence-grounded generation and trustworthy reasoning.</p>
-
+<p class="research-lead">My research connects information retrieval and autonomous agents, 
+    with the goal of building self-evolving intelligent systems that acquire useful 
+    information, generate trustworthy answers, and continually improve their capabilities.</p>
+<div class="research-grid"><article class="research-card research-card-1"><h3>Generative Information Retrieval</h3>
+<p>I work on generative and multimodal retrieval, retrieval for agents with different information needs, and agentic search. I am also interested in evidence-grounded generation and trustworthy reasoning.</p>
 </article><article class="research-card research-card-2"><h3>Autonomous Research Agents</h3>
-<p>I study agents for scientific research, with an emphasis on learning from past experiments, long-term planning, efficient reasoning, and safety evaluation.</p>
-
+<p>I study agents for scientific research, with an emphasis on learning from past experience, long-term planning, efficient reasoning, and safety evaluation.</p>
 </article></div></section>
-<div class="research-summary"><p>My work has appeared in ACM TOIS, SIGIR, WebConf, KDD, NeurIPS, WSDM, ACL, and EMNLP. My research has been supported by the National Key R&amp;D Program of China, the National Natural Science Foundation of China, the CAS Strategic Priority Research Program, and industry partners including Baidu, Tencent, ByteDance, and Alibaba.</p></div>
+<div class="research-summary"><p>I have authored over <strong>100 peer-reviewed publications</strong>
+      in leading international journals and conferences, including
+      ACM TOIS, SIGIR, WebConf, KDD, NeurIPS, WSDM, ACL, and EMNLP.
+      My research is supported by the National Key Research and
+      Development Program of China, the National Natural Science
+      Foundation of China, the CAS Strategic Priority Research Program,
+      and industry partners including Baidu, Tencent, ByteDance,
+      and Alibaba.</p></div>
 <section aria-labelledby="experience-heading" class="home-section">
 <h2 id="experience-heading">Experience</h2>
 <ul class="experience-list">
@@ -84,7 +90,6 @@ redirect_from:
 <p class="experience-institution">
             Institute of Computing Technology, Chinese Academy of Sciences
           </p>
-
 </div>
 </li>
 <li class="experience-item">
@@ -100,8 +105,7 @@ redirect_from:
             <a href="https://staff.fnwi.uva.nl/m.derijke/">
               Maarten de Rijke
             </a>
-            
-          </p>
+</p>
 </div>
 </li>
 <li class="experience-item">
@@ -111,7 +115,6 @@ redirect_from:
 <p class="experience-institution">
             Institute of Computing Technology, Chinese Academy of Sciences
           </p>
-
 </div>
 </li>
 <li class="experience-item">
@@ -130,8 +133,7 @@ redirect_from:
             <a href="https://scholar.google.com/citations?user=nD0I3PUAAAAJ&amp;hl=en">
               Jiafeng Guo
             </a>
-            
-          </p>
+</p>
 </div>
 </li>
 <li class="experience-item">
@@ -139,7 +141,6 @@ redirect_from:
 <div>
 <h3 class="experience-role">Ph.D. Intern</h3>
 <p class="experience-institution">ByteDance, Toutiao</p>
-
 </div>
 </li>
 <li class="experience-item">
@@ -149,7 +150,6 @@ redirect_from:
 <p class="experience-institution">
             Beijing University of Posts and Telecommunications
           </p>
-
 </div>
 </li>
 </ul>
@@ -170,8 +170,7 @@ redirect_from:
 <a class="honor-title" href="https://sigir.org/awards/sigir-ecr-awards/">
      ACM SIGIR Early Career Researcher Award (for Research)
     </a>
-
-</div>
+<p class="honor-description">Recognizes research contributions and leadership in the information retrieval community at an early career stage.</p></div>
 </li>
 <li class="honor-item">
 <span class="honor-year">
@@ -189,10 +188,9 @@ redirect_from:
 <a class="honor-title" href="https://2024.emnlp.org/program/best_papers/">
      EMNLP Best Paper Award
     </a>
-<p class="honor-description"><a class="honor-paper" href="https://aclanthology.org/2024.emnlp-main.300/">
+<p class="honor-description">For work on black-box detection of pretraining data in large language models. <a class="honor-paper" href="https://aclanthology.org/2024.emnlp-main.300/">
       [Paper]
      </a></p>
-
 </div>
 </li>
 <li class="honor-item">
@@ -244,7 +242,6 @@ redirect_from:
 <p class="honor-description">
      For my Ph.D. thesis,
      <em>Research on Deep Sequence Model for Text Generation</em>.</p>
-
 </div>
 </li>
 <li class="honor-item">
