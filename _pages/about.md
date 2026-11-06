@@ -285,17 +285,27 @@ redirect_from:
 <section aria-labelledby="services-heading" class="home-section">
 <h2 id="services-heading">Academic Service</h2>
 <dl class="service-list">
+
+
 <div>
-<dt>Senior Program Committee / Area Chair</dt>
-<dd>SIGIR, ACL, WebConf, AAAI, CIKM</dd>
+<dt>Area Chair / Senior PC Member</dt>
+<dd>SIGIR, ACL, WebConf, AAAI, CIKM, EMNLP</dd>
 </div>
+
 <div>
-<dt>Reviewer</dt>
+<dt>PC Member</dt>
+<dd>ICLR, NeurIPS, KDD, WSDM, EMNLP, CVPR, NAACL, ECIR, etc.</dd>
+</div>
+
+
+<div>
+<dt>Journal Reviewer</dt>
 <dd>
-          TOIS, TKDE, TPAMI, ICLR, NeurIPS, KDD, WebConf,
-          WSDM, EMNLP, CVPR, NAACL, ECIR, etc.
+          TOIS, TKDE, TPAMI, JASIST etc.
         </dd>
 </div>
+
+
 </dl>
 </section>
 </div>
