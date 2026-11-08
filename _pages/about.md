@@ -78,8 +78,8 @@ redirect_from:
 <div class="research-summary">
   <p>
     I have authored over 100 peer-reviewed publications 
-    in journals and conferences including ACM TOIS, SIGIR, WebConf,
-    KDD, NeurIPS, WSDM, ACL, and EMNLP. My work has received the
+    in journals and conferences including ACM TOIS, IEEE TKDE, SIGIR, WebConf,
+    KDD, CVPR, NeurIPS, WSDM, CIKM, ACL, EMNLP, etc. My work has received the
     EMNLP 2024 Best Long Paper Award, a NeurIPS 2024 Spotlight, two Best Paper Finalist
     recognitions at CCIR 2024 and 2025, and the CCIR 2018 Excellent
     Paper Award. Three papers were also listed by Paper Digest among
