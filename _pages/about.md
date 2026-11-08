@@ -82,8 +82,8 @@ redirect_from:
     KDD, CVPR, NeurIPS, WSDM, CIKM, ACL, EMNLP, etc. My work has received the
     EMNLP 2024 Best Long Paper Award, a NeurIPS 2024 Spotlight, two Best Paper Finalist
     recognitions at CCIR 2024 and 2025, and the CCIR 2018 Excellent
-    Paper Award. Three papers were also listed by Paper Digest among
-    the most influential papers at SIGIR and CIKM.   My research is supported by the National Key R&amp;D Program of China,
+    Paper Award. Three papers were also listed among
+    the Most Influential Papers at SIGIR and CIKM (by paper digest).   My research is supported by the National Key R&amp;D Program of China,
     the National Natural Science Foundation of China, the CAS Strategic
     Priority Research Program, and industry partners including Baidu,
     Tencent, ByteDance, and Alibaba.
