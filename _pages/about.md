@@ -71,7 +71,7 @@ redirect_from:
 <p>My research centers on Generative Information Retrieval, aiming to build intelligent systems that can effectively acquire and leverage information for complex tasks. My work spans generative retrieval, retrieval-augmented generation, and agentic search, with a particular focus on the interplay between search and autonomous agents: Search for Agents, which addresses the diverse information needs of autonomous agents, and Agents for Search, which leverages autonomous agents to advance information retrieval.</p>
 
 </article><article class="research-card research-card-2"><h3>Experience-Driven AutoResearch Agents</h3>
-<p>Building upon this foundation, I am exploring experience-driven AutoResearch agents that learn from past research trajectories and continuously improve their scientific discovery capabilities. My research focuses on how scientific experience can be distilled, accumulated, retrieved, and reused to guide future research, enabling continuous learning and self-evolving scientific intelligence.</p>
+<p>More recently, I am exploring experience-driven AutoResearch agents that learn from past research trajectories and continuously improve their scientific discovery capabilities. My research focuses on how scientific experience can be distilled, accumulated, retrieved, and reused to guide future research, enabling continuous learning and self-evolving scientific intelligence.</p>
 </article></div></section>
 
 
